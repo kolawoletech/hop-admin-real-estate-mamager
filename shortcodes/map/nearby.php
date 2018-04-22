@@ -1,0 +1,1 @@
+<h3>Please purchase <a target="_blank" href="https://codecanyon.net/item/real-estate-manager-pro/20482813?ref=WebCodingPlace">pro version</a> to activate this feature.</h3>

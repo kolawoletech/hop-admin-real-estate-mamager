@@ -1,0 +1,3884 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: Real Estate Manager Pro\n"
+"POT-Creation-Date: 2017-12-22 19:51+0500\n"
+"PO-Revision-Date: 2017-12-22 21:44+0500\n"
+"Language-Team: rameez7759@gmail.com\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: rem.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: \n"
+"Language: is\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: classes/hooks.class.php:96
+#, fuzzy
+msgid "New Agent Registered "
+msgstr "New Agent Registered"
+
+#: classes/hooks.class.php:107
+#, fuzzy
+msgid "Registration Successfull "
+msgstr "Skráning tókst vel"
+
+#: classes/hooks.class.php:126
+msgid "Approved "
+msgstr "Samþykkt"
+
+#: classes/hooks.class.php:145
+msgid "Rejected "
+msgstr "Hafnað"
+
+#: classes/hooks.class.php:169
+#, fuzzy
+msgid "Beds"
+msgstr "Rúm"
+
+#: classes/hooks.class.php:174
+msgid "Baths"
+msgstr "Baðherbergi"
+
+#: classes/hooks.class.php:179 classes/setup.class.php:667
+msgid "Area"
+msgstr "Flatarmál% 1 value,% 2 unit symbol (area)"
+
+#: classes/hooks.class.php:359 shortcodes/create-property.php:107
+#: shortcodes/edit-property.php:131
+msgid "Features"
+msgstr "Eiginleikar"
+
+#: classes/hooks.class.php:384
+msgid "Attachments"
+msgstr "Viðhengi"
+
+#: classes/hooks.class.php:416 core.functions.php:533
+msgid "Video"
+msgstr "Myndband"
+
+#: classes/hooks.class.php:435 shortcodes/create-property.php:121
+#: shortcodes/edit-property.php:146 shortcodes/vc-settings.php:653
+msgid "Tags"
+msgstr "Merki"
+
+#: classes/hooks.class.php:463
+#, fuzzy
+msgid "Find on Map"
+msgstr "Finndu á korti"
+
+#: classes/hooks.class.php:532 inc/menu/page-docs.php:8
+#: templates/property/style1.php:53 templates/property/style2.php:18
+#: templates/property/style3.php:19 templates/property/style4.php:14
+#: templates/property/style5.php:20
+msgid "Details"
+msgstr "Upplýsingar"
+
+#: classes/hooks.class.php:626
+msgid "«"
+msgstr "«"
+
+#: classes/hooks.class.php:627
+msgid "»"
+msgstr "»"
+
+#: classes/hooks.class.php:635
+msgid "Tag:"
+msgstr "Merki:"
+
+#: classes/hooks.class.php:654 classes/setup.class.php:448
+#: shortcodes/vc-settings.php:387 shortcodes/vc-settings.php:394
+msgid "Settings"
+msgstr "Stillingar"
+
+#: classes/hooks.class.php:655
+msgid "Request for Customize"
+msgstr ""
+
+#: classes/hooks.class.php:666 shortcodes/vc-settings.php:117
+msgid "Property ID"
+msgstr "Eign Nr"
+
+#: classes/hooks.class.php:667
+msgid "Featured Image"
+msgstr "Aðalmynd"
+
+#: classes/setup.class.php:89
+msgid "Property Information"
+msgstr "@ label"
+
+#: classes/setup.class.php:90
+msgid "Gallery Images"
+msgstr "Myndir í safni"
+
+#: classes/setup.class.php:255
+#, fuzzy
+msgid "Profile Url"
+msgstr "Profile Url"
+
+#: classes/setup.class.php:258
+#, fuzzy
+msgid "Provide custom url for agent profile, write disable to hide info icon"
+msgstr ""
+"Gefðu sérsniðnu vefslóð fyrir umboðsmanni snið, skrifaðu slökkva á að fela "
+"upplýsingar táknið"
+
+#: classes/setup.class.php:261
+msgid "Phone Number"
+msgstr "GSM númer"
+
+#: classes/setup.class.php:266
+msgid "Facebook Profile"
+msgstr "Facebook prófíll"
+
+#: classes/setup.class.php:271
+#, fuzzy
+msgid "Twitter Profile"
+msgstr "Twitter prófíl"
+
+#: classes/setup.class.php:276
+msgid "Google+ Profile"
+msgstr "Google+  prófíll"
+
+#: classes/setup.class.php:281
+msgid "LinkedIn Profile"
+msgstr "LinkedIn prófíll"
+
+#: classes/setup.class.php:286
+#, fuzzy
+msgid "Facebook Page"
+msgstr "Facebook Page"
+
+#: classes/setup.class.php:291
+msgid "Instagram"
+msgstr "Instagram"
+
+#: classes/setup.class.php:296
+msgid "YouTube"
+msgstr "YouTube"
+
+#: classes/setup.class.php:329
+#, fuzzy
+msgid "Attic"
+msgstr "Háaloftinu"
+
+#: classes/setup.class.php:330
+#, fuzzy
+msgid "Gas Heat"
+msgstr "Gashiti"
+
+#: classes/setup.class.php:331
+msgid "Balcony"
+msgstr "Svalir"
+
+#: classes/setup.class.php:332
+#, fuzzy
+msgid "Wine Cellar"
+msgstr "Vín kjallari"
+
+#: classes/setup.class.php:333
+#, fuzzy
+msgid "Basketball Court"
+msgstr "Körfuboltavöllur"
+
+#: classes/setup.class.php:334
+#, fuzzy
+msgid "Trash Compactors"
+msgstr "Ruslvélar"
+
+#: classes/setup.class.php:335
+#, fuzzy
+msgid "Fireplace"
+msgstr "Constellation name (optional)"
+
+#: classes/setup.class.php:336
+#, fuzzy
+msgid "Pool"
+msgstr "Sundlaug"
+
+#: classes/setup.class.php:337
+#, fuzzy
+msgid "Lake View"
+msgstr "Útsýni yfir vatnið"
+
+#: classes/setup.class.php:338
+#, fuzzy
+msgid "Solar Heat"
+msgstr "Sólhiti"
+
+#: classes/setup.class.php:339
+#, fuzzy
+msgid "Separate Shower"
+msgstr "Aðskilið sturta"
+
+#: classes/setup.class.php:340
+#, fuzzy
+msgid "Wet Bar"
+msgstr "Wet Bar"
+
+#: classes/setup.class.php:341
+#, fuzzy
+msgid "Remodeled"
+msgstr "Endurgerð"
+
+#: classes/setup.class.php:342
+#, fuzzy
+msgid "Skylights"
+msgstr "Skylights"
+
+#: classes/setup.class.php:343
+#, fuzzy
+msgid "Stone Surfaces"
+msgstr "Stone yfirborð"
+
+#: classes/setup.class.php:344
+#, fuzzy
+msgid "Golf Course"
+msgstr "Golfvöllur"
+
+#: classes/setup.class.php:345
+#, fuzzy
+msgid "Health Club"
+msgstr "Heilsuklúbbur"
+
+#: classes/setup.class.php:346
+#, fuzzy
+msgid "Backyard"
+msgstr "Bakgarður"
+
+#: classes/setup.class.php:347
+#, fuzzy
+msgid "Pet Allowed"
+msgstr "Gæludýr leyfð"
+
+#: classes/setup.class.php:348
+#, fuzzy
+msgid "Office/Den"
+msgstr "Skrifstofa / Den"
+
+#: classes/setup.class.php:349
+#, fuzzy
+msgid "Laundry"
+msgstr "þvottahús"
+
+#: classes/setup.class.php:362
+msgid "Duplex"
+msgstr "Tvíhliða"
+
+#: classes/setup.class.php:363
+msgid "House"
+msgstr "Loka"
+
+#: classes/setup.class.php:364
+msgid "Office"
+msgstr "Skrifstofa"
+
+#: classes/setup.class.php:365
+#, fuzzy
+msgid "Retail"
+msgstr "Smásala"
+
+#: classes/setup.class.php:366
+#, fuzzy
+msgid "Vila"
+msgstr "Vila"
+
+#: classes/setup.class.php:379
+msgid "Rent"
+msgstr "Til leigu"
+
+#: classes/setup.class.php:380
+msgid "Sell"
+msgstr "Selja"
+
+#: classes/setup.class.php:393
+msgid "Normal"
+msgstr "Hefðbundið"
+
+#: classes/setup.class.php:394
+msgid "Available"
+msgstr "Laus"
+
+#: classes/setup.class.php:395
+msgid "Not Available"
+msgstr "Ekki tiltæk( ur)"
+
+#: classes/setup.class.php:396
+msgid "Sold"
+msgstr "Selt"
+
+#: classes/setup.class.php:397
+#, fuzzy
+msgid "Open House"
+msgstr "Opið hús"
+
+#: classes/setup.class.php:436
+#, fuzzy
+msgid "Email Sent Successfully"
+msgstr "Tölvupóstur hefur verið sendur sendur"
+
+#: classes/setup.class.php:438
+#, fuzzy
+msgid "There is some problem, please try later"
+msgstr "Það er einhver vandamál, vinsamlegast reyndu síðar"
+
+#: classes/setup.class.php:446
+msgid "Agents"
+msgstr "Fulltrúar"
+
+#: classes/setup.class.php:447
+msgid "Custom Fields"
+msgstr "Custom Fields"
+
+#: classes/setup.class.php:449
+#, fuzzy
+msgid "Shortcodes"
+msgstr "Skammstafanir"
+
+#: classes/setup.class.php:519
+#, fuzzy
+msgid "Property Agent"
+msgstr "Fasteignasala"
+
+#: classes/setup.class.php:589 classes/setup.class.php:597
+#, fuzzy
+msgid "Settings Saved"
+msgstr "Stillingar vistaðar!"
+
+#: classes/setup.class.php:599
+#, fuzzy
+msgid "Error, please try again"
+msgstr "Villa kom upp, vinsamlegast reyndu aftur seinna"
+
+#: classes/setup.class.php:619 classes/setup.class.php:622
+#, fuzzy
+msgid "Property updated."
+msgstr "Eign uppfærð."
+
+#: classes/setup.class.php:620
+#, fuzzy
+msgid "Custom field updated."
+msgstr "Sérsniðið reit uppfærð."
+
+#: classes/setup.class.php:621
+msgid "Custom field deleted."
+msgstr "Sérreiti eytt."
+
+#. translators: %s: date and time of the revision
+#: classes/setup.class.php:624
+#, fuzzy, php-format
+msgid "Property restored to revision from %s"
+msgstr "Eign endurheimt til endurskoðunar frá%s"
+
+#: classes/setup.class.php:625
+#, fuzzy
+msgid "Property published."
+msgstr "Eign birt."
+
+#: classes/setup.class.php:626
+#, fuzzy
+msgid "Property saved."
+msgstr "Eignar vistuð."
+
+#: classes/setup.class.php:627
+#, fuzzy
+msgid "Property submitted."
+msgstr "Eignarleyfi."
+
+#: classes/setup.class.php:629
+#, fuzzy, php-format
+msgid "Property scheduled for: <strong>%1$s</strong>."
+msgstr "Eignaráætlun fyrir: <strong>%1$s</strong> ."
+
+#. translators: Publish box date format, see http://php.net/date
+#: classes/setup.class.php:631
+msgid "M j, Y @ G:i"
+msgstr "j. F Y @ H:i"
+
+#: classes/setup.class.php:633
+#, fuzzy
+msgid "Property draft updated."
+msgstr "Property drög uppfærð."
+
+#: classes/setup.class.php:639 inc/admin/register-property.php:16
+#, fuzzy
+msgid "View Property"
+msgstr "Skoða eign"
+
+#: classes/setup.class.php:645
+#, fuzzy
+msgid "Preview Property"
+msgstr "Preview Property"
+
+#: classes/setup.class.php:668
+#, fuzzy
+msgid "Size - "
+msgstr "Stærð"
+
+#: classes/setup.class.php:675
+#, fuzzy
+msgid "Some Area, City"
+msgstr "Sum svæði, borg"
+
+#: classes/setup.class.php:676 shortcodes/create-property.php:22
+#: shortcodes/edit-property.php:36
+msgid "Address"
+msgstr "Heimilisfang"
+
+#: classes/setup.class.php:677
+msgid ""
+"If latitude and longitude fields are blank, this address will be used for "
+"rendering map"
+msgstr ""
+
+#: classes/setup.class.php:685 classes/setup.class.php:686
+msgid "State"
+msgstr "Sýsla"
+
+#: classes/setup.class.php:694
+msgid "Zip Code"
+msgstr "Póstnúmer"
+
+#: classes/setup.class.php:695
+msgid "Zipcode"
+msgstr ""
+
+#: classes/setup.class.php:703 classes/setup.class.php:704
+msgid "City"
+msgstr "Borg"
+
+#: classes/setup.class.php:712 classes/setup.class.php:713
+msgid "Country"
+msgstr "Land"
+
+#: classes/setup.class.php:721
+msgid "Rooms"
+msgstr "Herbergi"
+
+#: classes/setup.class.php:722
+#, fuzzy
+msgid "Number of rooms"
+msgstr "Fjöldi herbergja"
+
+#: classes/setup.class.php:741 classes/widgets/search-properties.php:241
+msgid "Price"
+msgstr "Verð"
+
+#: classes/setup.class.php:742
+msgid "Regular Price of Property"
+msgstr ""
+
+#: classes/setup.class.php:749
+#, fuzzy
+msgid "Sale Price"
+msgstr "Söluverð"
+
+#: classes/setup.class.php:750
+msgid "Sale Price of Property"
+msgstr ""
+
+#: classes/setup.class.php:757 shortcodes/vc-settings.php:195
+msgid "Property Type"
+msgstr "Gerð eignar"
+
+#: classes/setup.class.php:758
+msgid "Choose type of property. You can add your own"
+msgstr ""
+
+#: classes/setup.class.php:758 classes/setup.class.php:767
+#: classes/setup.class.php:776 inc/menu/admin-settings-arr.php:435
+msgid "here"
+msgstr "hér"
+
+#: classes/setup.class.php:766 shortcodes/my-properties.php:11
+msgid "Purpose"
+msgstr "Tilgangur"
+
+#: classes/setup.class.php:767
+msgid "Choose purpose of property. You can add your own"
+msgstr ""
+
+#: classes/setup.class.php:775 classes/widgets/search-properties.php:190
+#: shortcodes/my-properties.php:12
+msgid "Status"
+msgstr "Staða"
+
+#: classes/setup.class.php:776
+msgid "Choose status of property. You can add your own"
+msgstr ""
+
+#: classes/setup.class.php:784 shortcodes/create-property.php:79
+#: shortcodes/edit-property.php:93
+msgid "Bedrooms"
+msgstr "Svefnherbergi"
+
+#: classes/setup.class.php:785
+msgid "Number of bedrooms"
+msgstr "Fjöldi svefnherbergja"
+
+#: classes/setup.class.php:793 shortcodes/create-property.php:76
+#: shortcodes/edit-property.php:90
+msgid "Bathrooms"
+msgstr "Baðherbergi"
+
+#: classes/setup.class.php:794
+msgid "Number of bathrooms"
+msgstr "Fjöldi baðherbergja"
+
+#: classes/setup.class.php:838
+msgid "Property Page Base"
+msgstr ""
+
+#: classes/shortcodes.class.php:82 classes/widgets/search-properties.php:253
+msgid "Search"
+msgstr "Leita"
+
+#: classes/shortcodes.class.php:83
+#, fuzzy
+msgid "More Filters"
+msgstr "& Síur"
+
+#: classes/shortcodes.class.php:851
+#, fuzzy
+msgid "Changes Saved!"
+msgstr "Breytingar vistaðar!"
+
+#: classes/shortcodes.class.php:886 classes/shortcodes.class.php:896
+#, fuzzy
+msgid "Username or Email already exists"
+msgstr "Notandanafn eða netfang er þegar til"
+
+#: classes/shortcodes.class.php:908
+#, fuzzy
+msgid "Registered Successfully, please wait until admin approves."
+msgstr "Skráður með árangri, vinsamlegast bíð þangað til stjórnandi samþykkir."
+
+#: classes/shortcodes.class.php:910
+#, fuzzy
+msgid "Error, please try later"
+msgstr "Villa kom upp, vinsamlegast reyndu aftur seinna"
+
+#: classes/widgets/mortgage-calculator.php:13
+#, fuzzy
+msgid "REM - Mortgage Calculator"
+msgstr "REM - Mortgage Reiknivél"
+
+#: classes/widgets/mortgage-calculator.php:14
+#, fuzzy
+msgid "Displays Mortgage Calculator"
+msgstr "Sýnir Mortgage Reiknivél"
+
+#: classes/widgets/mortgage-calculator.php:41
+#, fuzzy
+msgid "Sale price"
+msgstr "Söluverð"
+
+#: classes/widgets/mortgage-calculator.php:45
+#, fuzzy
+msgid "Down payment"
+msgstr "Útborgun"
+
+#: classes/widgets/mortgage-calculator.php:49
+#, fuzzy
+msgid "Interest Rate"
+msgstr "Vextir"
+
+#: classes/widgets/mortgage-calculator.php:53
+#, fuzzy
+msgid "Term"
+msgstr "Annað"
+
+#: classes/widgets/mortgage-calculator.php:53
+msgid "years"
+msgstr "ár"
+
+#: classes/widgets/mortgage-calculator.php:56
+msgid "Calculate"
+msgstr "Reikna"
+
+#: classes/widgets/mortgage-calculator.php:68
+#: classes/widgets/search-properties.php:271 inc/menu/page-docs.php:5
+#: shortcodes/my-properties.php:8
+msgid "Title"
+msgstr "Titill"
+
+#: classes/widgets/search-properties.php:15
+#, fuzzy
+msgid "REM - Search Property"
+msgstr "REM - Leita eign"
+
+#: classes/widgets/search-properties.php:16
+#, fuzzy
+msgid "Search Properties"
+msgstr "Leitarniðurstöður"
+
+#: classes/widgets/search-properties.php:78 shortcodes/search-property.php:35
+msgid "Keywords"
+msgstr "Leitarorð"
+
+#: classes/widgets/search-properties.php:90 shortcodes/create-property.php:57
+#: shortcodes/edit-property.php:71
+msgid "Any Type"
+msgstr "Allar gerðir"
+
+#: classes/widgets/search-properties.php:107
+#, fuzzy
+msgid "Any Area"
+msgstr "Hvað sem er"
+
+#: classes/widgets/search-properties.php:176 shortcodes/create-property.php:47
+#: shortcodes/edit-property.php:61
+#, fuzzy
+msgid "Any Purpose"
+msgstr "Einhver tilgangur"
+
+#: classes/widgets/search-properties.php:192 shortcodes/create-property.php:67
+#: shortcodes/edit-property.php:81
+msgid "Any Status"
+msgstr "Allar stöður"
+
+#: classes/widgets/search-properties.php:213
+msgid "Any"
+msgstr "Hvað sem er"
+
+#: classes/widgets/search-properties.php:286 shortcodes/vc-settings.php:7
+#, fuzzy
+msgid "Search Field"
+msgstr "Leitarsvæði"
+
+#: classes/widgets/search-properties.php:300 inc/menu/page-docs.php:68
+#, fuzzy
+msgid "Search Results Page"
+msgstr "Leitarniðurstöður"
+
+#: classes/widgets/search-properties.php:321
+#: inc/menu/render-admin-settings.php:123
+#, fuzzy
+msgid "No Pages Found!"
+msgstr "Engar síður fundust!"
+
+#: classes/widgets/search-properties.php:324
+#, fuzzy
+msgid "Paste following shortcode in selected page to display results"
+msgstr "Líma eftir skammstafun á völdum síðu til að birta niðurstöður"
+
+#: core.functions.php:96
+#, fuzzy
+msgid "United Arab Emirates dirham"
+msgstr "Sameinaða arabíska furstadæmið DirhamName"
+
+#: core.functions.php:97
+#, fuzzy
+msgid "Afghan afghani"
+msgstr "Afganskur afghanName"
+
+#: core.functions.php:98
+#, fuzzy
+msgid "Albanian lek"
+msgstr "Albanskt lekName"
+
+#: core.functions.php:99
+#, fuzzy
+msgid "Armenian dram"
+msgstr "Armenskt dramName"
+
+#: core.functions.php:100
+#, fuzzy
+msgid "Netherlands Antillean guilder"
+msgstr "Hollenskt Antillu- gylliniName"
+
+#: core.functions.php:101
+#, fuzzy
+msgid "Angolan kwanza"
+msgstr "Angólskt KwanzaName"
+
+#: core.functions.php:102
+#, fuzzy
+msgid "Argentine peso"
+msgstr "Argentínskur pesóName"
+
+#: core.functions.php:103
+msgid "Australian dollar"
+msgstr "Ástralskur dalur"
+
+#: core.functions.php:104
+#, fuzzy
+msgid "Aruban florin"
+msgstr "Arúbínskt florinName"
+
+#: core.functions.php:105
+#, fuzzy
+msgid "Azerbaijani manat"
+msgstr "Aserbaídsjanskt manatName"
+
+#: core.functions.php:106
+#, fuzzy
+msgid "Bosnia and Herzegovina convertible mark"
+msgstr "Bosníu- Hersegóvínskt útskiptanlegt markName"
+
+#: core.functions.php:107
+#, fuzzy
+msgid "Barbadian dollar"
+msgstr "Barbadíu dalur"
+
+#: core.functions.php:108
+#, fuzzy
+msgid "Bangladeshi taka"
+msgstr "BangladessName"
+
+#: core.functions.php:109
+#, fuzzy
+msgid "Bulgarian lev"
+msgstr "BúlgaríaName"
+
+#: core.functions.php:110
+#, fuzzy
+msgid "Bahraini dinar"
+msgstr "BareinName"
+
+#: core.functions.php:111
+#, fuzzy
+msgid "Burundian franc"
+msgstr "BúrúndíName"
+
+#: core.functions.php:112
+#, fuzzy
+msgid "Bermudian dollar"
+msgstr "Bermúda-dalur"
+
+#: core.functions.php:113
+#, fuzzy
+msgid "Brunei dollar"
+msgstr "Brúnei DarussalamName"
+
+#: core.functions.php:114
+#, fuzzy
+msgid "Bolivian boliviano"
+msgstr "Name"
+
+#: core.functions.php:115
+#, fuzzy
+msgid "Brazilian real"
+msgstr "BrasilíaName"
+
+#: core.functions.php:116
+#, fuzzy
+msgid "Bahamian dollar"
+msgstr "Name"
+
+#: core.functions.php:117
+#, fuzzy
+msgid "Bitcoin"
+msgstr "Bitcoin"
+
+#: core.functions.php:118
+#, fuzzy
+msgid "Bhutanese ngultrum"
+msgstr "Name"
+
+#: core.functions.php:119
+#, fuzzy
+msgid "Botswana pula"
+msgstr "BotsvanaName"
+
+#: core.functions.php:120
+#, fuzzy
+msgid "Belarusian ruble"
+msgstr "Hvíta- RússlandName"
+
+#: core.functions.php:121
+#, fuzzy
+msgid "Belize dollar"
+msgstr "BelísName"
+
+#: core.functions.php:122
+#, fuzzy
+msgid "Canadian dollar"
+msgstr "Kanadískur dollariName"
+
+#: core.functions.php:123
+#, fuzzy
+msgid "Congolese franc"
+msgstr "Name"
+
+#: core.functions.php:124
+#, fuzzy
+msgid "Swiss franc"
+msgstr "Svissneskur frankiName"
+
+#: core.functions.php:125
+#, fuzzy
+msgid "Chilean peso"
+msgstr "Breyta nákvæmni"
+
+#: core.functions.php:126
+#, fuzzy
+msgid "Chinese yuan"
+msgstr "Kínverskt júanName"
+
+#: core.functions.php:127
+#, fuzzy
+msgid "Colombian peso"
+msgstr "Kólumbískur pesóName"
+
+#: core.functions.php:128
+#, fuzzy
+msgid "Costa Rican col&oacute;n"
+msgstr "Costa Rica Colón"
+
+#: core.functions.php:129
+#, fuzzy
+msgid "Cuban convertible peso"
+msgstr "Kúbanskur umbreytanlegur pesóName"
+
+#: core.functions.php:130
+#, fuzzy
+msgid "Cuban peso"
+msgstr "Breyta nákvæmni"
+
+#: core.functions.php:131
+#, fuzzy
+msgid "Cape Verdean escudo"
+msgstr "Cape Verdean escudo"
+
+#: core.functions.php:132
+#, fuzzy
+msgid "Czech koruna"
+msgstr "Tékknesk korúnaName"
+
+#: core.functions.php:133
+#, fuzzy
+msgid "Djiboutian franc"
+msgstr "Djiboutian franc"
+
+#: core.functions.php:134
+msgid "Danish krone"
+msgstr "Dönsk króna"
+
+#: core.functions.php:135
+#, fuzzy
+msgid "Dominican peso"
+msgstr "DóminíkaName"
+
+#: core.functions.php:136
+#, fuzzy
+msgid "Algerian dinar"
+msgstr "Alsírskur dínarName"
+
+#: core.functions.php:137
+#, fuzzy
+msgid "Egyptian pound"
+msgstr "Egypskt pundName"
+
+#: core.functions.php:138
+#, fuzzy
+msgid "Eritrean nakfa"
+msgstr "ErítreaName"
+
+#: core.functions.php:139
+#, fuzzy
+msgid "Ethiopian birr"
+msgstr "EþíópíaName"
+
+#: core.functions.php:140
+msgid "Euro"
+msgstr "EvraName"
+
+#: core.functions.php:141
+#, fuzzy
+msgid "Fijian dollar"
+msgstr "Fidjí- dollariName"
+
+#: core.functions.php:142
+#, fuzzy
+msgid "Falkland Islands pound"
+msgstr "FalklandseyjapundName"
+
+#: core.functions.php:143
+#, fuzzy
+msgid "Pound sterling"
+msgstr "undirstrikun"
+
+#: core.functions.php:144
+#, fuzzy
+msgid "Georgian lari"
+msgstr "Georgískt laríName"
+
+#: core.functions.php:145
+#, fuzzy
+msgid "Guernsey pound"
+msgstr "Guernsey pund"
+
+#: core.functions.php:146
+#, fuzzy
+msgid "Ghana cedi"
+msgstr "GanaName"
+
+#: core.functions.php:147
+#, fuzzy
+msgid "Gibraltar pound"
+msgstr "GíbraltarpundName"
+
+#: core.functions.php:148
+#, fuzzy
+msgid "Gambian dalasi"
+msgstr "GambíaName"
+
+#: core.functions.php:149
+#, fuzzy
+msgid "Guinean franc"
+msgstr "GíneaName"
+
+#: core.functions.php:150
+#, fuzzy
+msgid "Guatemalan quetzal"
+msgstr "GvatemalaName"
+
+#: core.functions.php:151
+#, fuzzy
+msgid "Guyanese dollar"
+msgstr "Name"
+
+#: core.functions.php:152
+#, fuzzy
+msgid "Hong Kong dollar"
+msgstr "Hong- kong dollariName"
+
+#: core.functions.php:153
+#, fuzzy
+msgid "Honduran lempira"
+msgstr "Name"
+
+#: core.functions.php:154
+#, fuzzy
+msgid "Croatian kuna"
+msgstr "Króatísk krunaName"
+
+#: core.functions.php:155
+#, fuzzy
+msgid "Haitian gourde"
+msgstr "Name"
+
+#: core.functions.php:156
+#, fuzzy
+msgid "Hungarian forint"
+msgstr "Ungversk forintaName"
+
+#: core.functions.php:157
+#, fuzzy
+msgid "Indonesian rupiah"
+msgstr "Indónesísk rúpíaName"
+
+#: core.functions.php:158
+#, fuzzy
+msgid "Israeli new shekel"
+msgstr "Ísraels nýr sikla"
+
+#: core.functions.php:159
+#, fuzzy
+msgid "Manx pound"
+msgstr "Manx pund"
+
+#: core.functions.php:160
+#, fuzzy
+msgid "Indian rupee"
+msgstr "Indversk rúpíaName"
+
+#: core.functions.php:161
+#, fuzzy
+msgid "Iraqi dinar"
+msgstr "Íraskur dínarName"
+
+#: core.functions.php:162
+#, fuzzy
+msgid "Iranian rial"
+msgstr "Íranskur ríalName"
+
+#: core.functions.php:163
+#, fuzzy
+msgid "Icelandic kr&oacute;na"
+msgstr "Íslenskar krónur"
+
+#: core.functions.php:164
+#, fuzzy
+msgid "Jersey pound"
+msgstr "Jersey pund"
+
+#: core.functions.php:165
+#, fuzzy
+msgid "Jamaican dollar"
+msgstr "JamaíkudollariName"
+
+#: core.functions.php:166
+#, fuzzy
+msgid "Jordanian dinar"
+msgstr "Jórdanskur dínarName"
+
+#: core.functions.php:167
+#, fuzzy
+msgid "Japanese yen"
+msgstr "Japanskt yenName"
+
+#: core.functions.php:168
+#, fuzzy
+msgid "Kenyan shilling"
+msgstr "Kenískur skildingurName"
+
+#: core.functions.php:169
+#, fuzzy
+msgid "Kyrgyzstani som"
+msgstr "KirgisistanName"
+
+#: core.functions.php:170
+#, fuzzy
+msgid "Cambodian riel"
+msgstr "KambódíaName"
+
+#: core.functions.php:171
+#, fuzzy
+msgid "Comorian franc"
+msgstr "Name"
+
+#: core.functions.php:172
+#, fuzzy
+msgid "North Korean won"
+msgstr "Norður- KóreaName"
+
+#: core.functions.php:173
+#, fuzzy
+msgid "South Korean won"
+msgstr "Suður- KóreaName"
+
+#: core.functions.php:174
+#, fuzzy
+msgid "Kuwaiti dinar"
+msgstr "KúveitName"
+
+#: core.functions.php:175
+#, fuzzy
+msgid "Cayman Islands dollar"
+msgstr "CaymaneyjadollariName"
+
+#: core.functions.php:176
+#, fuzzy
+msgid "Kazakhstani tenge"
+msgstr "KasakstanName"
+
+#: core.functions.php:177
+#, fuzzy
+msgid "Lao kip"
+msgstr "FerðavélName"
+
+#: core.functions.php:178
+#, fuzzy
+msgid "Lebanese pound"
+msgstr "LíbanonName"
+
+#: core.functions.php:179
+#, fuzzy
+msgid "Sri Lankan rupee"
+msgstr "Srí LankaName"
+
+#: core.functions.php:180
+#, fuzzy
+msgid "Liberian dollar"
+msgstr "LíberíudollariName"
+
+#: core.functions.php:181
+#, fuzzy
+msgid "Lesotho loti"
+msgstr "LesótóName"
+
+#: core.functions.php:182
+#, fuzzy
+msgid "Libyan dinar"
+msgstr "Líbískur dínarName"
+
+#: core.functions.php:183
+#, fuzzy
+msgid "Moroccan dirham"
+msgstr "Name"
+
+#: core.functions.php:184
+#, fuzzy
+msgid "Moldovan leu"
+msgstr "MoldóvaName"
+
+#: core.functions.php:185
+#, fuzzy
+msgid "Malagasy ariary"
+msgstr "MadagaskarName"
+
+#: core.functions.php:186
+#, fuzzy
+msgid "Macedonian denar"
+msgstr "MakedóníaName"
+
+#: core.functions.php:187
+#, fuzzy
+msgid "Burmese kyat"
+msgstr "Burmese kyat"
+
+#: core.functions.php:188
+#, fuzzy
+msgid "Mongolian t&ouml;gr&ouml;g"
+msgstr "Mongólska tögrög"
+
+#: core.functions.php:189
+#, fuzzy
+msgid "Macanese pataca"
+msgstr "Name"
+
+#: core.functions.php:190
+#, fuzzy
+msgid "Mauritanian ouguiya"
+msgstr "MáritaníaName"
+
+#: core.functions.php:191
+#, fuzzy
+msgid "Mauritian rupee"
+msgstr "Mauritian rúpía"
+
+#: core.functions.php:192
+#, fuzzy
+msgid "Maldivian rufiyaa"
+msgstr "Name"
+
+#: core.functions.php:193
+#, fuzzy
+msgid "Malawian kwacha"
+msgstr "Name"
+
+#: core.functions.php:194
+#, fuzzy
+msgid "Mexican peso"
+msgstr "Mexíkanskur pesóName"
+
+#: core.functions.php:195
+#, fuzzy
+msgid "Malaysian ringgit"
+msgstr "MalasíaName"
+
+#: core.functions.php:196
+#, fuzzy
+msgid "Mozambican metical"
+msgstr "Name"
+
+#: core.functions.php:197
+#, fuzzy
+msgid "Namibian dollar"
+msgstr "NamibíudollariName"
+
+#: core.functions.php:198
+#, fuzzy
+msgid "Nigerian naira"
+msgstr "NígeríaName"
+
+#: core.functions.php:199
+#, fuzzy
+msgid "Nicaraguan c&oacute;rdoba"
+msgstr "Níkaragva Cordoba"
+
+#: core.functions.php:200
+msgid "Norwegian krone"
+msgstr "Norsk króna"
+
+#: core.functions.php:201
+#, fuzzy
+msgid "Nepalese rupee"
+msgstr "Nepölsk rúpíaName"
+
+#: core.functions.php:202
+#, fuzzy
+msgid "New Zealand dollar"
+msgstr "Nýsjálenskur dollariName"
+
+#: core.functions.php:203
+#, fuzzy
+msgid "Omani rial"
+msgstr "Name"
+
+#: core.functions.php:204
+#, fuzzy
+msgid "Panamanian balboa"
+msgstr "Name"
+
+#: core.functions.php:205
+#, fuzzy
+msgid "Peruvian nuevo sol"
+msgstr "Name"
+
+#: core.functions.php:206
+#, fuzzy
+msgid "Papua New Guinean kina"
+msgstr "Papúa Nýja- GíneaName"
+
+#: core.functions.php:207
+#, fuzzy
+msgid "Philippine peso"
+msgstr "Filippínskur pesóName"
+
+#: core.functions.php:208
+#, fuzzy
+msgid "Pakistani rupee"
+msgstr "Pakistanska rúpían"
+
+#: core.functions.php:209
+#, fuzzy
+msgid "Polish z&#x142;oty"
+msgstr "Pólska złoty"
+
+#: core.functions.php:210
+#, fuzzy
+msgid "Transnistrian ruble"
+msgstr "Transnistrian rúbla"
+
+#: core.functions.php:211
+msgid "Paraguayan guaran&iacute;"
+msgstr "Paraguayan guaran&iacute;"
+
+#: core.functions.php:212
+#, fuzzy
+msgid "Qatari riyal"
+msgstr "Name"
+
+#: core.functions.php:213
+#, fuzzy
+msgid "Romanian leu"
+msgstr "RúmeníaName"
+
+#: core.functions.php:214
+#, fuzzy
+msgid "Serbian dinar"
+msgstr "Serbneskur dínarName"
+
+#: core.functions.php:215
+#, fuzzy
+msgid "Russian ruble"
+msgstr "Rússnesk rúblaName"
+
+#: core.functions.php:216
+#, fuzzy
+msgid "Rwandan franc"
+msgstr "RúandafrankiName"
+
+#: core.functions.php:217
+#, fuzzy
+msgid "Saudi riyal"
+msgstr "Sádi- Arabískur ríalName"
+
+#: core.functions.php:218
+#, fuzzy
+msgid "Solomon Islands dollar"
+msgstr "SalómonseyjadollariName"
+
+#: core.functions.php:219
+#, fuzzy
+msgid "Seychellois rupee"
+msgstr "Seychelles- eyjarName"
+
+#: core.functions.php:220
+#, fuzzy
+msgid "Sudanese pound"
+msgstr "Name"
+
+#: core.functions.php:221
+msgid "Swedish krona"
+msgstr "Sænsk króna"
+
+#: core.functions.php:222
+#, fuzzy
+msgid "Singapore dollar"
+msgstr "SingapúrName"
+
+#: core.functions.php:223
+#, fuzzy
+msgid "Saint Helena pound"
+msgstr "Sankti HelenaName"
+
+#: core.functions.php:224
+#, fuzzy
+msgid "Sierra Leonean leone"
+msgstr "Síerra LeóneName"
+
+#: core.functions.php:225
+#, fuzzy
+msgid "Somali shilling"
+msgstr "Name"
+
+#: core.functions.php:226
+#, fuzzy
+msgid "Surinamese dollar"
+msgstr "SúrínamdollariName"
+
+#: core.functions.php:227
+#, fuzzy
+msgid "South Sudanese pound"
+msgstr "Suður-Sudanese pund"
+
+#: core.functions.php:228
+#, fuzzy
+msgid "S&atilde;o Tom&eacute; and Pr&iacute;ncipe dobra"
+msgstr "São Tomé og Príncipe dobra"
+
+#: core.functions.php:229
+#, fuzzy
+msgid "Syrian pound"
+msgstr "Sýrlenskt pundName"
+
+#: core.functions.php:230
+#, fuzzy
+msgid "Swazi lilangeni"
+msgstr "SvasílandName"
+
+#: core.functions.php:231
+#, fuzzy
+msgid "Thai baht"
+msgstr "Tælenskt bahtName"
+
+#: core.functions.php:232
+#, fuzzy
+msgid "Tajikistani somoni"
+msgstr "TadsjikistanName"
+
+#: core.functions.php:233
+#, fuzzy
+msgid "Turkmenistan manat"
+msgstr "Túrkmenistan manat"
+
+#: core.functions.php:234
+#, fuzzy
+msgid "Tunisian dinar"
+msgstr "Túnískur dínarName"
+
+#: core.functions.php:235
+#, fuzzy
+msgid "Tongan pa&#x2bb;anga"
+msgstr "Tongan Pa'anga"
+
+#: core.functions.php:236
+#, fuzzy
+msgid "Turkish lira"
+msgstr "Tyrknesk líraName"
+
+#: core.functions.php:237
+#, fuzzy
+msgid "Trinidad and Tobago dollar"
+msgstr "Trínidad og TóbagóName"
+
+#: core.functions.php:238
+#, fuzzy
+msgid "New Taiwan dollar"
+msgstr "Nýr tævanskur dollariName"
+
+#: core.functions.php:239
+#, fuzzy
+msgid "Tanzanian shilling"
+msgstr "Name"
+
+#: core.functions.php:240
+#, fuzzy
+msgid "Ukrainian hryvnia"
+msgstr "Name"
+
+#: core.functions.php:241
+#, fuzzy
+msgid "Ugandan shilling"
+msgstr "Name"
+
+#: core.functions.php:242
+#, fuzzy
+msgid "United States dollar"
+msgstr "BandaríkjadollariName"
+
+#: core.functions.php:243
+#, fuzzy
+msgid "Uruguayan peso"
+msgstr "Úrúgvæskur pesóName"
+
+#: core.functions.php:244
+#, fuzzy
+msgid "Uzbekistani som"
+msgstr "Uzbekistani som"
+
+#: core.functions.php:245
+#, fuzzy
+msgid "Venezuelan bol&iacute;var"
+msgstr "Venezuelan bolívar"
+
+#: core.functions.php:246
+#, fuzzy
+msgid "Vietnamese &#x111;&#x1ed3;ng"
+msgstr "Víetnamska đồng"
+
+#: core.functions.php:247
+#, fuzzy
+msgid "Vanuatu vatu"
+msgstr "VanúatúName"
+
+#: core.functions.php:248
+msgid "Samoan t&#x101;l&#x101;"
+msgstr "Samoan t&#x101;l&#x101;"
+
+#: core.functions.php:249
+#, fuzzy
+msgid "Central African CFA franc"
+msgstr "Mið- Afríkulýðveldis CFA frankiName"
+
+#: core.functions.php:250
+#, fuzzy
+msgid "East Caribbean dollar"
+msgstr "Austur- karíbahafsdollariName"
+
+#: core.functions.php:251
+#, fuzzy
+msgid "West African CFA franc"
+msgstr "Vestur- afrískur CFA frankiName"
+
+#: core.functions.php:252
+#, fuzzy
+msgid "CFP franc"
+msgstr "CFP frankiName"
+
+#: core.functions.php:253
+#, fuzzy
+msgid "Yemeni rial"
+msgstr "Jemenskur ríalName"
+
+#: core.functions.php:254
+#, fuzzy
+msgid "South African rand"
+msgstr "Suður- afrískt randName"
+
+#: core.functions.php:255
+#, fuzzy
+msgid "Zambian kwacha"
+msgstr "Sambískt kwachaName"
+
+#: core.functions.php:529
+msgid "General Settings"
+msgstr "Almennar stillingar"
+
+#: core.functions.php:530
+#, fuzzy
+msgid "Internal Structure"
+msgstr "Innri uppbygging"
+
+#: core.functions.php:531 inc/menu/admin-settings-arr.php:87
+msgid "Property Features"
+msgstr "Eiginleikar eignar"
+
+#: core.functions.php:532 inc/admin/single-property-fields.php:35
+#, fuzzy
+msgid "File Attachments"
+msgstr "Skrá Viðhengi"
+
+#: inc/admin/property-images-metabox.php:3
+msgid "Upload Images"
+msgstr "Hlaða upp myndum"
+
+#: inc/admin/register-property.php:3 shortcodes/vc-settings.php:17
+#: shortcodes/vc-settings.php:38 shortcodes/vc-settings.php:53
+#: shortcodes/vc-settings.php:80 shortcodes/vc-settings.php:95
+#: shortcodes/vc-settings.php:110 shortcodes/vc-settings.php:125
+#: shortcodes/vc-settings.php:234 shortcodes/vc-settings.php:249
+#: shortcodes/vc-settings.php:265 shortcodes/vc-settings.php:273
+#: shortcodes/vc-settings.php:534 shortcodes/vc-settings.php:599
+#, fuzzy
+msgid "Real Estate Manager"
+msgstr "Fasteignasala"
+
+#: inc/admin/register-property.php:6 inc/admin/register-property.php:10
+#: inc/admin/register-property.php:22 inc/menu/page-agents.php:63
+msgid "Properties"
+msgstr "Eignir"
+
+#: inc/admin/register-property.php:11
+msgid "Property"
+msgstr "Eign"
+
+#: inc/admin/register-property.php:12
+msgctxt "real-estate-manager"
+msgid "Add New Property"
+msgstr "Bæta við Eign"
+
+#: inc/admin/register-property.php:13
+msgid "Add New Property"
+msgstr "Bæta við Eign"
+
+#: inc/admin/register-property.php:14 shortcodes/vc-settings.php:93
+#, fuzzy
+msgid "Edit Property"
+msgstr "Breyta eignum"
+
+#: inc/admin/register-property.php:15
+msgid "New Property"
+msgstr "Eiginleiki@ label: textbox"
+
+#: inc/admin/register-property.php:17 shortcodes/vc-settings.php:532
+#, fuzzy
+msgid "Search Property"
+msgstr "Leita eign"
+
+#: inc/admin/register-property.php:18
+#, fuzzy
+msgid "No Property found"
+msgstr "Engin eign fundust"
+
+#: inc/admin/register-property.php:19
+#, fuzzy
+msgid "No Property found in Trash"
+msgstr "Engin eign í ruslið"
+
+#: inc/admin/register-property.php:20
+#, fuzzy
+msgid "Parent Property:"
+msgstr "Foreldraeign:"
+
+#: inc/admin/register-property.php:70
+#, fuzzy
+msgctxt "Property Tags"
+msgid "Property Tags"
+msgstr "Eignarmerki"
+
+#: inc/admin/register-property.php:71
+msgctxt "Tags"
+msgid "Tag"
+msgstr "Merki"
+
+#: inc/admin/register-property.php:72
+#, fuzzy
+msgid "Search Property Tags"
+msgstr "Leita að fasteignum"
+
+#: inc/admin/register-property.php:73
+#, fuzzy
+msgid "Popular Tags"
+msgstr "Popular Tags"
+
+#: inc/admin/register-property.php:74
+msgid "All Tags"
+msgstr "Öll merki"
+
+#: inc/admin/register-property.php:75 inc/admin/register-property.php:76
+#, fuzzy
+msgid "Parent Tag"
+msgstr "Móðurmerki"
+
+#: inc/admin/register-property.php:77
+msgid "Edit Tag"
+msgstr "Breyta merki"
+
+#: inc/admin/register-property.php:78
+#, fuzzy
+msgid "Update Tag"
+msgstr "Uppfæra merkið"
+
+#: inc/admin/register-property.php:79
+#, fuzzy
+msgid "Add New Tag"
+msgstr "Bæta við nýju merki..."
+
+#: inc/admin/register-property.php:80
+#, fuzzy
+msgid "New Tag Name"
+msgstr "Nýtt heiti"
+
+#: inc/admin/register-property.php:81
+#, fuzzy
+msgid "Add or remove Tags"
+msgstr "Bæta eða breyta"
+
+#: inc/admin/register-property.php:82
+#, fuzzy
+msgid "Choose from most used tags"
+msgstr "Veldu úr mestu notuðum merkjum"
+
+#: inc/admin/register-property.php:83
+#, fuzzy
+msgid " Tags"
+msgstr "Merki"
+
+#: inc/admin/single-property-fields.php:11
+msgid "Latitude"
+msgstr "Breiddargráða"
+
+#: inc/admin/single-property-fields.php:12
+msgid "Latitude of property, will use for map"
+msgstr ""
+
+#: inc/admin/single-property-fields.php:19
+msgid "Longitude"
+msgstr "Lengdargráða"
+
+#: inc/admin/single-property-fields.php:20
+msgid "Longitude of property, will use for map"
+msgstr ""
+
+#: inc/admin/single-property-fields.php:27
+msgid "Video URL"
+msgstr "Myndband URL"
+
+#: inc/admin/single-property-fields.php:28
+#, fuzzy
+msgid "Provide video URL"
+msgstr "Gefðu myndskeiðslóð"
+
+#: inc/admin/single-property-fields.php:36
+msgid "One file ID per line"
+msgstr ""
+
+#: inc/admin/single-property-fields.php:43
+#, fuzzy
+msgid "After Price"
+msgstr "Eftir verð"
+
+#: inc/admin/single-property-fields.php:44
+#, fuzzy
+msgid "Text to display after price, Eg: / Month"
+msgstr "Texti til að birta eftir verð, td: / Mánuður"
+
+#: inc/admin/single-property-fields.php:69
+#, fuzzy
+msgid "Check if property have this option"
+msgstr "Athugaðu hvort eignir hafa þennan möguleika"
+
+#: inc/admin/single-property-fields.php:96
+msgid "Upload"
+msgstr "Hlaða inn"
+
+#: inc/admin/single-property-fields.php:114
+msgid "NO"
+msgstr "NO"
+
+#: inc/admin/single-property-fields.php:114
+msgid "YES"
+msgstr "JÁ"
+
+#: inc/ajax/search-property-ajax.php:97 shortcodes/vc-settings.php:263
+msgid "Search Results"
+msgstr "Leitarniðurstöður"
+
+#: inc/ajax/search-property-ajax.php:118 shortcodes/search-results.php:99
+#, fuzzy
+msgid "Sorry! No Properties Found. Try Searching Again."
+msgstr "Því miður! Engar eignir fundust. Prófaðu að leita aftur."
+
+#: inc/menu/admin-settings-arr.php:6
+#, fuzzy
+msgid "Currency Options"
+msgstr "Gjaldmiðill Valkostir"
+
+#: inc/menu/admin-settings-arr.php:13
+msgid "Currency"
+msgstr "Gjaldmiðill"
+
+#: inc/menu/admin-settings-arr.php:14
+#, fuzzy
+msgid "Currency Symbol for Properties"
+msgstr "Gjaldmiðill tákn fyrir eignir"
+
+#: inc/menu/admin-settings-arr.php:21
+#, fuzzy
+msgid "Currency Position"
+msgstr "Staðsetning gjaldmiðilstákns"
+
+#: inc/menu/admin-settings-arr.php:23
+msgid "Left"
+msgstr "Vinstri"
+
+#: inc/menu/admin-settings-arr.php:24
+msgid "Right"
+msgstr "Hægri"
+
+#: inc/menu/admin-settings-arr.php:25
+#, fuzzy
+msgid "Left with Space"
+msgstr "Vinstri með geimnum"
+
+#: inc/menu/admin-settings-arr.php:26
+#, fuzzy
+msgid "Right with Space"
+msgstr "Hægri með geimnum"
+
+#: inc/menu/admin-settings-arr.php:28
+#, fuzzy
+msgid "Position of the Currency Symbol"
+msgstr "Staða gjaldmiðils táknið"
+
+#: inc/menu/admin-settings-arr.php:34
+#, fuzzy
+msgid "Thousand Separator"
+msgstr "Þúsund aðskilinn"
+
+#: inc/menu/admin-settings-arr.php:35
+#, fuzzy
+msgid "Thousand separator of display price"
+msgstr "Þúsund aðskilinn sýningskostnaður"
+
+#: inc/menu/admin-settings-arr.php:42
+#, fuzzy
+msgid "Decimal Separator"
+msgstr "Decimal skiljari"
+
+#: inc/menu/admin-settings-arr.php:43
+#, fuzzy
+msgid "Decimal separator of display price"
+msgstr "Decimal skiljari sýna verð"
+
+#: inc/menu/admin-settings-arr.php:50
+#, fuzzy
+msgid "Number of Decimals"
+msgstr "Fjöldi decimals"
+
+#: inc/menu/admin-settings-arr.php:51
+#, fuzzy
+msgid "Number of decimal points shown in display price"
+msgstr "Fjöldi tugabila sem sýnt er á skjáverði"
+
+#: inc/menu/admin-settings-arr.php:59
+#, fuzzy
+msgid "Property Settings"
+msgstr "Kortastillingar eignar"
+
+#: inc/menu/admin-settings-arr.php:66
+#, fuzzy
+msgid "Properties Per Page"
+msgstr "Eignir per síðu:"
+
+#: inc/menu/admin-settings-arr.php:67
+#, fuzzy
+msgid ""
+"Number of properties you want to display on search results and archive pages."
+msgstr "Fjöldi eigna sem þú vilt birta á leitarniðurstöðum og skjalasafni."
+
+#: inc/menu/admin-settings-arr.php:73
+#, fuzzy
+msgid "Area Unit"
+msgstr "Svæði eining"
+
+#: inc/menu/admin-settings-arr.php:74
+#, fuzzy
+msgid "Provide unit of area Eg: Square Feet"
+msgstr "Veita einingarsvæði td: fermetra fætur"
+
+#: inc/menu/admin-settings-arr.php:80
+msgid "Excerpt Length"
+msgstr "Lengd útdráttar"
+
+#: inc/menu/admin-settings-arr.php:81
+#, fuzzy
+msgid "Number of words to be displayed from the property excerpt. Eg: 15"
+msgstr "Fjöldi orða sem birtast á eignarútgáfu. Td: 15"
+
+#: inc/menu/admin-settings-arr.php:88
+#, fuzzy
+msgid ""
+"One per line. This will add checkboxes to your property edit page for you to "
+"select. Leave blank to use default"
+msgstr ""
+"Einn á línunni. Þetta mun bæta við gátreitum á eignarbreytingarsíðuna þína "
+"til að velja. Leyfi tómt til að nota sjálfgefið"
+
+#: inc/menu/admin-settings-arr.php:94
+#, fuzzy
+msgid "Property Types"
+msgstr "Tegundir fasteigna"
+
+#: inc/menu/admin-settings-arr.php:95
+#, fuzzy
+msgid ""
+"One per line. This will add property types to select from when entering "
+"properties. Leave blank to use default"
+msgstr ""
+"Einn á línunni. Þetta mun bæta við eignategundum til að velja úr þegar "
+"eigandi er slegið inn. Leyfi tómt til að nota sjálfgefið"
+
+#: inc/menu/admin-settings-arr.php:101
+#, fuzzy
+msgid "Property Purposes"
+msgstr "Eiginleikar eigna"
+
+#: inc/menu/admin-settings-arr.php:102
+#, fuzzy
+msgid ""
+"One per line. This will add property purposes to select from when entering "
+"properties. Leave blank to use default"
+msgstr ""
+"Einn á línunni. Þetta mun bæta eignar tilgangi til að velja frá þegar þú "
+"slærð inn eignir. Leyfi tómt til að nota sjálfgefið"
+
+#: inc/menu/admin-settings-arr.php:108
+#, fuzzy
+msgid "Property Statuses"
+msgstr "Eignastýringar"
+
+#: inc/menu/admin-settings-arr.php:109
+#, fuzzy
+msgid ""
+"One per line. This will add property status to select from when entering "
+"properties. Leave blank to use default"
+msgstr ""
+"Einn á línunni. Þetta bætir við eignarstöðu til að velja úr þegar þú slærð "
+"inn eignir. Leyfi tómt til að nota sjálfgefið"
+
+#: inc/menu/admin-settings-arr.php:118
+#, fuzzy
+msgid "Templates Settings"
+msgstr "Sniðmát Stillingar"
+
+#: inc/menu/admin-settings-arr.php:124
+#, fuzzy
+msgid "Property Page Template"
+msgstr "Property Page Template"
+
+#: inc/menu/admin-settings-arr.php:125
+#, fuzzy
+msgid "Choose single property display layout"
+msgstr "Veldu einn fasteignaskjáskiptingu"
+
+#: inc/menu/admin-settings-arr.php:127
+msgid "Default"
+msgstr "Sjálfgefið"
+
+#: inc/menu/admin-settings-arr.php:128
+#, fuzzy
+msgid "Full Width"
+msgstr "Fullur breidd"
+
+#: inc/menu/admin-settings-arr.php:129
+msgid "Left Sidebar"
+msgstr "Vinstri hliðarstika"
+
+#: inc/menu/admin-settings-arr.php:130 inc/menu/admin-settings-arr.php:140
+#: inc/menu/admin-settings-arr.php:150
+#, fuzzy
+msgid "From Theme"
+msgstr "Frá þema"
+
+#: inc/menu/admin-settings-arr.php:136
+#, fuzzy
+msgid "Archive Page Template"
+msgstr "Skjalasafnssniðmát"
+
+#: inc/menu/admin-settings-arr.php:137
+#, fuzzy
+msgid "Choose tags and archive properties display layout"
+msgstr "Veldu merki og skjalavinnslu sýna skipulag"
+
+#: inc/menu/admin-settings-arr.php:139 inc/menu/admin-settings-arr.php:149
+#, fuzzy
+msgid "From Plugin"
+msgstr "Frá tappi"
+
+#: inc/menu/admin-settings-arr.php:146
+#, fuzzy
+msgid "Agent Page Template"
+msgstr "Sniðmát umboðsmanns"
+
+#: inc/menu/admin-settings-arr.php:147
+#, fuzzy
+msgid "Choose agent page display layout"
+msgstr "Veldu umboðsskjásíðu"
+
+#: inc/menu/admin-settings-arr.php:156
+msgid "Container Maximum Width"
+msgstr ""
+
+#: inc/menu/admin-settings-arr.php:157
+msgid "Provide container max width in px, eg: 1140px"
+msgstr ""
+
+#: inc/menu/admin-settings-arr.php:163
+msgid "Property Page Sidebar Card"
+msgstr ""
+
+#: inc/menu/admin-settings-arr.php:164
+msgid ""
+"Enable or disable default agent card and contact form on single property page"
+msgstr ""
+
+#: inc/menu/admin-settings-arr.php:166 inc/menu/admin-settings-arr.php:176
+#: inc/menu/admin-settings-arr.php:572 inc/menu/admin-settings-arr.php:582
+#: inc/menu/render-admin-settings.php:191 shortcodes/vc-settings.php:226
+#: shortcodes/vc-settings.php:353 shortcodes/vc-settings.php:373
+#: shortcodes/vc-settings.php:669 shortcodes/vc-settings.php:701
+#: shortcodes/vc-settings.php:719 shortcodes/vc-settings.php:730
+msgid "Enable"
+msgstr "Virkja"
+
+#: inc/menu/admin-settings-arr.php:167 inc/menu/admin-settings-arr.php:177
+#: inc/menu/admin-settings-arr.php:573 inc/menu/admin-settings-arr.php:583
+#: shortcodes/vc-settings.php:225 shortcodes/vc-settings.php:352
+#: shortcodes/vc-settings.php:372 shortcodes/vc-settings.php:668
+#: shortcodes/vc-settings.php:700 shortcodes/vc-settings.php:718
+#: shortcodes/vc-settings.php:729
+msgid "Disable"
+msgstr "Slökkva"
+
+#: inc/menu/admin-settings-arr.php:173
+msgid "Agent Page Sidebar Card"
+msgstr ""
+
+#: inc/menu/admin-settings-arr.php:174
+msgid ""
+"Enable or disable default agent card and contact form on single agent page"
+msgstr ""
+
+#: inc/menu/admin-settings-arr.php:183
+msgid "Property Page Sidebar"
+msgstr ""
+
+#: inc/menu/admin-settings-arr.php:184
+msgid "Choose sidebar for single property page"
+msgstr ""
+
+#: inc/menu/admin-settings-arr.php:189
+msgid "Agent Page Sidebar"
+msgstr ""
+
+#: inc/menu/admin-settings-arr.php:190
+msgid "Choose sidebar for agent details page"
+msgstr ""
+
+#: inc/menu/admin-settings-arr.php:195
+msgid "Property Edit Page"
+msgstr ""
+
+#: inc/menu/admin-settings-arr.php:196
+msgid "Paste shortcode [rem_edit_property] on selected page"
+msgstr ""
+
+#: inc/menu/admin-settings-arr.php:201
+msgid "Inline Property Bar Fields"
+msgstr ""
+
+#: inc/menu/admin-settings-arr.php:202
+msgid ""
+"Provide field names each per line to display on top bar of inline property "
+"listing style"
+msgstr ""
+
+#: inc/menu/admin-settings-arr.php:210
+msgid "Search Settings"
+msgstr "Leita Stillingar"
+
+#: inc/menu/admin-settings-arr.php:217
+#, fuzzy
+msgid "Search Results Style"
+msgstr "Leitarniðurstöður stíl"
+
+#: inc/menu/admin-settings-arr.php:218
+#, fuzzy
+msgid "Choose style for search results"
+msgstr "Veldu stíl fyrir leitarniðurstöður"
+
+#: inc/menu/admin-settings-arr.php:220
+msgid "Inline"
+msgstr "& Innfelld"
+
+#: inc/menu/admin-settings-arr.php:221
+#, fuzzy
+msgid "Box Style 1"
+msgstr "Stíll 1"
+
+#: inc/menu/admin-settings-arr.php:222
+#, fuzzy
+msgid "Box Style 2"
+msgstr "Stíll 2"
+
+#: inc/menu/admin-settings-arr.php:223
+#, fuzzy
+msgid "Box Style 3"
+msgstr "Box Style 3"
+
+#: inc/menu/admin-settings-arr.php:224
+msgid "Box Style 4"
+msgstr ""
+
+#: inc/menu/admin-settings-arr.php:225
+#, fuzzy
+msgid "Full Box"
+msgstr "Fullur kassi"
+
+#: inc/menu/admin-settings-arr.php:232
+#, fuzzy
+msgid "Search Results Columns"
+msgstr "Leitarniðurstöður dálka"
+
+#: inc/menu/admin-settings-arr.php:233
+#, fuzzy
+msgid "Choose columns in a row for box styles"
+msgstr "Veldu dálka í röð fyrir kassastíl"
+
+#: inc/menu/admin-settings-arr.php:235
+msgid "1"
+msgstr "1"
+
+#: inc/menu/admin-settings-arr.php:236
+msgid "2"
+msgstr "2"
+
+#: inc/menu/admin-settings-arr.php:237
+msgid "3"
+msgstr "3"
+
+#: inc/menu/admin-settings-arr.php:238
+msgid "4"
+msgstr "4"
+
+#: inc/menu/admin-settings-arr.php:245
+msgid "Search Area Options"
+msgstr ""
+
+#: inc/menu/admin-settings-arr.php:246
+msgid ""
+"Provide area range each per line, to display dropdown of area ranges instead "
+"of input field when searching."
+msgstr ""
+
+#: inc/menu/admin-settings-arr.php:252
+msgid "Search Bedrooms Options"
+msgstr ""
+
+#: inc/menu/admin-settings-arr.php:253
+msgid ""
+"Provide bedrooms range each per line, to display dropdown of bedroom ranges "
+"instead of input field when searching."
+msgstr ""
+
+#: inc/menu/admin-settings-arr.php:259
+msgid "Search Bathrooms Options"
+msgstr ""
+
+#: inc/menu/admin-settings-arr.php:260
+msgid ""
+"Provide bathrooms range each per line, to display dropdown of bathroom "
+"ranges instead of input field when searching."
+msgstr ""
+
+#: inc/menu/admin-settings-arr.php:266
+msgid "Search Results Link Target"
+msgstr ""
+
+#: inc/menu/admin-settings-arr.php:267
+msgid ""
+"Provide link target for results of search form. _blank to open in new tab"
+msgstr ""
+
+#: inc/menu/admin-settings-arr.php:275
+#, fuzzy
+msgid "Price Slider"
+msgstr "Verð Renna"
+
+#: inc/menu/admin-settings-arr.php:281
+#, fuzzy
+msgid "Minimum Price"
+msgstr "Lágmarksverð"
+
+#: inc/menu/admin-settings-arr.php:282
+#, fuzzy
+msgid "Minimum price for price slider"
+msgstr "Lágmarksverð fyrir gengissprengja"
+
+#: inc/menu/admin-settings-arr.php:288
+#, fuzzy
+msgid "Maximum Price"
+msgstr "Hámarksverð"
+
+#: inc/menu/admin-settings-arr.php:289
+#, fuzzy
+msgid "Maximum price for price slider"
+msgstr "Hámarksverð fyrir verð renna"
+
+#: inc/menu/admin-settings-arr.php:295
+msgid "Step"
+msgstr "Skref "
+
+#: inc/menu/admin-settings-arr.php:296
+#, fuzzy
+msgid "Step or interval for price slider"
+msgstr "Skref eða bil fyrir gjaldskrá"
+
+#: inc/menu/admin-settings-arr.php:302
+#, fuzzy
+msgid "Default Minimum Price"
+msgstr "Sjálfgefið lágmarksverð"
+
+#: inc/menu/admin-settings-arr.php:303
+#, fuzzy
+msgid "Default Minimum price for price slider"
+msgstr "Sjálfgefið Lágmarksverð fyrir verðlagningu"
+
+#: inc/menu/admin-settings-arr.php:309
+#, fuzzy
+msgid "Default Maximum Price"
+msgstr "Sjálfgefið hámarksverð"
+
+#: inc/menu/admin-settings-arr.php:310
+#, fuzzy
+msgid "Default Maximum price for price slider"
+msgstr "Sjálfgefið hámark verð fyrir renna"
+
+#: inc/menu/admin-settings-arr.php:319
+#, fuzzy
+msgid "Email Messages"
+msgstr "Email Skilaboð"
+
+#: inc/menu/admin-settings-arr.php:325
+#, fuzzy
+msgid "Agent Registered"
+msgstr "Agent skráð"
+
+#: inc/menu/admin-settings-arr.php:326
+#, fuzzy
+msgid "This message will sent to "
+msgstr "Þessi skilaboð verða send til"
+
+#: inc/menu/admin-settings-arr.php:326
+#, fuzzy
+msgid ""
+" when new agent is registered. You can use %username% and %email% for details"
+msgstr ""
+"þegar nýr umboðsmaður er skráður. Þú getur notað% notandanafn% og% email% "
+"til að fá nánari upplýsingar"
+
+#: inc/menu/admin-settings-arr.php:332
+#, fuzzy
+msgid "Agent Pending"
+msgstr "Umboðsmaður í bið"
+
+#: inc/menu/admin-settings-arr.php:333
+#, fuzzy
+msgid ""
+"Email Message for agent when new agent is registered but status is pending. "
+"You can use %username% and %email% for details"
+msgstr ""
+"Email Skilaboð fyrir umboðsmann þegar ný umboðsmaður er skráð en stöðu er í "
+"bið. Þú getur notað% notandanafn% og% email% til að fá nánari upplýsingar"
+
+#: inc/menu/admin-settings-arr.php:339
+#, fuzzy
+msgid "Agent Approved"
+msgstr "Umboðsaðili samþykktur"
+
+#: inc/menu/admin-settings-arr.php:340
+#, fuzzy
+msgid ""
+"Email Message for agent when registered agent is approved. You can use "
+"%username% and %email% for details"
+msgstr ""
+"Email Skilaboð fyrir umboðsmann þegar skráður umboðsmaður er samþykktur. Þú "
+"getur notað% notandanafn% og% email% til að fá nánari upplýsingar"
+
+#: inc/menu/admin-settings-arr.php:346
+#, fuzzy
+msgid "Agent Rejected"
+msgstr "Umboðsmaður hafnað"
+
+#: inc/menu/admin-settings-arr.php:347
+#, fuzzy
+msgid ""
+"Email Message for agent when registered agent is rejected. You can use "
+"%username% and %email% for details"
+msgstr ""
+"Email Skilaboð fyrir umboðsmann þegar skráður umboðsmaður er hafnað. Þú "
+"getur notað% notandanafn% og% email% til að fá nánari upplýsingar"
+
+#: inc/menu/admin-settings-arr.php:353
+#, fuzzy
+msgid "Agent Contact Email Addresses"
+msgstr "Umboðsmaður Hafa samband Netföng"
+
+#: inc/menu/admin-settings-arr.php:354
+msgid ""
+"Provide Additional Email addresses each per line to cc mail when visitor "
+"fills the contact agent form."
+msgstr ""
+
+#: inc/menu/admin-settings-arr.php:363
+#, fuzzy
+msgid "Labels and Headings"
+msgstr "Merkingar og fyrirsagnir"
+
+#: inc/menu/admin-settings-arr.php:369 inc/menu/admin-settings-arr.php:376
+#, fuzzy
+msgid "Features Heading"
+msgstr "Lögun Fyrirsögn"
+
+#: inc/menu/admin-settings-arr.php:370 inc/menu/admin-settings-arr.php:377
+#, fuzzy
+msgid "Provide heading text for property features on property pages"
+msgstr "Gefðu fyrirsögn texta fyrir eiginleika eigna á eignasíðum"
+
+#: inc/menu/admin-settings-arr.php:383
+#, fuzzy
+msgid "Video Heading"
+msgstr "Vídeó fyrirsögn"
+
+#: inc/menu/admin-settings-arr.php:384
+#, fuzzy
+msgid "Provide heading text for property video on property pages"
+msgstr "Gefðu fyrirsögn texta fyrir vídeó á eignum á eignasíðum"
+
+#: inc/menu/admin-settings-arr.php:390
+#, fuzzy
+msgid "Maps Heading"
+msgstr "Kortarefna"
+
+#: inc/menu/admin-settings-arr.php:391
+#, fuzzy
+msgid "Provide heading text for maps on property pages"
+msgstr "Gefðu fyrirsögn texta fyrir kort á eignasíðum"
+
+#: inc/menu/admin-settings-arr.php:397
+#, fuzzy
+msgid "Tags Heading"
+msgstr "Merki fyrirsögn"
+
+#: inc/menu/admin-settings-arr.php:398
+#, fuzzy
+msgid "Provide heading text for tags on property pages"
+msgstr "Gefðu fyrirsögn texta fyrir merkingar á síðum eigna"
+
+#: inc/menu/admin-settings-arr.php:404
+#, fuzzy
+msgid "Attachments Heading"
+msgstr "Viðhengi fyrirsögn"
+
+#: inc/menu/admin-settings-arr.php:405
+#, fuzzy
+msgid "Provide heading text for attachments on property pages"
+msgstr "Gefðu fyrirsögn texta fyrir viðhengi á eignasíðum"
+
+#: inc/menu/admin-settings-arr.php:411
+#, fuzzy
+msgid "Tags Heading for Archive Pages"
+msgstr "Merki fyrir stefnumótasíður"
+
+#: inc/menu/admin-settings-arr.php:412
+#, fuzzy
+msgid "You can use %tag% for tag name"
+msgstr "Þú getur notað% tag% fyrir heiti heiti"
+
+#: inc/menu/admin-settings-arr.php:418
+msgid "Sale Ribbon Text"
+msgstr ""
+
+#: inc/menu/admin-settings-arr.php:419
+msgid "Provide text for ribbon of on sale properties"
+msgstr ""
+
+#: inc/menu/admin-settings-arr.php:428
+#, fuzzy
+msgid "Maps Settings"
+msgstr "Kortastillingar"
+
+#: inc/menu/admin-settings-arr.php:434
+#, fuzzy
+msgid "Google Maps API Key"
+msgstr "API lykill Google Maps"
+
+#: inc/menu/admin-settings-arr.php:435
+msgid "Provide Google Maps API key here. You can create API key "
+msgstr ""
+
+#: inc/menu/admin-settings-arr.php:441
+#, fuzzy
+msgid "Map Type"
+msgstr "Tegund vörpunar:"
+
+#: inc/menu/admin-settings-arr.php:443
+#, fuzzy
+msgid "Road Map"
+msgstr "Vegakort"
+
+#: inc/menu/admin-settings-arr.php:444
+#, fuzzy
+msgid "Google Earth"
+msgstr "Google Heimur"
+
+#: inc/menu/admin-settings-arr.php:445
+msgid "Hybrid"
+msgstr "Blandað"
+
+#: inc/menu/admin-settings-arr.php:446
+msgid "Terrain"
+msgstr "Yfirborð"
+
+#: inc/menu/admin-settings-arr.php:448
+#, fuzzy
+msgid "Choose default map type here"
+msgstr "Veldu sjálfgefið kortategund hér"
+
+#: inc/menu/admin-settings-arr.php:454
+#, fuzzy
+msgid "Map Zoom Level"
+msgstr "Korta Zoom Level"
+
+#: inc/menu/admin-settings-arr.php:455
+#, fuzzy
+msgid "Provide Zoom level between 0 and 21+ for single property map"
+msgstr "Gefðu Zoom stig milli 0 og 21 + fyrir einn eign kort"
+
+#: inc/menu/admin-settings-arr.php:461
+#, fuzzy
+msgid "Drag Icon URL"
+msgstr "Dragðu táknmyndina"
+
+#: inc/menu/admin-settings-arr.php:462
+#, fuzzy
+msgid ""
+"Upload custom icon for dragging on map while creating new property. "
+"Recommended size: 72x60"
+msgstr ""
+"Hladdu upp sérsniðnu tákninu til að draga á kort á meðan þú býrð til nýja "
+"eignar. Mælt stærð: 72x60"
+
+#: inc/menu/admin-settings-arr.php:468
+#, fuzzy
+msgid "Location Icon URL"
+msgstr "Vefslóð staðsetningartákns"
+
+#: inc/menu/admin-settings-arr.php:469
+#, fuzzy
+msgid ""
+"Upload custom icon for location on map when visiting property page. "
+"Recommended size: 72x60"
+msgstr ""
+"Hlaða inn sérsniðnu tákninu fyrir staðsetningu á korti þegar þú heimsækir "
+"eignarsíðu. Mælt stærð: 72x60"
+
+#: inc/menu/admin-settings-arr.php:475
+msgid "Default Latitude"
+msgstr "Sjálfvalin breiddargráða"
+
+#: inc/menu/admin-settings-arr.php:476
+#, fuzzy
+msgid "Provide latitude for default map location on create property page"
+msgstr "Gefðu breiddargráðu fyrir sjálfgefið kortsstað á búa til eignasíðu"
+
+#: inc/menu/admin-settings-arr.php:482
+msgid "Default Longitude"
+msgstr "Sjálfvalin Lengdargráða"
+
+#: inc/menu/admin-settings-arr.php:483
+#, fuzzy
+msgid "Provide longitude for default map location on create property page"
+msgstr "Gefðu lengdargráðu fyrir sjálfgefið kortsstað á búa til eignasíðu"
+
+#: inc/menu/admin-settings-arr.php:492
+#, fuzzy
+msgid "Colors and CSS"
+msgstr "Litir og CSS"
+
+#: inc/menu/admin-settings-arr.php:498
+#, fuzzy
+msgid "Headings Underline"
+msgstr "Fyrirsagnir"
+
+#: inc/menu/admin-settings-arr.php:500
+#, fuzzy
+msgid "Choose bottom border color for headings area"
+msgstr "Veldu neðstu landamæri lit fyrir fyrirsagnir svæði"
+
+#: inc/menu/admin-settings-arr.php:506
+#, fuzzy
+msgid "Headings Underline Active"
+msgstr "Fyrirsagnir Undirstrika Active"
+
+#: inc/menu/admin-settings-arr.php:508
+#, fuzzy
+msgid "Choose bottom border color for headings active area"
+msgstr "Veldu neðstu landamæri lit fyrir fyrirsagnir virku svæðisins"
+
+#: inc/menu/admin-settings-arr.php:514
+#, fuzzy
+msgid "Buttons Background"
+msgstr "Hnappar Bakgrunnur"
+
+#: inc/menu/admin-settings-arr.php:516
+#, fuzzy
+msgid "Choose background color for buttons"
+msgstr "Veldu bakgrunnslit fyrir hnappa"
+
+#: inc/menu/admin-settings-arr.php:522
+#, fuzzy
+msgid "Buttons Text"
+msgstr "Hnappar Texti"
+
+#: inc/menu/admin-settings-arr.php:524 inc/menu/admin-settings-arr.php:540
+#, fuzzy
+msgid "Choose text color for buttons"
+msgstr "Veldu textalit fyrir hnappa"
+
+#: inc/menu/admin-settings-arr.php:530
+#, fuzzy
+msgid "Buttons Background - Hover"
+msgstr "Hnappar Bakgrunnur - Höggva"
+
+#: inc/menu/admin-settings-arr.php:532
+#, fuzzy
+msgid "Choose background color for buttons on hover state"
+msgstr "Veldu bakgrunnslit fyrir hnappa á sveima"
+
+#: inc/menu/admin-settings-arr.php:538
+#, fuzzy
+msgid "Buttons Text - Hover"
+msgstr "Hnappar Texti - Höggva"
+
+#: inc/menu/admin-settings-arr.php:546
+#, fuzzy
+msgid "Theme Main Color"
+msgstr "Þema Aðal Litur"
+
+#: inc/menu/admin-settings-arr.php:548
+#, fuzzy
+msgid "Choose main theme color for templates"
+msgstr "Veldu aðalþema lit fyrir sniðmát"
+
+#: inc/menu/admin-settings-arr.php:554
+#, fuzzy
+msgid "Custom CSS Code"
+msgstr "Sérsniðin CSS kóða"
+
+#: inc/menu/admin-settings-arr.php:556
+#, fuzzy
+msgid "Paste your custom css code here, you can prefix with"
+msgstr "Límdu sérsniðna css kóða þinn hér, þú getur forskeyti með"
+
+#: inc/menu/admin-settings-arr.php:564
+msgid "Advanced Settings"
+msgstr "Flóknar stillingarGeneral Config"
+
+#: inc/menu/admin-settings-arr.php:570
+msgid "Bootstrap CSS"
+msgstr ""
+
+#: inc/menu/admin-settings-arr.php:575
+msgid "Disable it, if your theme loads its own bootstrap 3 styles"
+msgstr ""
+
+#: inc/menu/admin-settings-arr.php:580
+#, fuzzy
+msgid "Font Awesome"
+msgstr "AwesomeComment"
+
+#: inc/menu/admin-settings-arr.php:585
+msgid "Disable it, if your theme loads its own font awesome icons"
+msgstr ""
+
+#: inc/menu/agent-profile-fields.php:2
+#, fuzzy
+msgid "Agent Details"
+msgstr "Upplýsingar umboðsmanns"
+
+#: inc/menu/agent-profile-fields.php:6
+#, fuzzy
+msgid "Picture of Agent"
+msgstr "Mynd af umboðsmanni"
+
+#: inc/menu/agent-profile-fields.php:15
+msgid "Upload Image"
+msgstr "Velja myndir"
+
+#: inc/menu/agent-profile-fields.php:16
+#, fuzzy
+msgid "Upload an additional image for your profile."
+msgstr "Hladdu upp viðbótar mynd fyrir prófílinn þinn."
+
+#: inc/menu/agent-profile-fields.php:32 shortcodes/edit-agent.php:41
+#, fuzzy
+msgid "User Tagline"
+msgstr "User Tagline"
+
+#: inc/menu/agent-profile-fields.php:35
+#, fuzzy
+msgid "Will display under username"
+msgstr "Mun birtast undir notandanafninu"
+
+#: inc/menu/agent-profile-fields.php:40
+#, fuzzy
+msgid "Skills Level"
+msgstr "Færni stig"
+
+#: inc/menu/agent-profile-fields.php:43 shortcodes/register-agent.php:76
+#, fuzzy
+msgid "Skill name with percentage value on each line, eg: Speaking, 85"
+msgstr "Hæfniskenni með prósentuvirði á hverri línu, td: Tal, 85"
+
+#: inc/menu/agent-profile-fields.php:48
+#, fuzzy
+msgid "Contact Form Shortcode"
+msgstr "Snertingarnúmer Shortcode"
+
+#: inc/menu/agent-profile-fields.php:51
+#, fuzzy
+msgid "Leave blank for default contact form"
+msgstr "Leyfi tómt fyrir sjálfgefið tengiliðsform"
+
+#: inc/menu/custom-fields/custom-fields-page.php:2
+#, fuzzy
+msgid "Custom Fields Builder"
+msgstr "Custom Fields"
+
+#: inc/menu/custom-fields/custom-fields-page.php:43
+#, fuzzy
+msgid "Please Drag and Drop the fields in above area from left panel"
+msgstr ""
+"Vinsamlegast Dragðu og slepptu reitunum á ofangreindum svæði frá vinstri "
+"spjaldi"
+
+#: inc/menu/custom-fields/custom-fields-page.php:49
+msgid "Reset Fields"
+msgstr ""
+
+#: inc/menu/custom-fields/custom-fields-page.php:50
+#: inc/menu/page-settings.php:61
+msgid "Save Settings"
+msgstr "Vista stillingar"
+
+#: inc/menu/custom-fields/fields/number.php:2
+#, fuzzy
+msgid "Number Field"
+msgstr "Númerarsvæði"
+
+#: inc/menu/custom-fields/fields/number.php:8
+#: inc/menu/custom-fields/fields/select.php:8
+#: inc/menu/custom-fields/fields/text.php:8
+msgid "Label"
+msgstr "Merki"
+
+#: inc/menu/custom-fields/fields/number.php:14
+#: inc/menu/custom-fields/fields/select.php:14
+#: inc/menu/custom-fields/fields/text.php:14
+#, fuzzy
+msgid "Data Name (lowercase without spaces)"
+msgstr "Gögn Nafn (lágstafir án bils)"
+
+#: inc/menu/custom-fields/fields/number.php:20
+#: inc/menu/custom-fields/fields/text.php:20
+msgid "Default Value"
+msgstr "Sjálfgefið gildi"
+
+#: inc/menu/custom-fields/fields/number.php:26
+#: inc/menu/custom-fields/fields/select.php:39
+#: inc/menu/custom-fields/fields/text.php:26
+#, fuzzy
+msgid "Help Text"
+msgstr "Hjálpartexta"
+
+#: inc/menu/custom-fields/fields/number.php:32
+#: inc/menu/custom-fields/fields/select.php:45
+#: inc/menu/custom-fields/fields/text.php:32
+#, fuzzy
+msgid "Admin Settings Tab"
+msgstr "Stillingar flipa stjórnanda"
+
+#: inc/menu/custom-fields/fields/number.php:47
+#: inc/menu/custom-fields/fields/select.php:60
+#: inc/menu/custom-fields/fields/text.php:47
+msgid "Delete"
+msgstr "Eyða"
+
+#: inc/menu/custom-fields/fields/select.php:2
+#, fuzzy
+msgid "Select Box"
+msgstr "Veldu Box"
+
+#: inc/menu/custom-fields/fields/select.php:20
+#, fuzzy
+msgid "Default Selected"
+msgstr "Sjálfgefið valið"
+
+#: inc/menu/custom-fields/fields/select.php:26
+#, fuzzy
+msgid "Options (each per line)"
+msgstr "Valkostir (hver á lína)"
+
+#: inc/menu/custom-fields/fields/text.php:2
+#, fuzzy
+msgid "Text Field"
+msgstr "Textasvæði"
+
+#: inc/menu/page-agents.php:11
+#, fuzzy
+msgid "Pending Agents"
+msgstr "Bið umboðsmenn"
+
+#: inc/menu/page-agents.php:18 inc/menu/page-agents.php:59
+#: shortcodes/edit-agent.php:17 shortcodes/register-agent.php:20
+msgid "Username"
+msgstr "Notendanafn:"
+
+#: inc/menu/page-agents.php:19 inc/menu/page-agents.php:60
+#: shortcodes/agent-profile.php:83 shortcodes/edit-agent.php:36
+#: shortcodes/register-agent.php:24 templates/agent.php:88
+msgid "Email"
+msgstr "Netfang"
+
+#: inc/menu/page-agents.php:20 inc/menu/page-agents.php:61
+#: shortcodes/edit-agent.php:21 shortcodes/register-agent.php:12
+msgid "First Name"
+msgstr "Fornafn"
+
+#: inc/menu/page-agents.php:21 inc/menu/page-agents.php:62
+#: shortcodes/edit-agent.php:26 shortcodes/register-agent.php:16
+msgid "Last Name"
+msgstr "Eftirnafn"
+
+#: inc/menu/page-agents.php:22
+#, fuzzy
+msgid "Date of Registration"
+msgstr "Dagsetning skráningar"
+
+#: inc/menu/page-agents.php:23
+msgid "Action"
+msgstr "Hreyfing"
+
+#: inc/menu/page-agents.php:35
+msgid "Deny"
+msgstr "& Neita"
+
+#: inc/menu/page-agents.php:36
+msgid "Approve"
+msgstr "Samþykkja"
+
+#: inc/menu/page-agents.php:44
+msgid "You dont have any pending agents."
+msgstr ""
+
+#: inc/menu/page-agents.php:52
+#, fuzzy
+msgid "Registered Agents"
+msgstr "Skráðir umboðsmenn"
+
+#: inc/menu/page-agents.php:64
+msgid "Profile"
+msgstr "Prófíll"
+
+#: inc/menu/page-agents.php:76
+msgid "View Profile"
+msgstr "Skoða síðu"
+
+#: inc/menu/page-agents.php:83
+msgid "You dont have any registered agents."
+msgstr ""
+
+#: inc/menu/page-agents.php:89
+msgid "Register New Agent"
+msgstr ""
+
+#: inc/menu/page-docs.php:6
+msgid "Shortcode"
+msgstr "Smákóði (shortcode)"
+
+#: inc/menu/page-docs.php:7
+#, fuzzy
+msgid "Possible Attributes"
+msgstr "Mögulegir eiginleiki"
+
+#: inc/menu/page-docs.php:13
+#, fuzzy
+msgid "Agent Registration Form"
+msgstr "Agent Registration Form"
+
+#: inc/menu/page-docs.php:16
+#, fuzzy
+msgid "It will render a form to register new agent"
+msgstr "Það mun gera form til að skrá nýja umboðsmann"
+
+#: inc/menu/page-docs.php:19
+#, fuzzy
+msgid "Create Property Form"
+msgstr "Búðu til eignareyðublöð"
+
+#: inc/menu/page-docs.php:22
+#, fuzzy
+msgid "It will render a form to create a property."
+msgstr "Það mun gera form til að búa til eign."
+
+#: inc/menu/page-docs.php:25
+#, fuzzy
+msgid "Edit Single Property"
+msgstr "Stök eign"
+
+#: inc/menu/page-docs.php:28
+#, fuzzy
+msgid "It will render a form to edit property on frontend."
+msgstr "Það mun gera form til að breyta eignum á framhlið."
+
+#: inc/menu/page-docs.php:31
+#, fuzzy
+msgid "Login Form"
+msgstr "Innskráning form"
+
+#: inc/menu/page-docs.php:34
+#, fuzzy
+msgid "It will render a form to login an agent."
+msgstr "Það mun gera form til að skrá þig inn í umboðsmann."
+
+#: inc/menu/page-docs.php:37
+#, fuzzy
+msgid "List My Properties"
+msgstr "Mínar eignir"
+
+#: inc/menu/page-docs.php:40
+#, fuzzy
+msgid "It will render a list of properties of current logged in user."
+msgstr "Það mun gera lista yfir eiginleika núverandi innskráða notanda."
+
+#: inc/menu/page-docs.php:43
+#, fuzzy
+msgid "Search Property Form"
+msgstr "Leita að fasteignasafni"
+
+#: inc/menu/page-docs.php:46
+#, fuzzy
+msgid "It will render a form to search properties via AJAX."
+msgstr "Það mun gera form til að leita eignir í gegnum AJAX."
+
+#: inc/menu/page-docs.php:49 shortcodes/vc-settings.php:123
+#, fuzzy
+msgid "List Properties"
+msgstr "Stillingar..."
+
+#: inc/menu/page-docs.php:65
+#, fuzzy
+msgid "It will render a list of properties."
+msgstr "Það mun gera lista yfir eiginleika."
+
+#: inc/menu/page-docs.php:71
+#, fuzzy
+msgid "It displays search results of properties searched from widget."
+msgstr "Það sýnir leitarniðurstöður eigna sem leitað er frá búnaður."
+
+#: inc/menu/page-docs.php:74
+#, fuzzy
+msgid "Multiple Properties on Map"
+msgstr "Margar eignir á korti"
+
+#: inc/menu/page-docs.php:106
+#, fuzzy
+msgid "It displays multiple  properties on a map."
+msgstr "Það sýnir margar eignir á korti."
+
+#: inc/menu/page-docs.php:109
+#, fuzzy
+msgid "Display Agent Profile"
+msgstr "Sýna umboðsmanni"
+
+#: inc/menu/page-docs.php:112
+#, fuzzy
+msgid "It displays profile of a single agent."
+msgstr "Það sýnir upplýsingar um einn umboðsmann."
+
+#: inc/menu/page-docs.php:115 shortcodes/vc-settings.php:36
+#, fuzzy
+msgid "Edit Agent Profile"
+msgstr "Breyta umboðsmanni"
+
+#: inc/menu/page-docs.php:118
+#, fuzzy
+msgid "It renders a form to edit current users profile."
+msgstr "Það gerir form til að breyta núverandi notendahópnum."
+
+#: inc/menu/page-docs.php:121 shortcodes/vc-settings.php:108
+msgid "Single Property"
+msgstr "Stök eign"
+
+#: inc/menu/page-docs.php:124
+#, fuzzy
+msgid "It displays a single property by id."
+msgstr "Það sýnir einni eign með auðkenni."
+
+#: inc/menu/page-docs.php:127 shortcodes/vc-settings.php:597
+#, fuzzy
+msgid "Touch Carousel"
+msgstr "Touch Carousel"
+
+#: inc/menu/page-docs.php:145
+#, fuzzy
+msgid "It renders slider of selected properties based on settings."
+msgstr "Það gerir renna af völdum eiginleikum byggt á stillingum."
+
+#: inc/menu/page-docs.php:150
+#, fuzzy
+msgid "For more details, please visit"
+msgstr "Fyrir frekari upplýsingar, vinsamlegast heimsækja"
+
+#: inc/menu/page-docs.php:150
+#, fuzzy
+msgid "Shortcode Details"
+msgstr "Stuttar upplýsingar"
+
+#: inc/menu/page-settings.php:2
+#, fuzzy
+msgid "Real Estate Manager - Settings"
+msgstr "Real Estate Manager - Stillingar"
+
+#: inc/menu/page-settings.php:12
+#, fuzzy
+msgid "If 404 Page is displaying"
+msgstr "Ef 404 Page birtist"
+
+#: inc/menu/page-settings.php:14
+#, fuzzy
+msgid "Go to Settings -> Permalinks and click Save Changes button"
+msgstr ""
+"Farðu í Stillingar -> Permalinks og smelltu á Vista breytingar hnappinn"
+
+#: inc/menu/page-settings.php:18
+#, fuzzy
+msgid "If Maps not displaying"
+msgstr "Ef kort birtist ekki"
+
+#: inc/menu/page-settings.php:20
+#, fuzzy
+msgid "Create a Google Maps API using google and paste it in Maps API field."
+msgstr ""
+"Búðu til forritaskil Google Maps með því að nota google og límdu það í "
+"kortaskilaboðum."
+
+#: inc/menu/page-settings.php:24
+#, fuzzy
+msgid "Change Property Page Design"
+msgstr "Breyta eignarsíðuhönnun"
+
+#: inc/menu/page-settings.php:26
+#, fuzzy
+msgid "Copy the following file and paste it into your theme's root"
+msgstr "Afritaðu eftirfarandi skrá og límdu hana inn í rót þemans"
+
+#: inc/menu/page-settings.php:28
+#, fuzzy
+msgid "Now change its name to"
+msgstr "Breytið nú nafni sínu til"
+
+#: inc/menu/page-settings.php:30
+#, fuzzy
+msgid "Then change Property Page Template option to From Theme"
+msgstr "Breyttu síðan eiginleikum Property Page Template til From Theme"
+
+#: inc/menu/page-settings.php:31
+#, fuzzy
+msgid "Now you can make changes in this template file."
+msgstr "Nú getur þú gert breytingar á þessari sniðmátaskrá."
+
+#: inc/menu/page-settings.php:35
+#, fuzzy
+msgid "Need Help? Any Suggestions?"
+msgstr "Þurfa hjálp? Einhverjar ábendingar?"
+
+#: inc/menu/page-settings.php:37
+#, fuzzy
+msgid "Please contact us"
+msgstr "Vinsamlegast hafðu samband við okkur"
+
+#: inc/menu/page-settings.php:38
+#, fuzzy
+msgid "HERE"
+msgstr "hér"
+
+#: inc/menu/page-settings.php:39
+#, fuzzy
+msgid "for assistance."
+msgstr "til aðstoðar."
+
+#: inc/menu/page-settings.php:60
+#, fuzzy
+msgid "Please Wait..."
+msgstr "Vinsamlegast bíðið…"
+
+#: inc/menu/render-admin-settings.php:136
+#: inc/menu/render-admin-settings.php:137
+msgid "Choose a currency&hellip;"
+msgstr "Velja greiðslumynt&hellip;"
+
+#: inc/menu/render-admin-settings.php:173
+msgid "Image"
+msgstr "Mynd"
+
+#: inc/menu/render-admin-settings.php:174
+msgid "Select"
+msgstr "Velja"
+
+#: inc/menu/render-admin-settings.php:175
+msgid "Media"
+msgstr "Gögn"
+
+#: inc/sidebar-agent-contact.php:31
+msgid "Your Name"
+msgstr "Nafnið þitt"
+
+#: inc/sidebar-agent-contact.php:34
+msgid "Your Email"
+msgstr "Emailið þitt"
+
+#: inc/sidebar-agent-contact.php:37
+msgid "Message"
+msgstr "Skilaboð"
+
+#: inc/sidebar-agent-contact.php:39
+msgid "Send Message"
+msgstr "Send skilaboð"
+
+#: inc/sidebar-agent-contact.php:44 shortcodes/agent-profile.php:99
+#: templates/agent.php:104
+#, fuzzy
+msgid "Sending Email, Please Wait..."
+msgstr "Sending Email, vinsamlegast bíðið ..."
+
+#: shortcodes/agent-profile.php:80 templates/agent.php:85
+msgid "Name"
+msgstr "Nafn"
+
+#: shortcodes/agent-profile.php:86 templates/agent.php:91
+msgid "Subject"
+msgstr "Efni"
+
+#: shortcodes/agent-profile.php:89 templates/agent.php:94
+#, fuzzy
+msgid "Your Message"
+msgstr "Skilaboð"
+
+#: shortcodes/agent-profile.php:92 templates/agent.php:97
+#, fuzzy
+msgid "SEND MESSAGE"
+msgstr "Send skilaboð"
+
+#: shortcodes/agent-profile.php:118 shortcodes/vc-settings.php:232
+#: templates/agent.php:123
+msgid "My Properties"
+msgstr "Mínar eignir"
+
+#: shortcodes/carousel/carousel.php:13 shortcodes/list/list.php:19
+#, fuzzy
+msgid "No Properties Found!"
+msgstr "Engar eignir fundust."
+
+#: shortcodes/create-property.php:15 shortcodes/edit-property.php:29
+#, fuzzy
+msgid "Basic Information"
+msgstr "Grunnupplýsingar"
+
+#: shortcodes/create-property.php:19 shortcodes/edit-property.php:33
+#, fuzzy
+msgid "Property Title"
+msgstr "Eignarheiti"
+
+#: shortcodes/create-property.php:25
+#, fuzzy
+msgid "Property Description"
+msgstr "Lýsing á eignum"
+
+#: shortcodes/create-property.php:32 shortcodes/edit-property.php:46
+msgid "Summary"
+msgstr "Yfirlit"
+
+#: shortcodes/create-property.php:37 shortcodes/edit-property.php:51
+#, fuzzy
+msgid "Price in"
+msgstr "Verð"
+
+#: shortcodes/create-property.php:40 shortcodes/edit-property.php:54
+#, fuzzy
+msgid "Property Country"
+msgstr "Eignarland"
+
+#: shortcodes/create-property.php:43 shortcodes/edit-property.php:57
+#, fuzzy
+msgid "Property City"
+msgstr "Property City"
+
+#: shortcodes/create-property.php:83 shortcodes/edit-property.php:97
+#, fuzzy
+msgid "Property Area - "
+msgstr "Eignarsvæði -"
+
+#: shortcodes/create-property.php:89 shortcodes/edit-property.php:103
+msgid "Images"
+msgstr "Myndir"
+
+#: shortcodes/create-property.php:94 shortcodes/edit-property.php:108
+#, fuzzy
+msgid "Click here to Upload Images"
+msgstr "Smelltu hér til að hlaða upp myndum"
+
+#: shortcodes/create-property.php:125 shortcodes/edit-property.php:150
+#, fuzzy
+msgid "Each tag separated by comma"
+msgstr "Hvert merki aðskilin með kommu"
+
+#: shortcodes/create-property.php:133 shortcodes/edit-property.php:162
+#, fuzzy
+msgid "Place on Map"
+msgstr "Setja á kort"
+
+#: shortcodes/create-property.php:135 shortcodes/edit-property.php:164
+#, fuzzy
+msgid "Type to Search..."
+msgstr "Settu inn hér til að leita."
+
+#: shortcodes/create-property.php:211 shortcodes/edit-property.php:240
+#, fuzzy
+msgid "Drag the pin to the location on the map"
+msgstr "Dragðu pinna á staðinn á kortinu"
+
+#: shortcodes/create-property.php:214 shortcodes/vc-settings.php:78
+#, fuzzy
+msgid "Create Property"
+msgstr "Búðu til eign"
+
+#: shortcodes/create-property.php:219
+#, fuzzy
+msgid "Please wait! your porperty is being created..."
+msgstr "Vinsamlegast bíðið! þú ert búinn að búa til þinn porperty ..."
+
+#: shortcodes/edit-agent.php:12 shortcodes/register-agent.php:8
+msgid "Personal Info"
+msgstr "Mínar upplýsingar"
+
+#: shortcodes/edit-agent.php:31
+#, fuzzy
+msgid "Nickname"
+msgstr "Breyta IM vistfangiInstant messaging"
+
+#: shortcodes/edit-agent.php:46 shortcodes/register-agent.php:40
+#, fuzzy
+msgid "Biographical Info"
+msgstr "Líffræðilegu upplýsingar"
+
+#: shortcodes/edit-agent.php:50 shortcodes/register-agent.php:69
+#: shortcodes/register-agent.php:73
+msgid "Skills"
+msgstr "Hæfni"
+
+#: shortcodes/edit-agent.php:52
+#, fuzzy
+msgid "Each skill per line with value"
+msgstr "Hver kunnátta á línu með gildi"
+
+#: shortcodes/edit-agent.php:56
+#, fuzzy
+msgid "Social Networks"
+msgstr "Samfélagsmiðlar"
+
+#: shortcodes/edit-agent.php:75 shortcodes/edit-property.php:244
+msgid "Save Changes"
+msgstr "Vista breytingar"
+
+#: shortcodes/edit-agent.php:76
+msgid "Logout"
+msgstr "Útskrá"
+
+#: shortcodes/edit-agent.php:78
+#, fuzzy
+msgid "Saving Changes..."
+msgstr "Vistar breytingar ..."
+
+#: shortcodes/edit-property.php:249
+msgid "Please wait! your porperty is being modified..."
+msgstr ""
+
+#: shortcodes/login.php:12
+#, fuzzy
+msgid "Username or email"
+msgstr "Notendanafn eða email"
+
+#: shortcodes/login.php:16 shortcodes/register-agent.php:28
+msgid "Password"
+msgstr "Lykilorð"
+
+#: shortcodes/login.php:20
+msgid "Keep me signed in"
+msgstr "Halda mér innskráðum"
+
+#: shortcodes/login.php:21
+msgid "Login"
+msgstr "Innskrá"
+
+#: shortcodes/my-properties.php:7
+msgid "Thumbnail"
+msgstr "Smámyndir"
+
+#: shortcodes/my-properties.php:9
+msgid "Type"
+msgstr "Tegund"
+
+#: shortcodes/my-properties.php:10
+msgid "Added"
+msgstr "Skráð"
+
+#: shortcodes/my-properties.php:13
+msgid "Actions"
+msgstr "Aðgerðir"
+
+#: shortcodes/register-agent.php:32
+#, fuzzy
+msgid "Pepeat Password"
+msgstr "Pepeat lykilorð"
+
+#: shortcodes/register-agent.php:36
+msgid "Tagline"
+msgstr "Slagorð"
+
+#: shortcodes/register-agent.php:47
+msgid "Social Profiles"
+msgstr "Samfélagsmiðlar"
+
+#: shortcodes/register-agent.php:51
+#, fuzzy
+msgid "Facebook URL"
+msgstr "Facebook"
+
+#: shortcodes/register-agent.php:55
+#, fuzzy
+msgid "Twitter URL"
+msgstr "Twitter"
+
+#: shortcodes/register-agent.php:59
+#, fuzzy
+msgid "Google+ URL"
+msgstr "Google+ vefslóð"
+
+#: shortcodes/register-agent.php:63
+#, fuzzy
+msgid "LinkedIn URL"
+msgstr "Linkedin"
+
+#: shortcodes/register-agent.php:81
+msgid "Sign up"
+msgstr "Skráðu þig"
+
+#: shortcodes/search-property.php:220
+msgid "Loading..."
+msgstr "Hleð…"
+
+#: shortcodes/vc-settings.php:15
+#, fuzzy
+msgid "Register Agent"
+msgstr "Skrá umboðsmanni"
+
+#: shortcodes/vc-settings.php:19
+#, fuzzy
+msgid "Renders a form to register new agent"
+msgstr "Gerir eyðublöð til að skrá nýja umboðsmann"
+
+#: shortcodes/vc-settings.php:24 shortcodes/vc-settings.php:66
+#, fuzzy
+msgid "Redirect"
+msgstr "& Beina til..."
+
+#: shortcodes/vc-settings.php:25
+#, fuzzy
+msgid "Provide URL to redirect after successfull registration"
+msgstr "Veita vefslóð til að endurvísa eftir velgengni skráningar"
+
+#: shortcodes/vc-settings.php:30 shortcodes/vc-settings.php:72
+#, fuzzy
+msgid "Content for Logged In Users"
+msgstr "Innihald fyrir innskráða notendur"
+
+#: shortcodes/vc-settings.php:31 shortcodes/vc-settings.php:73
+#, fuzzy
+msgid "Provide content for already logged in users"
+msgstr "Gefðu efni fyrir notendur sem þegar eru skráðir inn"
+
+#: shortcodes/vc-settings.php:40
+#, fuzzy
+msgid "Renders a form to edit logged in agent's profile"
+msgstr "Gerir eyðublað til að breyta prófíl innskráðum umboðsmanni"
+
+#: shortcodes/vc-settings.php:45 shortcodes/vc-settings.php:87
+#: shortcodes/vc-settings.php:102 shortcodes/vc-settings.php:241
+#, fuzzy
+msgid "Content for Non Logged In Users"
+msgstr "Innihald fyrir ekki skráð í notendum"
+
+#: shortcodes/vc-settings.php:46
+#, fuzzy
+msgid "Provide content for non logged in users"
+msgstr "Gefðu efni fyrir notendur sem ekki eru skráðir inn"
+
+#: shortcodes/vc-settings.php:51
+#, fuzzy
+msgid "Login Agent"
+msgstr "Innskráning Agent"
+
+#: shortcodes/vc-settings.php:55
+#, fuzzy
+msgid "Renders an AJAX based login form"
+msgstr "Gerir AJAX byggt innskráningareyðublað"
+
+#: shortcodes/vc-settings.php:60
+msgid "Heading"
+msgstr "Fyrirsögn"
+
+#: shortcodes/vc-settings.php:61
+#, fuzzy
+msgid "Heading will appear above the login form"
+msgstr "Fyrirsögn birtist fyrir ofan notendanafnið"
+
+#: shortcodes/vc-settings.php:67
+#, fuzzy
+msgid "Provide URL to redirect after successfull login"
+msgstr "Veita vefslóð til að beina eftir árangursríkum innskráningu"
+
+#: shortcodes/vc-settings.php:82
+#, fuzzy
+msgid "Renders a form to create property"
+msgstr "Gerir mynd til að búa til eign"
+
+#: shortcodes/vc-settings.php:88 shortcodes/vc-settings.php:103
+#: shortcodes/vc-settings.php:242
+#, fuzzy
+msgid "Provide content to display if user is not logged in"
+msgstr "Veita efni til að birta ef notandi er ekki innskráður"
+
+#: shortcodes/vc-settings.php:97
+msgid "Renders a form to edit property"
+msgstr ""
+
+#: shortcodes/vc-settings.php:112
+msgid "Display a single property"
+msgstr ""
+
+#: shortcodes/vc-settings.php:118
+msgid "Provide property id here"
+msgstr ""
+
+#: shortcodes/vc-settings.php:127
+#, fuzzy
+msgid "Displays properties according to the settings"
+msgstr "Sýnir eiginleika samkvæmt stillingunum"
+
+#: shortcodes/vc-settings.php:132 shortcodes/vc-settings.php:300
+#: shortcodes/vc-settings.php:606
+msgid "Order"
+msgstr "Pöntun númer"
+
+#: shortcodes/vc-settings.php:133 shortcodes/vc-settings.php:301
+#: shortcodes/vc-settings.php:607
+#, fuzzy
+msgid "Choose order to display properties"
+msgstr "Veldu röð til að birta eiginleika"
+
+#: shortcodes/vc-settings.php:135 shortcodes/vc-settings.php:303
+#: shortcodes/vc-settings.php:609
+msgid "Ascending"
+msgstr "& Sending"
+
+#: shortcodes/vc-settings.php:136 shortcodes/vc-settings.php:304
+#: shortcodes/vc-settings.php:610
+msgid "Descending"
+msgstr "& SendingUnknown date"
+
+#: shortcodes/vc-settings.php:142 shortcodes/vc-settings.php:314
+#: shortcodes/vc-settings.php:616
+#, fuzzy
+msgid "Order By"
+msgstr "Pöntun númer"
+
+#: shortcodes/vc-settings.php:143 shortcodes/vc-settings.php:315
+#: shortcodes/vc-settings.php:617
+#, fuzzy
+msgid "Choose order by to display properties"
+msgstr "Veldu röð með því að birta eiginleika"
+
+#: shortcodes/vc-settings.php:145 shortcodes/vc-settings.php:317
+#: shortcodes/vc-settings.php:619
+msgid "Date"
+msgstr "Dagsetning"
+
+#: shortcodes/vc-settings.php:146 shortcodes/vc-settings.php:256
+#: shortcodes/vc-settings.php:318 shortcodes/vc-settings.php:620
+msgid "Agent"
+msgstr "Fulltrúi"
+
+#: shortcodes/vc-settings.php:147 shortcodes/vc-settings.php:319
+#: shortcodes/vc-settings.php:621
+#, fuzzy
+msgid "Property Name"
+msgstr "Eiginleiki@ label: textbox"
+
+#: shortcodes/vc-settings.php:148 shortcodes/vc-settings.php:622
+msgid "Random"
+msgstr "Slembin"
+
+#: shortcodes/vc-settings.php:154 shortcodes/vc-settings.php:628
+#, fuzzy
+msgid "Property Style"
+msgstr "Eignarstíll"
+
+#: shortcodes/vc-settings.php:155 shortcodes/vc-settings.php:629
+#, fuzzy
+msgid "Choose properties display style"
+msgstr "Veldu eiginleika sýna stíl"
+
+#: shortcodes/vc-settings.php:157 shortcodes/vc-settings.php:631
+msgid "List"
+msgstr "Listi"
+
+#: shortcodes/vc-settings.php:158 shortcodes/vc-settings.php:632
+msgid "Grid 1"
+msgstr "Möskvi 1Style name"
+
+#: shortcodes/vc-settings.php:159 shortcodes/vc-settings.php:633
+msgid "Grid 2"
+msgstr "Möskvi 2Style name"
+
+#: shortcodes/vc-settings.php:160 shortcodes/vc-settings.php:634
+msgid "Grid 3"
+msgstr "Möskvi 3Style name"
+
+#: shortcodes/vc-settings.php:161 shortcodes/vc-settings.php:635
+#, fuzzy
+msgid "Grid 4"
+msgstr "4"
+
+#: shortcodes/vc-settings.php:167 shortcodes/vc-settings.php:548
+msgid "Columns"
+msgstr "Athugasemdir"
+
+#: shortcodes/vc-settings.php:168
+#, fuzzy
+msgid "Number of properties in a row"
+msgstr "Fjöldi eigna í röð"
+
+#: shortcodes/vc-settings.php:170 shortcodes/vc-settings.php:551
+msgid "2 Columns"
+msgstr "2 dálkar"
+
+#: shortcodes/vc-settings.php:171 shortcodes/vc-settings.php:552
+msgid "3 Columns"
+msgstr "3 dálkar"
+
+#: shortcodes/vc-settings.php:172 shortcodes/vc-settings.php:553
+msgid "4 Columns"
+msgstr "4 dálkar"
+
+#: shortcodes/vc-settings.php:182
+#, fuzzy
+msgid "Number of Properties in a Page"
+msgstr "Fjöldi eigna á síðu"
+
+#: shortcodes/vc-settings.php:183
+#, fuzzy
+msgid ""
+"Provide total number of properties to show, after that pagination will "
+"display"
+msgstr "Gefðu heildarfjölda eigna til að sýna, eftir að pagination birtist"
+
+#: shortcodes/vc-settings.php:188
+#, fuzzy
+msgid "Property Purpose"
+msgstr "Fasteignamarkmið"
+
+#: shortcodes/vc-settings.php:189
+#, fuzzy
+msgid "Choose to display properties of specific purpose"
+msgstr "Veldu til að birta eiginleika tiltekinna tilganga"
+
+#: shortcodes/vc-settings.php:196
+#, fuzzy
+msgid "Choose to display properties of specific type"
+msgstr "Veldu til að birta eiginleika tiltekinnar tegundar"
+
+#: shortcodes/vc-settings.php:202
+msgid "Property Status"
+msgstr "Staða eignar"
+
+#: shortcodes/vc-settings.php:203
+#, fuzzy
+msgid "Choose to display properties of specific status"
+msgstr "Veldu til að birta eiginleika tiltekinnar stöðu"
+
+#: shortcodes/vc-settings.php:209
+#, fuzzy
+msgid "Property Tags"
+msgstr "Eignarmerki"
+
+#: shortcodes/vc-settings.php:210
+#, fuzzy
+msgid "Comma separated list of tags to filter properties"
+msgstr "Comma aðskilinn listi með tags til að sía eiginleika"
+
+#: shortcodes/vc-settings.php:216 shortcodes/vc-settings.php:339
+#: shortcodes/vc-settings.php:647
+#, fuzzy
+msgid "Filter Properties"
+msgstr "Lag"
+
+#: shortcodes/vc-settings.php:217 shortcodes/vc-settings.php:340
+#: shortcodes/vc-settings.php:648
+msgid ""
+"Provide meta key and value on each line to filter. Eg: property_status|normal"
+msgstr ""
+
+#: shortcodes/vc-settings.php:222 shortcodes/vc-settings.php:369
+#: shortcodes/vc-settings.php:665
+msgid "Prefer Nearest Properties"
+msgstr ""
+
+#: shortcodes/vc-settings.php:223 shortcodes/vc-settings.php:370
+#: shortcodes/vc-settings.php:666
+msgid ""
+"It will enable Geo Location Trackor to track visitors location and will "
+"display properties near them"
+msgstr ""
+
+#: shortcodes/vc-settings.php:236
+#, fuzzy
+msgid "Displays properties of current logged in agent"
+msgstr "Sýnir eiginleika núverandi innskráða umboðsmanns"
+
+#: shortcodes/vc-settings.php:247
+#, fuzzy
+msgid "Agent Profile"
+msgstr "Umboðsmaður"
+
+#: shortcodes/vc-settings.php:251
+#, fuzzy
+msgid "Displays profile of specific agent"
+msgstr "Sýnir snið tiltekins umboðsmanns"
+
+#: shortcodes/vc-settings.php:257
+#, fuzzy
+msgid "Choose agent who's profile you want to display"
+msgstr "Veldu umboðsmann sem er sniðið sem þú vilt birta"
+
+#: shortcodes/vc-settings.php:267
+#, fuzzy
+msgid "Displays search results if searched from widget"
+msgstr "Sýnir leitarniðurstöður ef leitað er úr búnaði"
+
+#: shortcodes/vc-settings.php:271
+#, fuzzy
+msgid "Properties Map"
+msgstr "Eignir"
+
+#: shortcodes/vc-settings.php:275
+msgid "Displays properties on a large map"
+msgstr ""
+
+#: shortcodes/vc-settings.php:280
+msgid "Display Properties"
+msgstr ""
+
+#: shortcodes/vc-settings.php:281
+msgid "How you want to display properties on map"
+msgstr ""
+
+#: shortcodes/vc-settings.php:283
+msgid "Properties by IDs"
+msgstr ""
+
+#: shortcodes/vc-settings.php:284
+msgid "Use Property Query"
+msgstr ""
+
+#: shortcodes/vc-settings.php:290 shortcodes/vc-settings.php:659
+#, fuzzy
+msgid "Property IDs"
+msgstr "Eignarupplýsingar"
+
+#: shortcodes/vc-settings.php:291
+#, fuzzy
+msgid "Property ID each per line to display on map"
+msgstr "Eignarupplýsingar hver á línu til að birta á korti"
+
+#: shortcodes/vc-settings.php:329
+#, fuzzy
+msgid "Number of Properties"
+msgstr "Fjöldi eigna per síðu"
+
+#: shortcodes/vc-settings.php:330
+msgid "Provide total number of properties to show. -1 for all"
+msgstr ""
+
+#: shortcodes/vc-settings.php:349
+msgid "Property Type Filtering"
+msgstr ""
+
+#: shortcodes/vc-settings.php:350
+msgid "Enable to display property type buttons below maps to filter"
+msgstr ""
+
+#: shortcodes/vc-settings.php:359
+#, fuzzy
+msgid "Filter by Tags"
+msgstr "Flokka eftir"
+
+#: shortcodes/vc-settings.php:360
+msgid "Provide single tag on each line to filter."
+msgstr ""
+
+#: shortcodes/vc-settings.php:379
+msgid "Map Height"
+msgstr "Hæð á korti"
+
+#: shortcodes/vc-settings.php:380
+msgid "Provide map height Eg: 550px"
+msgstr ""
+
+#: shortcodes/vc-settings.php:385
+#, fuzzy
+msgid "Loading Heading"
+msgstr "Hleður fyrirsögn"
+
+#: shortcodes/vc-settings.php:386
+#, fuzzy
+msgid "Provide map loading text heading"
+msgstr "Gefðu korta hleðslu texta fyrirsögn"
+
+#: shortcodes/vc-settings.php:392
+#, fuzzy
+msgid "Loading Description"
+msgstr "Hleðsla Lýsing"
+
+#: shortcodes/vc-settings.php:393
+#, fuzzy
+msgid "Provide map loading text description"
+msgstr "Gefðu texta lýsingu á kortum"
+
+#: shortcodes/vc-settings.php:399 shortcodes/vc-settings.php:477
+#, fuzzy
+msgid "Buttons Background Color"
+msgstr "Hnappar Bakgrunnslitur"
+
+#: shortcodes/vc-settings.php:400
+#, fuzzy
+msgid "Choose background color for map buttons"
+msgstr "Veldu bakgrunnslit fyrir kortahnappa"
+
+#: shortcodes/vc-settings.php:401 shortcodes/vc-settings.php:408
+#: shortcodes/vc-settings.php:415 shortcodes/vc-settings.php:422
+#: shortcodes/vc-settings.php:429
+msgid "Colors"
+msgstr "Forsýn:"
+
+#: shortcodes/vc-settings.php:406 shortcodes/vc-settings.php:488
+#, fuzzy
+msgid "Buttons Text Color"
+msgstr "Hnappar Textalitur"
+
+#: shortcodes/vc-settings.php:407
+#, fuzzy
+msgid "Choose text color for map buttons"
+msgstr "Veldu texta lit fyrir kort hnappa"
+
+#: shortcodes/vc-settings.php:413 shortcodes/vc-settings.php:499
+#, fuzzy
+msgid "Buttons Background Color - Hover"
+msgstr "Hnappar Bakgrunnslitur - Höggva"
+
+#: shortcodes/vc-settings.php:414
+#, fuzzy
+msgid "Choose hover background color for map buttons"
+msgstr "Veldu sveigja bakgrunnslit fyrir kortahnappa"
+
+#: shortcodes/vc-settings.php:420 shortcodes/vc-settings.php:510
+#, fuzzy
+msgid "Buttons Text Color - Hover"
+msgstr "Hnappar Textalitur - Höggva"
+
+#: shortcodes/vc-settings.php:421
+#, fuzzy
+msgid "Choose text hover color for map buttons"
+msgstr "Veldu texta sveifla lit fyrir kort hnappa"
+
+#: shortcodes/vc-settings.php:427
+msgid "Loader Color"
+msgstr ""
+
+#: shortcodes/vc-settings.php:428
+msgid "Choose color for maps loader box"
+msgstr ""
+
+#: shortcodes/vc-settings.php:435
+#, fuzzy
+msgid "Water Color"
+msgstr "Vatnslitur"
+
+#: shortcodes/vc-settings.php:436
+#, fuzzy
+msgid "Choose water color in map"
+msgstr "Veldu vatn lit í kortinu"
+
+#: shortcodes/vc-settings.php:437 shortcodes/vc-settings.php:444
+#: shortcodes/vc-settings.php:451 shortcodes/vc-settings.php:458
+#: shortcodes/vc-settings.php:465 shortcodes/vc-settings.php:472
+#, fuzzy
+msgid "Map Colors"
+msgstr "Kortalitir"
+
+#: shortcodes/vc-settings.php:442
+#, fuzzy
+msgid "Fill Color"
+msgstr "Vistun mistÃ³kst"
+
+#: shortcodes/vc-settings.php:443
+#, fuzzy
+msgid "Choose natural fill color in map"
+msgstr "Veldu náttúrulega fylla lit á kortinu"
+
+#: shortcodes/vc-settings.php:449
+#, fuzzy
+msgid "Points of Interest Color"
+msgstr "Áhugaverðir litir"
+
+#: shortcodes/vc-settings.php:450
+#, fuzzy
+msgid "Choose poi color in map"
+msgstr "Veldu poi lit í kortinu"
+
+#: shortcodes/vc-settings.php:456
+#, fuzzy
+msgid "Points of Interest Hue Color"
+msgstr "Áhugaverðir staðir Hue Color"
+
+#: shortcodes/vc-settings.php:457
+#, fuzzy
+msgid "Choose poi hue color in map"
+msgstr "Veldu poi litbrigði í kortinu"
+
+#: shortcodes/vc-settings.php:463
+#, fuzzy
+msgid "Road Lightness"
+msgstr "Road Lightness"
+
+#: shortcodes/vc-settings.php:464
+#, fuzzy
+msgid "Choose road lightness in map, Default: 100"
+msgstr "Veldu vegaljós í kortinu, Sjálfgefið: 100"
+
+#: shortcodes/vc-settings.php:470
+#, fuzzy
+msgid "Lines Lightness"
+msgstr "Línur Léttleiki"
+
+#: shortcodes/vc-settings.php:471
+#, fuzzy
+msgid "Choose line lightness in map, Default: 700"
+msgstr "Veldu línu léttleika í kortinu, Sjálfgefið: 700"
+
+#: shortcodes/vc-settings.php:478
+msgid "Background color for bottom buttons"
+msgstr ""
+
+#: shortcodes/vc-settings.php:479 shortcodes/vc-settings.php:490
+#: shortcodes/vc-settings.php:501 shortcodes/vc-settings.php:512
+#: shortcodes/vc-settings.php:523
+msgid "Filter Options"
+msgstr "Valmöguleikar síu"
+
+#: shortcodes/vc-settings.php:489
+msgid "Text color for bottom buttons"
+msgstr ""
+
+#: shortcodes/vc-settings.php:500
+msgid "Background color for bottom buttons on hover"
+msgstr ""
+
+#: shortcodes/vc-settings.php:511
+msgid "Text color for bottom buttons on hover"
+msgstr ""
+
+#: shortcodes/vc-settings.php:521
+msgid "Buttons Background Color - Active"
+msgstr ""
+
+#: shortcodes/vc-settings.php:522
+msgid "Background color for bottom buttons on active"
+msgstr ""
+
+#: shortcodes/vc-settings.php:536
+#, fuzzy
+msgid "Renders a form to search properties via AJAX"
+msgstr "Gerir mynd til að leita að eiginleikum í gegnum AJAX"
+
+#: shortcodes/vc-settings.php:541
+#, fuzzy
+msgid "Check Fields to Display"
+msgstr "Hakaðu við reitina til að birta"
+
+#: shortcodes/vc-settings.php:542
+#, fuzzy
+msgid "Check the required fields for search menu"
+msgstr "Athugaðu nauðsynleg reit fyrir leitarnetið"
+
+#: shortcodes/vc-settings.php:549
+#, fuzzy
+msgid "Choose number of fields in each row"
+msgstr "Veldu fjölda reiti í hverri röð"
+
+#: shortcodes/vc-settings.php:554
+msgid "6 Columns"
+msgstr "6 dálkar"
+
+#: shortcodes/vc-settings.php:560
+msgid "Search Button Title"
+msgstr ""
+
+#: shortcodes/vc-settings.php:561
+msgid "Provide text for search button"
+msgstr ""
+
+#: shortcodes/vc-settings.php:566
+msgid "Filter Button Title"
+msgstr ""
+
+#: shortcodes/vc-settings.php:567
+msgid "Provide text for more filter button"
+msgstr ""
+
+#: shortcodes/vc-settings.php:572
+#, fuzzy
+msgid "Results Page"
+msgstr "niðurstöður"
+
+#: shortcodes/vc-settings.php:573
+msgid ""
+"Provide url, it will disable AJAX search and will open up that page to "
+"display results. Make sure to paste shortcode [rem_search_results] on "
+"provided page to display results."
+msgstr ""
+
+#: shortcodes/vc-settings.php:578
+#, fuzzy
+msgid "Form Target"
+msgstr "Markmið"
+
+#: shortcodes/vc-settings.php:579
+msgid "_blank if you want to open results in separate page"
+msgstr ""
+
+#: shortcodes/vc-settings.php:584
+#, fuzzy
+msgid "Fixed Fields"
+msgstr "Fastar reitir"
+
+#: shortcodes/vc-settings.php:585
+msgid "Provide data for fixed fields on each line. Eg: property_status|normal"
+msgstr ""
+
+#: shortcodes/vc-settings.php:590
+msgid "Hard Coded Contents"
+msgstr ""
+
+#: shortcodes/vc-settings.php:591
+msgid "You can paste shortcode here to list some default properties"
+msgstr ""
+
+#: shortcodes/vc-settings.php:601
+msgid "Renders responsive carousel of properties"
+msgstr ""
+
+#: shortcodes/vc-settings.php:641
+msgid "Total Properties"
+msgstr ""
+
+#: shortcodes/vc-settings.php:642
+msgid "Provide total number of properties to show"
+msgstr ""
+
+#: shortcodes/vc-settings.php:654
+msgid "Provide tags each per line to display specific properties"
+msgstr ""
+
+#: shortcodes/vc-settings.php:660
+msgid "Provide IDs if you want to display specific properties, each per line"
+msgstr ""
+
+#: shortcodes/vc-settings.php:676
+msgid "Properties in Row"
+msgstr ""
+
+#: shortcodes/vc-settings.php:677
+msgid "Provide number of properties you want to show at a time"
+msgstr ""
+
+#: shortcodes/vc-settings.php:683
+msgid "Properties to Scroll"
+msgstr ""
+
+#: shortcodes/vc-settings.php:684
+msgid "Provide number of properties you want to scroll at a time"
+msgstr ""
+
+#: shortcodes/vc-settings.php:690
+msgid "Speed"
+msgstr "Hraði"
+
+#: shortcodes/vc-settings.php:691
+msgid "Speed in ms Eg: 2000"
+msgstr ""
+
+#: shortcodes/vc-settings.php:697
+#, fuzzy
+msgid "Auto Play"
+msgstr "Sjálfvirkt"
+
+#: shortcodes/vc-settings.php:698
+msgid "Enable to display auto rotation of properties"
+msgstr ""
+
+#: shortcodes/vc-settings.php:708
+msgid "Auto Play Speed"
+msgstr ""
+
+#: shortcodes/vc-settings.php:709
+msgid "Auto play speed in ms Eg: 2000"
+msgstr ""
+
+#: shortcodes/vc-settings.php:715
+msgid "Arrows"
+msgstr "SÃºluritsspjaldComment"
+
+#: shortcodes/vc-settings.php:716
+msgid "Enable to display arrows for navigation"
+msgstr ""
+
+#: shortcodes/vc-settings.php:726
+msgid "Dots"
+msgstr "Punktar"
+
+#: shortcodes/vc-settings.php:727
+msgid "Enable to display bottom dots for navigation"
+msgstr ""
+
+#: templates/property/style6.php:39
+msgid "Detail"
+msgstr "Nánar"
+
+#. Plugin Name of the plugin/theme
+msgid "Real Estate Manager Pro"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#, fuzzy
+msgid "https://webcodingplace.com/real-estate-manager-wordpress-plugin/"
+msgstr "https://webcodingplace.com/real-estate-manager-wordpress-plugin/"
+
+#. Description of the plugin/theme
+msgid "A complete solution for real estate management"
+msgstr ""
+
+#. Author of the plugin/theme
+#, fuzzy
+msgid "WebCodingPlace"
+msgstr "WebCodingPlace"
+
+#. Author URI of the plugin/theme
+#, fuzzy
+msgid "https://webcodingplace.com/"
+msgstr "https://webcodingplace.com/"

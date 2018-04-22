@@ -1,0 +1,3535 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Real Estate Manager Pro\n"
+"POT-Creation-Date: 2018-01-28 18:36+0500\n"
+"PO-Revision-Date: 2018-01-28 18:43+0500\n"
+"Last-Translator: \n"
+"Language-Team: rameez7759@gmail.com\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Poedit 2.0.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: rem.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: classes/hooks.class.php:109
+msgid "New Agent Registered "
+msgstr "New Agent Registered"
+
+#: classes/hooks.class.php:120
+msgid "Registration Successfull "
+msgstr "Registrace úspěšná"
+
+#: classes/hooks.class.php:139
+msgid "Approved "
+msgstr "Schválený"
+
+#: classes/hooks.class.php:158
+msgid "Rejected "
+msgstr "odmítnuto"
+
+#: classes/hooks.class.php:183 classes/shortcodes.class.php:829
+#, fuzzy
+#| msgid "Property submitted."
+msgid "New Property Submitted "
+msgstr "Vlastnost předloženy."
+
+#: classes/hooks.class.php:209
+msgid "Beds"
+msgstr "Lůžka"
+
+#: classes/hooks.class.php:214
+msgid "Baths"
+msgstr "lázně"
+
+#: classes/hooks.class.php:219 classes/setup.class.php:645
+msgid "Area"
+msgstr "Plocha"
+
+#: classes/hooks.class.php:422 shortcodes/create-property.php:107
+#: shortcodes/edit-property.php:131
+msgid "Features"
+msgstr "Funkce"
+
+#: classes/hooks.class.php:447
+msgid "Attachments"
+msgstr "Přílohy"
+
+#: classes/hooks.class.php:479 core.functions.php:553
+msgid "Video"
+msgstr "Video"
+
+#: classes/hooks.class.php:498 shortcodes/create-property.php:121
+#: shortcodes/edit-property.php:146 shortcodes/vc-settings.php:668
+msgid "Tags"
+msgstr "Tagy"
+
+#: classes/hooks.class.php:526
+msgid "Find on Map"
+msgstr "Najít na mapě"
+
+#: classes/hooks.class.php:595 inc/menu/page-docs.php:8
+#: templates/property/style1.php:53 templates/property/style2.php:18
+#: templates/property/style3.php:19 templates/property/style4.php:14
+#: templates/property/style5.php:20
+msgid "Details"
+msgstr "podrobnosti"
+
+#: classes/hooks.class.php:708
+msgid "«"
+msgstr "«"
+
+#: classes/hooks.class.php:709
+msgid "»"
+msgstr "»"
+
+#: classes/hooks.class.php:717
+msgid "Tag:"
+msgstr "Štítek:"
+
+#: classes/hooks.class.php:736 classes/setup.class.php:416
+#: shortcodes/vc-settings.php:380 shortcodes/vc-settings.php:387
+msgid "Settings"
+msgstr "Nastavení"
+
+#: classes/hooks.class.php:737
+msgid "Request for Customize"
+msgstr "Žádost o přizpůsobení"
+
+#: classes/hooks.class.php:748 shortcodes/vc-settings.php:118
+msgid "Property ID"
+msgstr "ID Nemovitosti"
+
+#: classes/hooks.class.php:749
+msgid "Featured Image"
+msgstr "Hlavní obrázek"
+
+#: classes/setup.class.php:90
+msgid "Property Information"
+msgstr "Informace o nemovitostech"
+
+#: classes/setup.class.php:91
+#, fuzzy
+#| msgid "Location Icon URL"
+msgid "Location on Map"
+msgstr "Místo Icon URL"
+
+#: classes/setup.class.php:92
+msgid "Gallery Images"
+msgstr "Galerie obrázků"
+
+#: classes/setup.class.php:236 classes/setup.class.php:489
+msgid "Property Agent"
+msgstr "Agent nemovitostí"
+
+#: classes/setup.class.php:297
+msgid "Attic"
+msgstr "Půda"
+
+#: classes/setup.class.php:298
+msgid "Gas Heat"
+msgstr "Plynové teplo"
+
+#: classes/setup.class.php:299
+msgid "Balcony"
+msgstr "Balkon"
+
+#: classes/setup.class.php:300
+msgid "Wine Cellar"
+msgstr "Vinný sklep"
+
+#: classes/setup.class.php:301
+msgid "Basketball Court"
+msgstr "Basketbalové hřiště"
+
+#: classes/setup.class.php:302
+msgid "Trash Compactors"
+msgstr "Kompaktory koše"
+
+#: classes/setup.class.php:303
+msgid "Fireplace"
+msgstr "Krb"
+
+#: classes/setup.class.php:304
+msgid "Pool"
+msgstr "Bazén"
+
+#: classes/setup.class.php:305
+msgid "Lake View"
+msgstr "výhled na jezero"
+
+#: classes/setup.class.php:306
+msgid "Solar Heat"
+msgstr "Sluneční teplo"
+
+#: classes/setup.class.php:307
+msgid "Separate Shower"
+msgstr "Samostatná sprcha"
+
+#: classes/setup.class.php:308
+msgid "Wet Bar"
+msgstr "Mokrý bar"
+
+#: classes/setup.class.php:309
+msgid "Remodeled"
+msgstr "Přestavěno"
+
+#: classes/setup.class.php:310
+msgid "Skylights"
+msgstr "Světlíky"
+
+#: classes/setup.class.php:311
+msgid "Stone Surfaces"
+msgstr "Kamenné povrchy"
+
+#: classes/setup.class.php:312
+msgid "Golf Course"
+msgstr "Kurz golfu"
+
+#: classes/setup.class.php:313
+msgid "Health Club"
+msgstr "kluby zdraví"
+
+#: classes/setup.class.php:314
+msgid "Backyard"
+msgstr "Backyard"
+
+#: classes/setup.class.php:315
+msgid "Pet Allowed"
+msgstr "Domácí zvíře povoleno"
+
+#: classes/setup.class.php:316
+msgid "Office/Den"
+msgstr "Kancelář / Den"
+
+#: classes/setup.class.php:317
+msgid "Laundry"
+msgstr "Prádelna"
+
+#: classes/setup.class.php:330
+msgid "Duplex"
+msgstr "Duplex"
+
+#: classes/setup.class.php:331
+msgid "House"
+msgstr "Dům"
+
+#: classes/setup.class.php:332
+msgid "Office"
+msgstr "Kanceláč"
+
+#: classes/setup.class.php:333
+msgid "Retail"
+msgstr "Maloobchod"
+
+#: classes/setup.class.php:334
+msgid "Vila"
+msgstr "Vila"
+
+#: classes/setup.class.php:347
+msgid "Rent"
+msgstr "Pronájem"
+
+#: classes/setup.class.php:348
+msgid "Sell"
+msgstr "Prodávej"
+
+#: classes/setup.class.php:361
+msgid "Normal"
+msgstr "Normální"
+
+#: classes/setup.class.php:362
+msgid "Available"
+msgstr "Dostupné"
+
+#: classes/setup.class.php:363
+msgid "Not Available"
+msgstr "Není k dispozici"
+
+#: classes/setup.class.php:364
+msgid "Sold"
+msgstr "Prodáno"
+
+#: classes/setup.class.php:365
+msgid "Open House"
+msgstr "Ukázkový dům"
+
+#: classes/setup.class.php:404
+msgid "Email Sent Successfully"
+msgstr "Email byl odeslán úspěšně"
+
+#: classes/setup.class.php:406
+msgid "There is some problem, please try later"
+msgstr "Tam je nějaký problém, zkuste to prosím později"
+
+#: classes/setup.class.php:414
+msgid "Agents"
+msgstr "agenti"
+
+#: classes/setup.class.php:415
+msgid "Custom Fields"
+msgstr "Vlastní pole"
+
+#: classes/setup.class.php:417
+msgid "Shortcodes"
+msgstr "shortcodes"
+
+#: classes/setup.class.php:567 classes/setup.class.php:575
+msgid "Settings Saved"
+msgstr "Nastavení bylo uloženo"
+
+#: classes/setup.class.php:577
+msgid "Error, please try again"
+msgstr "Chyba, zkuste to znovu"
+
+#: classes/setup.class.php:597 classes/setup.class.php:600
+msgid "Property updated."
+msgstr "Vlastnost aktualizována."
+
+#: classes/setup.class.php:598
+msgid "Custom field updated."
+msgstr "Vlastní pole aktualizováno."
+
+#: classes/setup.class.php:599
+msgid "Custom field deleted."
+msgstr "Vlastní pole odstraněn."
+
+#. translators: %s: date and time of the revision
+#: classes/setup.class.php:602
+#, fuzzy
+#| msgid "Property restored to revision from %s"
+msgid "Property restored to revision"
+msgstr "Vlastnost obnovena z revize z% s"
+
+#: classes/setup.class.php:603
+msgid "Property published."
+msgstr "Vlastnost zveřejněna."
+
+#: classes/setup.class.php:604
+msgid "Property saved."
+msgstr "Vlastnost uložena."
+
+#: classes/setup.class.php:605
+msgid "Property submitted."
+msgstr "Vlastnost předloženy."
+
+#: classes/setup.class.php:607
+#, fuzzy
+#| msgid "Property saved."
+msgid "Property scheduled."
+msgstr "Vlastnost uložena."
+
+#. translators: Publish box date format, see http://php.net/date
+#: classes/setup.class.php:609
+msgid "M j, Y @ G:i"
+msgstr "M j, Y 'G: i"
+
+#: classes/setup.class.php:611
+msgid "Property draft updated."
+msgstr "Vlastnost návrh aktualizována."
+
+#: classes/setup.class.php:617 inc/admin/register-property.php:16
+msgid "View Property"
+msgstr "Přehled nemovitostí"
+
+#: classes/setup.class.php:623
+msgid "Preview Property"
+msgstr "náhled Property"
+
+#: classes/setup.class.php:646
+msgid "Size - "
+msgstr "Velikost -"
+
+#: classes/setup.class.php:653
+msgid "Some Area, City"
+msgstr "Nějaký prostor, město"
+
+#: classes/setup.class.php:654 shortcodes/create-property.php:22
+#: shortcodes/edit-property.php:36
+msgid "Address"
+msgstr "Adresa"
+
+#: classes/setup.class.php:655
+msgid ""
+"If latitude and longitude fields are blank, this address will be used for "
+"rendering map"
+msgstr ""
+"Pokud jsou políčka zeměpisné šířky a délky prázdná, bude tato adresa použita "
+"pro vykreslování mapy"
+
+#: classes/setup.class.php:663 classes/setup.class.php:664
+msgid "State"
+msgstr "Město"
+
+#: classes/setup.class.php:672
+msgid "Zip Code"
+msgstr "Zip Code"
+
+#: classes/setup.class.php:673
+msgid "Zipcode"
+msgstr "PSČ"
+
+#: classes/setup.class.php:681 classes/setup.class.php:682
+msgid "City"
+msgstr "Město"
+
+#: classes/setup.class.php:690 classes/setup.class.php:691
+msgid "Country"
+msgstr "Země"
+
+#: classes/setup.class.php:699
+msgid "Rooms"
+msgstr "Místnosti"
+
+#: classes/setup.class.php:700
+msgid "Number of rooms"
+msgstr "Počet obytných místností"
+
+#: classes/setup.class.php:719 classes/widgets/search-properties.php:241
+msgid "Price"
+msgstr "Cena"
+
+#: classes/setup.class.php:720
+msgid "Regular Price of Property"
+msgstr "Pravidelná cena nemovitosti"
+
+#: classes/setup.class.php:727
+msgid "Sale Price"
+msgstr "Prodejní cena"
+
+#: classes/setup.class.php:728
+msgid "Sale Price of Property"
+msgstr "Prodejní cena nemovitosti"
+
+#: classes/setup.class.php:735 shortcodes/vc-settings.php:188
+msgid "Property Type"
+msgstr "typ majetku"
+
+#: classes/setup.class.php:736
+msgid "Choose type of property. You can add your own"
+msgstr "Vyberte typ vlastnosti. Můžete přidat svůj vlastní"
+
+#: classes/setup.class.php:736 classes/setup.class.php:745
+#: classes/setup.class.php:754 inc/menu/admin-settings-arr.php:444
+msgid "here"
+msgstr "tady"
+
+#: classes/setup.class.php:744 shortcodes/my-properties.php:11
+msgid "Purpose"
+msgstr "Účel"
+
+#: classes/setup.class.php:745
+msgid "Choose purpose of property. You can add your own"
+msgstr "Vyberte účel majetku. Můžete přidat svůj vlastní"
+
+#: classes/setup.class.php:753 classes/widgets/search-properties.php:190
+#: shortcodes/my-properties.php:12
+msgid "Status"
+msgstr "Postavení"
+
+#: classes/setup.class.php:754
+msgid "Choose status of property. You can add your own"
+msgstr "Vyberte stav nemovitosti. Můžete přidat svůj vlastní"
+
+#: classes/setup.class.php:762 shortcodes/create-property.php:79
+#: shortcodes/edit-property.php:93
+msgid "Bedrooms"
+msgstr "ložnice"
+
+#: classes/setup.class.php:763
+msgid "Number of bedrooms"
+msgstr "Počet ložnic"
+
+#: classes/setup.class.php:771 shortcodes/create-property.php:76
+#: shortcodes/edit-property.php:90
+msgid "Bathrooms"
+msgstr "koupelny"
+
+#: classes/setup.class.php:772
+msgid "Number of bathrooms"
+msgstr "Počet koupelen"
+
+#: classes/setup.class.php:816
+msgid "Property Page Base"
+msgstr "Báze stránky vlastností"
+
+#: classes/setup.class.php:837
+msgid "Picture of Agent"
+msgstr "Obrázek Agent"
+
+#: classes/setup.class.php:838
+#, fuzzy
+#| msgid "Upload an additional image for your profile."
+msgid "Upload an additional image for your profile"
+msgstr "Nahrát další image pro váš profil."
+
+#: classes/setup.class.php:846
+msgid "Profile Url"
+msgstr "Adresa URL profilu"
+
+#: classes/setup.class.php:847
+msgid "Provide url for agent profile"
+msgstr ""
+
+#: classes/setup.class.php:855
+msgid "Phone Number"
+msgstr "Telefonní číslo"
+
+#: classes/setup.class.php:863
+msgid "Facebook Profile"
+msgstr "Facebook Profile"
+
+#: classes/setup.class.php:871
+msgid "Twitter Profile"
+msgstr "Twitter Profile"
+
+#: classes/setup.class.php:879
+msgid "Google+ Profile"
+msgstr "Google+ profilu"
+
+#: classes/setup.class.php:887
+msgid "LinkedIn Profile"
+msgstr "LinkedIn Profile"
+
+#: classes/setup.class.php:895
+msgid "Facebook Page"
+msgstr "Facebook stránka"
+
+#: classes/setup.class.php:903
+msgid "Instagram"
+msgstr "Instagram"
+
+#: classes/setup.class.php:911
+msgid "YouTube"
+msgstr "YouTube"
+
+#: classes/setup.class.php:918
+msgid "User Tagline"
+msgstr "uživatel fb"
+
+#: classes/setup.class.php:919
+msgid "Will display under username"
+msgstr "Zobrazí pod uživatelským jménem"
+
+#: classes/setup.class.php:926
+msgid "Skills Level"
+msgstr "Úroveň dovedností"
+
+#: classes/setup.class.php:927
+#, fuzzy
+#| msgid "Skill name with percentage value on each line, eg: Speaking, 85"
+msgid "Skill name with value on each line, eg: Properties Sold, 185"
+msgstr ""
+"Skill název s procentuální hodnota na každém řádku, například: Když mluvíme, "
+"85"
+
+#: classes/setup.class.php:932
+msgid "Contact Form Shortcode"
+msgstr "Kontaktní formulář Krátký"
+
+#: classes/setup.class.php:933
+msgid "Leave blank for default contact form"
+msgstr "Nechte prázdné pro výchozí kontaktního formuláře"
+
+#: classes/shortcodes.class.php:82 classes/widgets/search-properties.php:253
+msgid "Search"
+msgstr "Vyhledávání"
+
+#: classes/shortcodes.class.php:83
+msgid "More Filters"
+msgstr "Další filtry"
+
+#: classes/shortcodes.class.php:896
+msgid "Changes Saved!"
+msgstr "Změny uloženy!"
+
+#: classes/shortcodes.class.php:931 classes/shortcodes.class.php:941
+msgid "Username or Email already exists"
+msgstr "Uživatelské jméno nebo e-mail již existuje"
+
+#: classes/shortcodes.class.php:953
+msgid "Registered Successfully, please wait until admin approves."
+msgstr "Registrovány úspěšně, počkejte, dokud správce schválí."
+
+#: classes/shortcodes.class.php:955
+msgid "Error, please try later"
+msgstr "Došlo k chybě, zkuste to prosím později"
+
+#: classes/widgets/mortgage-calculator.php:13
+msgid "REM - Mortgage Calculator"
+msgstr "REM - Hypoteční kalkulačka"
+
+#: classes/widgets/mortgage-calculator.php:14
+msgid "Displays Mortgage Calculator"
+msgstr "Zobrazuje hypoteční kalkulačku"
+
+#: classes/widgets/mortgage-calculator.php:41
+msgid "Sale price"
+msgstr "Prodejní cena"
+
+#: classes/widgets/mortgage-calculator.php:45
+msgid "Down payment"
+msgstr "Akontace"
+
+#: classes/widgets/mortgage-calculator.php:49
+msgid "Interest Rate"
+msgstr "Úroková sazba"
+
+#: classes/widgets/mortgage-calculator.php:53
+msgid "Term"
+msgstr "Termín"
+
+#: classes/widgets/mortgage-calculator.php:53
+msgid "years"
+msgstr "roků"
+
+#: classes/widgets/mortgage-calculator.php:56
+msgid "Calculate"
+msgstr "Vypočítat"
+
+#: classes/widgets/mortgage-calculator.php:68
+#: classes/widgets/search-properties.php:271 inc/menu/page-docs.php:5
+#: shortcodes/my-properties.php:8
+msgid "Title"
+msgstr "Titul"
+
+#: classes/widgets/search-properties.php:15
+msgid "REM - Search Property"
+msgstr "REM - vyhledávací vlastnosti"
+
+#: classes/widgets/search-properties.php:16
+msgid "Search Properties"
+msgstr "Hledat nemovitost"
+
+#: classes/widgets/search-properties.php:78 shortcodes/search-property.php:35
+msgid "Keywords"
+msgstr "Klíčová slova"
+
+#: classes/widgets/search-properties.php:90 shortcodes/create-property.php:57
+#: shortcodes/edit-property.php:71
+msgid "Any Type"
+msgstr "Jakýkoliv typ"
+
+#: classes/widgets/search-properties.php:107
+msgid "Any Area"
+msgstr "Libovolná oblast"
+
+#: classes/widgets/search-properties.php:176 shortcodes/create-property.php:47
+#: shortcodes/edit-property.php:61
+msgid "Any Purpose"
+msgstr "jakémukoliv účelu"
+
+#: classes/widgets/search-properties.php:192 shortcodes/create-property.php:67
+#: shortcodes/edit-property.php:81
+msgid "Any Status"
+msgstr "Jakékoliv Status"
+
+#: classes/widgets/search-properties.php:213
+msgid "Any"
+msgstr "Žádný"
+
+#: classes/widgets/search-properties.php:286 shortcodes/vc-settings.php:8
+msgid "Search Field"
+msgstr "Pole vyhledávání"
+
+#: classes/widgets/search-properties.php:300 inc/menu/page-docs.php:68
+msgid "Search Results Page"
+msgstr "Výsledky vyhledávání"
+
+#: classes/widgets/search-properties.php:321
+#: inc/menu/render-admin-settings.php:123
+msgid "No Pages Found!"
+msgstr "Nebyly nalezeny žádné stránky!"
+
+#: classes/widgets/search-properties.php:324
+msgid "Paste following shortcode in selected page to display results"
+msgstr "Po vložení krátkého kódu na vybranou stránku zobrazte výsledky"
+
+#: core.functions.php:116
+msgid "United Arab Emirates dirham"
+msgstr "Spojené arabské emiráty dirham"
+
+#: core.functions.php:117
+msgid "Afghan afghani"
+msgstr "Afghánský afghání"
+
+#: core.functions.php:118
+msgid "Albanian lek"
+msgstr "Lek"
+
+#: core.functions.php:119
+msgid "Armenian dram"
+msgstr "Arménská"
+
+#: core.functions.php:120
+msgid "Netherlands Antillean guilder"
+msgstr "Nizozemský antilský gulden"
+
+#: core.functions.php:121
+msgid "Angolan kwanza"
+msgstr "Angolská kwanza"
+
+#: core.functions.php:122
+msgid "Argentine peso"
+msgstr "Argentinské peso"
+
+#: core.functions.php:123
+msgid "Australian dollar"
+msgstr "Australský dolar"
+
+#: core.functions.php:124
+msgid "Aruban florin"
+msgstr "Aruban florin"
+
+#: core.functions.php:125
+msgid "Azerbaijani manat"
+msgstr "Ázerbájdžánské manáty"
+
+#: core.functions.php:126
+msgid "Bosnia and Herzegovina convertible mark"
+msgstr "Konvertibilní značka Bosny a Hercegoviny"
+
+#: core.functions.php:127
+msgid "Barbadian dollar"
+msgstr "Barbadoský dolar"
+
+#: core.functions.php:128
+msgid "Bangladeshi taka"
+msgstr "Bangladéšská taka"
+
+#: core.functions.php:129
+msgid "Bulgarian lev"
+msgstr "bulharský lev"
+
+#: core.functions.php:130
+msgid "Bahraini dinar"
+msgstr "Bahrajnský dinár"
+
+#: core.functions.php:131
+msgid "Burundian franc"
+msgstr "Burundský frank"
+
+#: core.functions.php:132
+msgid "Bermudian dollar"
+msgstr "Bermudský dolar"
+
+#: core.functions.php:133
+msgid "Brunei dollar"
+msgstr "Brunejský dolar"
+
+#: core.functions.php:134
+msgid "Bolivian boliviano"
+msgstr "Bolivijský boliviano"
+
+#: core.functions.php:135
+msgid "Brazilian real"
+msgstr "Brazilský skutečný"
+
+#: core.functions.php:136
+msgid "Bahamian dollar"
+msgstr "Bahamský dolar"
+
+#: core.functions.php:137
+msgid "Bitcoin"
+msgstr "Bitcoin"
+
+#: core.functions.php:138
+msgid "Bhutanese ngultrum"
+msgstr "Bhutanese ngultrum"
+
+#: core.functions.php:139
+msgid "Botswana pula"
+msgstr "Botswanská pula"
+
+#: core.functions.php:140
+msgid "Belarusian ruble"
+msgstr "Běloruský rubl"
+
+#: core.functions.php:141
+msgid "Belize dollar"
+msgstr "Belize dolar"
+
+#: core.functions.php:142
+msgid "Canadian dollar"
+msgstr "Kanadský dolar"
+
+#: core.functions.php:143
+msgid "Congolese franc"
+msgstr "Konžský frank"
+
+#: core.functions.php:144
+msgid "Swiss franc"
+msgstr "švýcarský frank"
+
+#: core.functions.php:145
+msgid "Chilean peso"
+msgstr "Chilské peso"
+
+#: core.functions.php:146
+msgid "Chinese yuan"
+msgstr "Čínský juan"
+
+#: core.functions.php:147
+msgid "Colombian peso"
+msgstr "Kolumbijské peso"
+
+#: core.functions.php:148
+msgid "Costa Rican col&oacute;n"
+msgstr "Costa Rican col & oacute;"
+
+#: core.functions.php:149
+msgid "Cuban convertible peso"
+msgstr "Kubánské kabrioletové peso"
+
+#: core.functions.php:150
+msgid "Cuban peso"
+msgstr "Cuban peso"
+
+#: core.functions.php:151
+msgid "Cape Verdean escudo"
+msgstr "Cape Verdean escudo"
+
+#: core.functions.php:152
+msgid "Czech koruna"
+msgstr "česká koruna"
+
+#: core.functions.php:153
+msgid "Djiboutian franc"
+msgstr "Džibutský frank"
+
+#: core.functions.php:154
+msgid "Danish krone"
+msgstr "Dánská koruna"
+
+#: core.functions.php:155
+msgid "Dominican peso"
+msgstr "Dominikánské peso"
+
+#: core.functions.php:156
+msgid "Algerian dinar"
+msgstr "Alžírský dinár"
+
+#: core.functions.php:157
+msgid "Egyptian pound"
+msgstr "Egyptská libra"
+
+#: core.functions.php:158
+msgid "Eritrean nakfa"
+msgstr "Eritrejská nakfa"
+
+#: core.functions.php:159
+msgid "Ethiopian birr"
+msgstr "Etiopský birr"
+
+#: core.functions.php:160
+msgid "Euro"
+msgstr "Euro"
+
+#: core.functions.php:161
+msgid "Fijian dollar"
+msgstr "Fidžijský dolar"
+
+#: core.functions.php:162
+msgid "Falkland Islands pound"
+msgstr "Falklandské ostrovy libra"
+
+#: core.functions.php:163
+msgid "Pound sterling"
+msgstr "Libra šterlinků"
+
+#: core.functions.php:164
+msgid "Georgian lari"
+msgstr "Gruzínské lari"
+
+#: core.functions.php:165
+msgid "Guernsey pound"
+msgstr "Guernseyová libra"
+
+#: core.functions.php:166
+msgid "Ghana cedi"
+msgstr "Ghana cedi"
+
+#: core.functions.php:167
+msgid "Gibraltar pound"
+msgstr "Gibraltarová libra"
+
+#: core.functions.php:168
+msgid "Gambian dalasi"
+msgstr "Gambian dalasi"
+
+#: core.functions.php:169
+msgid "Guinean franc"
+msgstr "Guinejský frank"
+
+#: core.functions.php:170
+msgid "Guatemalan quetzal"
+msgstr "Guatemalský quetzal"
+
+#: core.functions.php:171
+msgid "Guyanese dollar"
+msgstr "Guyanský dolar"
+
+#: core.functions.php:172
+msgid "Hong Kong dollar"
+msgstr "Hong Kong dolar"
+
+#: core.functions.php:173
+msgid "Honduran lempira"
+msgstr "Honduraská lempira"
+
+#: core.functions.php:174
+msgid "Croatian kuna"
+msgstr "Chorvatská kuna"
+
+#: core.functions.php:175
+msgid "Haitian gourde"
+msgstr "Haitian gourde"
+
+#: core.functions.php:176
+msgid "Hungarian forint"
+msgstr "maďarský forint"
+
+#: core.functions.php:177
+msgid "Indonesian rupiah"
+msgstr "Indonéský rupiah"
+
+#: core.functions.php:178
+msgid "Israeli new shekel"
+msgstr "Izraelský nový šekel"
+
+#: core.functions.php:179
+msgid "Manx pound"
+msgstr "Manxová libra"
+
+#: core.functions.php:180
+msgid "Indian rupee"
+msgstr "Indická rupie"
+
+#: core.functions.php:181
+msgid "Iraqi dinar"
+msgstr "Irácký dinár"
+
+#: core.functions.php:182
+msgid "Iranian rial"
+msgstr "Íránský riál"
+
+#: core.functions.php:183
+msgid "Icelandic kr&oacute;na"
+msgstr "Islandský kr. Oakut;"
+
+#: core.functions.php:184
+msgid "Jersey pound"
+msgstr "Jersey pound"
+
+#: core.functions.php:185
+msgid "Jamaican dollar"
+msgstr "Jamajský dolar"
+
+#: core.functions.php:186
+msgid "Jordanian dinar"
+msgstr "Jordánský dinár"
+
+#: core.functions.php:187
+msgid "Japanese yen"
+msgstr "Japonský jen"
+
+#: core.functions.php:188
+msgid "Kenyan shilling"
+msgstr "Keňský šiling"
+
+#: core.functions.php:189
+msgid "Kyrgyzstani som"
+msgstr "Kyrgyzstani som"
+
+#: core.functions.php:190
+msgid "Cambodian riel"
+msgstr "Kambodžský riel"
+
+#: core.functions.php:191
+msgid "Comorian franc"
+msgstr "Komorský frank"
+
+#: core.functions.php:192
+msgid "North Korean won"
+msgstr "Severokorejský vyhrál"
+
+#: core.functions.php:193
+msgid "South Korean won"
+msgstr "Jihokorejský vyhrál"
+
+#: core.functions.php:194
+msgid "Kuwaiti dinar"
+msgstr "Kuvajtský dinár"
+
+#: core.functions.php:195
+msgid "Cayman Islands dollar"
+msgstr "Dolar Kajmanských ostrovů"
+
+#: core.functions.php:196
+msgid "Kazakhstani tenge"
+msgstr "Tenge"
+
+#: core.functions.php:197
+msgid "Lao kip"
+msgstr "Laoský kip"
+
+#: core.functions.php:198
+msgid "Lebanese pound"
+msgstr "Libanonská libra"
+
+#: core.functions.php:199
+msgid "Sri Lankan rupee"
+msgstr "Srí Lanká rupie"
+
+#: core.functions.php:200
+msgid "Liberian dollar"
+msgstr "Libérijský dolar"
+
+#: core.functions.php:201
+msgid "Lesotho loti"
+msgstr "Lesothský loti"
+
+#: core.functions.php:202
+msgid "Libyan dinar"
+msgstr "Libyjský dinár"
+
+#: core.functions.php:203
+msgid "Moroccan dirham"
+msgstr "Marocký dirham"
+
+#: core.functions.php:204
+msgid "Moldovan leu"
+msgstr "Moldavské leu"
+
+#: core.functions.php:205
+msgid "Malagasy ariary"
+msgstr "Malgašská arriária"
+
+#: core.functions.php:206
+msgid "Macedonian denar"
+msgstr "Makedonský denar"
+
+#: core.functions.php:207
+msgid "Burmese kyat"
+msgstr "Myanmarský kyat"
+
+#: core.functions.php:208
+msgid "Mongolian t&ouml;gr&ouml;g"
+msgstr "Mongolské t & ouml; gr & ouml; g"
+
+#: core.functions.php:209
+msgid "Macanese pataca"
+msgstr "Macauská pataca"
+
+#: core.functions.php:210
+msgid "Mauritanian ouguiya"
+msgstr "Mauritánie ouguiya"
+
+#: core.functions.php:211
+msgid "Mauritian rupee"
+msgstr "Mauritské rupie"
+
+#: core.functions.php:212
+msgid "Maldivian rufiyaa"
+msgstr "Maldivská rufiyaa"
+
+#: core.functions.php:213
+msgid "Malawian kwacha"
+msgstr "Malawian kwacha"
+
+#: core.functions.php:214
+msgid "Mexican peso"
+msgstr "Mexické peso"
+
+#: core.functions.php:215
+msgid "Malaysian ringgit"
+msgstr "Malajsijský ringgit"
+
+#: core.functions.php:216
+msgid "Mozambican metical"
+msgstr "Mosambický metical"
+
+#: core.functions.php:217
+msgid "Namibian dollar"
+msgstr "Namibijský dolar"
+
+#: core.functions.php:218
+msgid "Nigerian naira"
+msgstr "Nigerijská naira"
+
+#: core.functions.php:219
+msgid "Nicaraguan c&oacute;rdoba"
+msgstr "Nikaragujský okruh; rdoba"
+
+#: core.functions.php:220
+msgid "Norwegian krone"
+msgstr "Norská koruna"
+
+#: core.functions.php:221
+msgid "Nepalese rupee"
+msgstr "Nepálská rupie"
+
+#: core.functions.php:222
+msgid "New Zealand dollar"
+msgstr "Nový Zéland dolar"
+
+#: core.functions.php:223
+msgid "Omani rial"
+msgstr "Ománský rial"
+
+#: core.functions.php:224
+msgid "Panamanian balboa"
+msgstr "Panamská balboa"
+
+#: core.functions.php:225
+msgid "Peruvian nuevo sol"
+msgstr "Peruánský nuevo sol"
+
+#: core.functions.php:226
+msgid "Papua New Guinean kina"
+msgstr "Papua Nová Guinea kina"
+
+#: core.functions.php:227
+msgid "Philippine peso"
+msgstr "Filipínské peso"
+
+#: core.functions.php:228
+msgid "Pakistani rupee"
+msgstr "Pákistánská rupie"
+
+#: core.functions.php:229
+msgid "Polish z&#x142;oty"
+msgstr "Polská zóna"
+
+#: core.functions.php:230
+msgid "Transnistrian ruble"
+msgstr "Podnesterský rubl"
+
+#: core.functions.php:231
+msgid "Paraguayan guaran&iacute;"
+msgstr "Paraguayan garant;"
+
+#: core.functions.php:232
+msgid "Qatari riyal"
+msgstr "Katarský rij"
+
+#: core.functions.php:233
+msgid "Romanian leu"
+msgstr "rumunský lei"
+
+#: core.functions.php:234
+msgid "Serbian dinar"
+msgstr "Srbský dinár"
+
+#: core.functions.php:235
+msgid "Russian ruble"
+msgstr "Ruský rubl"
+
+#: core.functions.php:236
+msgid "Rwandan franc"
+msgstr "Rwandský frank"
+
+#: core.functions.php:237
+msgid "Saudi riyal"
+msgstr "Saúdské riyal"
+
+#: core.functions.php:238
+msgid "Solomon Islands dollar"
+msgstr "Dolar Šalamounových ostrovů"
+
+#: core.functions.php:239
+msgid "Seychellois rupee"
+msgstr "Seychellois rupee"
+
+#: core.functions.php:240
+msgid "Sudanese pound"
+msgstr "Súdánská libra"
+
+#: core.functions.php:241
+msgid "Swedish krona"
+msgstr "švédská koruna"
+
+#: core.functions.php:242
+msgid "Singapore dollar"
+msgstr "Singapurský dolar"
+
+#: core.functions.php:243
+msgid "Saint Helena pound"
+msgstr "Svatá Helena"
+
+#: core.functions.php:244
+msgid "Sierra Leonean leone"
+msgstr "Sierra Leonean leone"
+
+#: core.functions.php:245
+msgid "Somali shilling"
+msgstr "Somálský šilink"
+
+#: core.functions.php:246
+msgid "Surinamese dollar"
+msgstr "Surinamský dolar"
+
+#: core.functions.php:247
+msgid "South Sudanese pound"
+msgstr "Jižní Súdánská libra"
+
+#: core.functions.php:248
+msgid "S&atilde;o Tom&eacute; and Pr&iacute;ncipe dobra"
+msgstr "S & atilde; o Tom & eacute; a Prcicute; ncipe dobra"
+
+#: core.functions.php:249
+msgid "Syrian pound"
+msgstr "Syrská libra"
+
+#: core.functions.php:250
+msgid "Swazi lilangeni"
+msgstr "Svazijský lilangeni"
+
+#: core.functions.php:251
+msgid "Thai baht"
+msgstr "Thajský baht"
+
+#: core.functions.php:252
+msgid "Tajikistani somoni"
+msgstr "Tajikistani somoni"
+
+#: core.functions.php:253
+msgid "Turkmenistan manat"
+msgstr "Turkmenistan manat"
+
+#: core.functions.php:254
+msgid "Tunisian dinar"
+msgstr "Tuniský dinár"
+
+#: core.functions.php:255
+msgid "Tongan pa&#x2bb;anga"
+msgstr "Tongan pa & anga"
+
+#: core.functions.php:256
+msgid "Turkish lira"
+msgstr "Turecká lira"
+
+#: core.functions.php:257
+msgid "Trinidad and Tobago dollar"
+msgstr "Trinidad a Tobago dolar"
+
+#: core.functions.php:258
+msgid "New Taiwan dollar"
+msgstr "Tchajwanský dolar"
+
+#: core.functions.php:259
+msgid "Tanzanian shilling"
+msgstr "Tanzanský šiling"
+
+#: core.functions.php:260
+msgid "Ukrainian hryvnia"
+msgstr "Ukrajinská hřivna"
+
+#: core.functions.php:261
+msgid "Ugandan shilling"
+msgstr "Ugandský šilink"
+
+#: core.functions.php:262
+msgid "United States dollar"
+msgstr "americký dolar"
+
+#: core.functions.php:263
+msgid "Uruguayan peso"
+msgstr "Uruguayské peso"
+
+#: core.functions.php:264
+msgid "Uzbekistani som"
+msgstr "Uzbekistani som"
+
+#: core.functions.php:265
+msgid "Venezuelan bol&iacute;var"
+msgstr "Venezuelský bol & iacute; var"
+
+#: core.functions.php:266
+msgid "Vietnamese &#x111;&#x1ed3;ng"
+msgstr "Vietnamské & # x11ed; ng"
+
+#: core.functions.php:267
+msgid "Vanuatu vatu"
+msgstr "Vanuatský vatu"
+
+#: core.functions.php:268
+msgid "Samoan t&#x101;l&#x101;"
+msgstr "Samoan t & lt; x & gt;"
+
+#: core.functions.php:269
+msgid "Central African CFA franc"
+msgstr "Středoafrický CFA frank"
+
+#: core.functions.php:270
+msgid "East Caribbean dollar"
+msgstr "Východoafrický karibský dolar"
+
+#: core.functions.php:271
+msgid "West African CFA franc"
+msgstr "Západoafrický CFA frank"
+
+#: core.functions.php:272
+msgid "CFP franc"
+msgstr "CFP frank"
+
+#: core.functions.php:273
+msgid "Yemeni rial"
+msgstr "Jemenský rial"
+
+#: core.functions.php:274
+msgid "South African rand"
+msgstr "Jihoafrický rand"
+
+#: core.functions.php:275
+msgid "Zambian kwacha"
+msgstr "Zambian kwacha"
+
+#: core.functions.php:549
+msgid "General Settings"
+msgstr "Obecné nastavení"
+
+#: core.functions.php:550
+msgid "Internal Structure"
+msgstr "Vnitřní struktura"
+
+#: core.functions.php:551 inc/menu/admin-settings-arr.php:89
+msgid "Property Features"
+msgstr "Vybavení"
+
+#: core.functions.php:552 inc/admin/single-property-fields.php:35
+msgid "File Attachments"
+msgstr "Soubory příloh"
+
+#: core.functions.php:565
+msgid "Personal Info"
+msgstr "Osobní informace"
+
+#: core.functions.php:566
+msgid "Social Profiles"
+msgstr "sociální profily"
+
+#: core.functions.php:567
+msgid "Skills"
+msgstr "dovedností"
+
+#: core.functions.php:583
+msgid "Style 1 - Inline"
+msgstr ""
+
+#: core.functions.php:584
+msgid "Style 2 - Static Box"
+msgstr ""
+
+#: core.functions.php:585
+msgid "Style 3 - Hover Box"
+msgstr ""
+
+#: core.functions.php:586
+msgid "Style 4 - Mini Box"
+msgstr ""
+
+#: core.functions.php:587
+#, fuzzy
+#| msgid "Full Box"
+msgid "Style 5 - Full Box"
+msgstr "Plná krabice"
+
+#: core.functions.php:588
+msgid "Style 6 - Fade Thumbnails"
+msgstr ""
+
+#: inc/admin/property-images-metabox.php:3
+msgid "Upload Images"
+msgstr "upload obrázků"
+
+#: inc/admin/property-location-map.php:18 shortcodes/create-property.php:135
+#: shortcodes/edit-property.php:164
+msgid "Type to Search..."
+msgstr "Typ na vyhledávání ..."
+
+#: inc/admin/property-location-map.php:110
+msgid "Search the address on search bar. "
+msgstr ""
+
+#: inc/admin/property-location-map.php:111 shortcodes/create-property.php:211
+#: shortcodes/edit-property.php:240
+msgid "Drag the pin to the location on the map"
+msgstr "Přetažením kolík na místo na mapě"
+
+#: inc/admin/register-property.php:3 shortcodes/vc-settings.php:18
+#: shortcodes/vc-settings.php:39 shortcodes/vc-settings.php:54
+#: shortcodes/vc-settings.php:81 shortcodes/vc-settings.php:96
+#: shortcodes/vc-settings.php:111 shortcodes/vc-settings.php:126
+#: shortcodes/vc-settings.php:227 shortcodes/vc-settings.php:242
+#: shortcodes/vc-settings.php:258 shortcodes/vc-settings.php:266
+#: shortcodes/vc-settings.php:555 shortcodes/vc-settings.php:620
+msgid "Real Estate Manager"
+msgstr "Real Estate Manažer"
+
+#: inc/admin/register-property.php:6 inc/admin/register-property.php:10
+#: inc/admin/register-property.php:22 inc/menu/page-agents.php:63
+msgid "Properties"
+msgstr "vlastnosti"
+
+#: inc/admin/register-property.php:11
+msgid "Property"
+msgstr "Vlastnictví"
+
+#: inc/admin/register-property.php:12
+msgctxt "real-estate-manager"
+msgid "Add New Property"
+msgstr "Přidejte Nová vlastnost"
+
+#: inc/admin/register-property.php:13
+msgid "Add New Property"
+msgstr "Přidejte Nová vlastnost"
+
+#: inc/admin/register-property.php:14 shortcodes/vc-settings.php:94
+msgid "Edit Property"
+msgstr "editovat Property"
+
+#: inc/admin/register-property.php:15
+msgid "New Property"
+msgstr "New Property"
+
+#: inc/admin/register-property.php:17 shortcodes/vc-settings.php:553
+msgid "Search Property"
+msgstr "Vyhledávání nemovitostí"
+
+#: inc/admin/register-property.php:18
+msgid "No Property found"
+msgstr "No Property nalezeno"
+
+#: inc/admin/register-property.php:19
+msgid "No Property found in Trash"
+msgstr "našel v koši Ne Property"
+
+#: inc/admin/register-property.php:20
+msgid "Parent Property:"
+msgstr "Parent Property:"
+
+#: inc/admin/register-property.php:70
+msgctxt "Property Tags"
+msgid "Property Tags"
+msgstr "Označení vlastnictví"
+
+#: inc/admin/register-property.php:71
+msgctxt "Tags"
+msgid "Tag"
+msgstr "Štítek"
+
+#: inc/admin/register-property.php:72
+msgid "Search Property Tags"
+msgstr "Vyhledávání nemovitostí tagy"
+
+#: inc/admin/register-property.php:73
+msgid "Popular Tags"
+msgstr "Populární tagy"
+
+#: inc/admin/register-property.php:74
+msgid "All Tags"
+msgstr "Všechny tagy"
+
+#: inc/admin/register-property.php:75 inc/admin/register-property.php:76
+msgid "Parent Tag"
+msgstr "Parent Tag"
+
+#: inc/admin/register-property.php:77
+msgid "Edit Tag"
+msgstr "Edit Tag"
+
+#: inc/admin/register-property.php:78
+msgid "Update Tag"
+msgstr "aktualizace Tag"
+
+#: inc/admin/register-property.php:79
+msgid "Add New Tag"
+msgstr "Přidat nový štítek"
+
+#: inc/admin/register-property.php:80
+msgid "New Tag Name"
+msgstr "New Tag Name"
+
+#: inc/admin/register-property.php:81
+msgid "Add or remove Tags"
+msgstr "Přidat nebo odebrat značky"
+
+#: inc/admin/register-property.php:82
+msgid "Choose from most used tags"
+msgstr "Vyberte si z většiny používaných tagů"
+
+#: inc/admin/register-property.php:83
+msgid " Tags"
+msgstr "Tagy"
+
+#: inc/admin/single-property-fields.php:11
+msgid "Latitude"
+msgstr "Zeměpisná šířka"
+
+#: inc/admin/single-property-fields.php:12
+msgid "Latitude of property, will use for map"
+msgstr "Zeměpisná šířka majetku, bude používat na mapě"
+
+#: inc/admin/single-property-fields.php:19
+msgid "Longitude"
+msgstr "Zeměpisná délka"
+
+#: inc/admin/single-property-fields.php:20
+msgid "Longitude of property, will use for map"
+msgstr "Délka majetku, bude používat na mapě"
+
+#: inc/admin/single-property-fields.php:27
+msgid "Video URL"
+msgstr "Video URL"
+
+#: inc/admin/single-property-fields.php:28
+msgid "Provide video URL"
+msgstr "Poskytnout adresu URL videa"
+
+#: inc/admin/single-property-fields.php:36
+msgid "One file ID per line"
+msgstr "Jeden ID souboru na jeden řádek"
+
+#: inc/admin/single-property-fields.php:43
+msgid "After Price"
+msgstr "Po ceně"
+
+#: inc/admin/single-property-fields.php:44
+msgid "Text to display after price, Eg: / Month"
+msgstr "Text, který se zobrazí po ceně, např .: / měsíc"
+
+#: inc/admin/single-property-fields.php:69
+msgid "Check if property have this option"
+msgstr "Zkontrolujte, zda vlastnost mají tuto možnost"
+
+#: inc/admin/single-property-fields.php:96
+msgid "Upload"
+msgstr "nahrát"
+
+#: inc/admin/single-property-fields.php:114
+msgid "NO"
+msgstr "NE"
+
+#: inc/admin/single-property-fields.php:114
+msgid "YES"
+msgstr "Ano"
+
+#: inc/ajax/search-property-ajax.php:98 shortcodes/vc-settings.php:256
+msgid "Search Results"
+msgstr "Výsledky vyhledávání"
+
+#: inc/ajax/search-property-ajax.php:119 shortcodes/search-results.php:100
+msgid "Sorry! No Properties Found. Try Searching Again."
+msgstr "Promiňte! Žádné vlastnosti Found. Zkuste vyhledávání znovu."
+
+#: inc/menu/admin-settings-arr.php:6
+msgid "Currency Options"
+msgstr "Možnosti měny"
+
+#: inc/menu/admin-settings-arr.php:14
+msgid "Currency"
+msgstr "Měna"
+
+#: inc/menu/admin-settings-arr.php:15
+msgid "Currency Symbol for Properties"
+msgstr "Symbol měny pro vlastnosti"
+
+#: inc/menu/admin-settings-arr.php:22
+msgid "Currency Position"
+msgstr "Umístění měny"
+
+#: inc/menu/admin-settings-arr.php:24
+msgid "Left"
+msgstr "levý"
+
+#: inc/menu/admin-settings-arr.php:25
+msgid "Right"
+msgstr "doprava"
+
+#: inc/menu/admin-settings-arr.php:26
+msgid "Left with Space"
+msgstr "Vlevo s prostorem"
+
+#: inc/menu/admin-settings-arr.php:27
+msgid "Right with Space"
+msgstr "Prostě s prostorem"
+
+#: inc/menu/admin-settings-arr.php:29
+msgid "Position of the Currency Symbol"
+msgstr "Poloha symbolu měny"
+
+#: inc/menu/admin-settings-arr.php:35
+msgid "Thousand Separator"
+msgstr "Oddělovač tisíců"
+
+#: inc/menu/admin-settings-arr.php:36
+msgid "Thousand separator of display price"
+msgstr "Tisíc oddělovač zobrazovací ceny"
+
+#: inc/menu/admin-settings-arr.php:43
+msgid "Decimal Separator"
+msgstr "Desetinný oddělovač"
+
+#: inc/menu/admin-settings-arr.php:44
+msgid "Decimal separator of display price"
+msgstr "Desetinný oddělovač zobrazovací ceny"
+
+#: inc/menu/admin-settings-arr.php:51
+msgid "Number of Decimals"
+msgstr "Počet desetiných míst"
+
+#: inc/menu/admin-settings-arr.php:52
+msgid "Number of decimal points shown in display price"
+msgstr "Počet desetinných míst zobrazených v zobrazené ceně"
+
+#: inc/menu/admin-settings-arr.php:60
+msgid "Property Settings"
+msgstr "Nastavení vlastnictví"
+
+#: inc/menu/admin-settings-arr.php:68
+msgid "Properties Per Page"
+msgstr "Vlastnosti na stránce"
+
+#: inc/menu/admin-settings-arr.php:69
+msgid ""
+"Number of properties you want to display on search results and archive pages."
+msgstr ""
+"Počet vlastností, které chcete zobrazit ve výsledcích vyhledávání a "
+"archivních stránkách."
+
+#: inc/menu/admin-settings-arr.php:75
+msgid "Area Unit"
+msgstr "Plošné jednotky"
+
+#: inc/menu/admin-settings-arr.php:76
+msgid "Provide unit of area Eg: Square Feet"
+msgstr "Uveďte jednotku oblasti Např .: čtverečné nohy"
+
+#: inc/menu/admin-settings-arr.php:82
+msgid "Excerpt Length"
+msgstr "Délka výňatku"
+
+#: inc/menu/admin-settings-arr.php:83
+msgid "Number of words to be displayed from the property excerpt. Eg: 15"
+msgstr "Počet slov, která mají být zobrazena z výpisu vlastností. Např .: 15"
+
+#: inc/menu/admin-settings-arr.php:90
+msgid ""
+"One per line. This will add checkboxes to your property edit page for you to "
+"select. Leave blank to use default"
+msgstr ""
+"Jeden na řádek. Do pole pro úpravu vlastností přidáte zaškrtávací políčka, "
+"kterou si vyberete. Chcete-li použít výchozí, ponechte prázdné"
+
+#: inc/menu/admin-settings-arr.php:96
+msgid "Property Types"
+msgstr "Typy nemovitostí"
+
+#: inc/menu/admin-settings-arr.php:97
+msgid ""
+"One per line. This will add property types to select from when entering "
+"properties. Leave blank to use default"
+msgstr ""
+"Jeden na řádek. Tím se při zadávání vlastností zvolí typy vlastností. Chcete-"
+"li použít výchozí, ponechte prázdné"
+
+#: inc/menu/admin-settings-arr.php:103
+msgid "Property Purposes"
+msgstr "Charakter Cíle"
+
+#: inc/menu/admin-settings-arr.php:104
+msgid ""
+"One per line. This will add property purposes to select from when entering "
+"properties. Leave blank to use default"
+msgstr ""
+"Jeden na řádek. Tím se přidá vlastnost, kterou si vyberete při zadávání "
+"vlastností. Chcete-li použít výchozí, ponechte prázdné"
+
+#: inc/menu/admin-settings-arr.php:110
+msgid "Property Statuses"
+msgstr "Charakter Stavy"
+
+#: inc/menu/admin-settings-arr.php:111
+msgid ""
+"One per line. This will add property status to select from when entering "
+"properties. Leave blank to use default"
+msgstr ""
+"Jeden na řádek. Tím se přidá stav vlastností, který si vyberete při zadávání "
+"vlastností. Chcete-li použít výchozí, ponechte prázdné"
+
+#: inc/menu/admin-settings-arr.php:120
+msgid "Templates Settings"
+msgstr "Nastavení šablon"
+
+#: inc/menu/admin-settings-arr.php:127
+msgid "Property Page Template"
+msgstr "Vlastnost šablonu stránky"
+
+#: inc/menu/admin-settings-arr.php:128
+msgid "Choose single property display layout"
+msgstr "Vyberte si jedinou vlastnost rozložení obrazovky"
+
+#: inc/menu/admin-settings-arr.php:130
+msgid "Default"
+msgstr "standardní"
+
+#: inc/menu/admin-settings-arr.php:131
+msgid "Full Width"
+msgstr "Plná šířka"
+
+#: inc/menu/admin-settings-arr.php:132
+msgid "Left Sidebar"
+msgstr "Left Sidebar"
+
+#: inc/menu/admin-settings-arr.php:133 inc/menu/admin-settings-arr.php:143
+#: inc/menu/admin-settings-arr.php:153
+msgid "From Theme"
+msgstr "od Theme"
+
+#: inc/menu/admin-settings-arr.php:139
+msgid "Archive Page Template"
+msgstr "Archiv šablonu stránky"
+
+#: inc/menu/admin-settings-arr.php:140
+msgid "Choose tags and archive properties display layout"
+msgstr "Vyberte komentáře a archivace vlastnosti zobrazení rozvržení"
+
+#: inc/menu/admin-settings-arr.php:142 inc/menu/admin-settings-arr.php:152
+msgid "From Plugin"
+msgstr "od Plugin"
+
+#: inc/menu/admin-settings-arr.php:149
+msgid "Agent Page Template"
+msgstr "Agent šablonu stránky"
+
+#: inc/menu/admin-settings-arr.php:150
+msgid "Choose agent page display layout"
+msgstr "Vyberte si agenta rozvržení zobrazení stránky"
+
+#: inc/menu/admin-settings-arr.php:159
+msgid "Container Maximum Width"
+msgstr "Maximální šířka kontejneru"
+
+#: inc/menu/admin-settings-arr.php:160
+msgid "Provide container max width in px, eg: 1140px"
+msgstr "Uveďte maximální šířku kontejneru v px, například: 1140px"
+
+#: inc/menu/admin-settings-arr.php:166
+msgid "Property Page Sidebar Card"
+msgstr "Stránka s vlastnostmi Postranní karta"
+
+#: inc/menu/admin-settings-arr.php:167
+msgid ""
+"Enable or disable default agent card and contact form on single property page"
+msgstr ""
+"Povolení nebo zakázání výchozí karty agentů a kontaktního formuláře na jedné "
+"stránce vlastností"
+
+#: inc/menu/admin-settings-arr.php:169 inc/menu/admin-settings-arr.php:179
+#: inc/menu/admin-settings-arr.php:583 inc/menu/admin-settings-arr.php:593
+#: inc/menu/render-admin-settings.php:191 shortcodes/vc-settings.php:219
+#: shortcodes/vc-settings.php:346 shortcodes/vc-settings.php:366
+#: shortcodes/vc-settings.php:684 shortcodes/vc-settings.php:716
+#: shortcodes/vc-settings.php:734 shortcodes/vc-settings.php:745
+msgid "Enable"
+msgstr "Umožnit"
+
+#: inc/menu/admin-settings-arr.php:170 inc/menu/admin-settings-arr.php:180
+#: inc/menu/admin-settings-arr.php:584 inc/menu/admin-settings-arr.php:594
+#: shortcodes/vc-settings.php:218 shortcodes/vc-settings.php:345
+#: shortcodes/vc-settings.php:365 shortcodes/vc-settings.php:683
+#: shortcodes/vc-settings.php:715 shortcodes/vc-settings.php:733
+#: shortcodes/vc-settings.php:744
+msgid "Disable"
+msgstr "Zakázat"
+
+#: inc/menu/admin-settings-arr.php:176
+msgid "Agent Page Sidebar Card"
+msgstr "Karta postranního panelu agenta"
+
+#: inc/menu/admin-settings-arr.php:177
+msgid ""
+"Enable or disable default agent card and contact form on single agent page"
+msgstr ""
+"Povolení nebo zakázání výchozí karty agentů a kontaktního formuláře na "
+"stránce jednoho agenta"
+
+#: inc/menu/admin-settings-arr.php:186
+msgid "Property Page Sidebar"
+msgstr "Stránka Postranního panelu vlastností"
+
+#: inc/menu/admin-settings-arr.php:187
+msgid "Choose sidebar for single property page"
+msgstr "Zvolte postranní panel pro jednu stránku vlastností"
+
+#: inc/menu/admin-settings-arr.php:192
+msgid "Agent Page Sidebar"
+msgstr "Stránka bočního panelu agenta"
+
+#: inc/menu/admin-settings-arr.php:193
+msgid "Choose sidebar for agent details page"
+msgstr "Zvolte boční panel pro stránku s podrobnostmi agenta"
+
+#: inc/menu/admin-settings-arr.php:198
+msgid "Property Edit Page"
+msgstr "Vlastnost Upravit stránku"
+
+#: inc/menu/admin-settings-arr.php:199
+msgid "Paste shortcode [rem_edit_property] on selected page"
+msgstr "Vložte zkrácený kód [rem_edit_property] na vybranou stránku"
+
+#: inc/menu/admin-settings-arr.php:204
+msgid "Inline Property Bar Fields"
+msgstr "Inline řádky pole vlastností"
+
+#: inc/menu/admin-settings-arr.php:205
+msgid ""
+"Provide field names each per line to display on top bar of inline property "
+"listing style"
+msgstr ""
+"Uveďte názvy polí na každý řádek, aby se zobrazily na horním řádku inline "
+"stylu zápisu vlastností"
+
+#: inc/menu/admin-settings-arr.php:213
+msgid "Search Settings"
+msgstr "Prohledat nastavení"
+
+#: inc/menu/admin-settings-arr.php:221
+msgid "Search Results Style"
+msgstr "Výsledky vyhledávání Styl"
+
+#: inc/menu/admin-settings-arr.php:222
+msgid "Choose style for search results"
+msgstr "Zvolte styl pro výsledky vyhledávání"
+
+#: inc/menu/admin-settings-arr.php:229
+msgid "Search Results Columns"
+msgstr "Sloupce výsledků vyhledávání"
+
+#: inc/menu/admin-settings-arr.php:230
+msgid "Choose columns in a row for box styles"
+msgstr "Vyberte sloupce v řadě pro styly skříní"
+
+#: inc/menu/admin-settings-arr.php:232
+msgid "1"
+msgstr "1"
+
+#: inc/menu/admin-settings-arr.php:233
+msgid "2"
+msgstr "2"
+
+#: inc/menu/admin-settings-arr.php:234
+msgid "3"
+msgstr "3"
+
+#: inc/menu/admin-settings-arr.php:235
+msgid "4"
+msgstr "4"
+
+#: inc/menu/admin-settings-arr.php:236
+msgid "5"
+msgstr ""
+
+#: inc/menu/admin-settings-arr.php:243
+msgid "Search Area Options"
+msgstr "Možnosti oblasti vyhledávání"
+
+#: inc/menu/admin-settings-arr.php:244
+msgid ""
+"Provide area range each per line, to display dropdown of area ranges instead "
+"of input field when searching."
+msgstr ""
+"Zadejte rozsah oblastí na každý řádek a zobrazte rozbalovací oblast oblastí, "
+"nikoli vstupní pole při vyhledávání."
+
+#: inc/menu/admin-settings-arr.php:250
+msgid "Search Bedrooms Options"
+msgstr "Vyhledat možnosti ložnic"
+
+#: inc/menu/admin-settings-arr.php:251
+msgid ""
+"Provide bedrooms range each per line, to display dropdown of bedroom ranges "
+"instead of input field when searching."
+msgstr ""
+"Zajistěte, aby každý řádek byl rozložen na každý řádek, aby se při "
+"vyhledávání vyhledal rozbalovací seznam rozmezí ložnic místo zadávacího pole."
+
+#: inc/menu/admin-settings-arr.php:257
+msgid "Search Bathrooms Options"
+msgstr "Vyhledat možnosti koupelny"
+
+#: inc/menu/admin-settings-arr.php:258
+msgid ""
+"Provide bathrooms range each per line, to display dropdown of bathroom "
+"ranges instead of input field when searching."
+msgstr ""
+"Poskytněte koupelny každý řádek na každý řádek, aby se při vyhledávání "
+"vyhledal rozbalovací seznam koupelnových prostorů."
+
+#: inc/menu/admin-settings-arr.php:264
+msgid "Search Results Link Target"
+msgstr "Výsledky vyhledávání Link Target"
+
+#: inc/menu/admin-settings-arr.php:265
+msgid ""
+"Provide link target for results of search form. _blank to open in new tab"
+msgstr ""
+"Zadejte cílový odkaz na výsledky vyhledávacího formuláře. _blank pro "
+"otevření na nové kartě"
+
+#: inc/menu/admin-settings-arr.php:273
+msgid "Price Slider"
+msgstr "cena Slider"
+
+#: inc/menu/admin-settings-arr.php:280
+msgid "Minimum Price"
+msgstr "Minimální cena"
+
+#: inc/menu/admin-settings-arr.php:281
+msgid "Minimum price for price slider"
+msgstr "Minimální cena za cenu jezdce"
+
+#: inc/menu/admin-settings-arr.php:287
+msgid "Maximum Price"
+msgstr "maximální cena"
+
+#: inc/menu/admin-settings-arr.php:288
+msgid "Maximum price for price slider"
+msgstr "Maximální cena za cenu jezdce"
+
+#: inc/menu/admin-settings-arr.php:294
+msgid "Step"
+msgstr "Krok"
+
+#: inc/menu/admin-settings-arr.php:295
+msgid "Step or interval for price slider"
+msgstr "Krok nebo interval pro zobrazení cen jezdce"
+
+#: inc/menu/admin-settings-arr.php:301
+msgid "Default Minimum Price"
+msgstr "Výchozí Minimální cena"
+
+#: inc/menu/admin-settings-arr.php:302
+msgid "Default Minimum price for price slider"
+msgstr "Výchozí minimální cena za cenu jezdec"
+
+#: inc/menu/admin-settings-arr.php:308
+msgid "Default Maximum Price"
+msgstr "Výchozí Maximální cena"
+
+#: inc/menu/admin-settings-arr.php:309
+msgid "Default Maximum price for price slider"
+msgstr "Výchozí maximální cenu za cenou jezdec"
+
+#: inc/menu/admin-settings-arr.php:318
+msgid "Email Messages"
+msgstr "E-mailové zprávy"
+
+#: inc/menu/admin-settings-arr.php:325
+msgid "Agent Registered"
+msgstr "Agent Registered"
+
+#: inc/menu/admin-settings-arr.php:326 inc/menu/admin-settings-arr.php:354
+msgid "This message will sent to "
+msgstr "Tato zpráva bude zaslána"
+
+#: inc/menu/admin-settings-arr.php:326
+msgid ""
+" when new agent is registered. You can use %username% and %email% for details"
+msgstr ""
+"když je nový prostředek registrován. Můžete použít% username% a% e-mailovou% "
+"Podrobnosti"
+
+#: inc/menu/admin-settings-arr.php:332
+msgid "Agent Pending"
+msgstr "Agent Pending"
+
+#: inc/menu/admin-settings-arr.php:333
+msgid ""
+"Email Message for agent when new agent is registered but status is pending. "
+"You can use %username% and %email% for details"
+msgstr ""
+"E-mail Zpráva pro kanceláře, když nová látka je registrována, ale stav je "
+"čeká. Můžete použít% username% a% e-mailovou% Podrobnosti"
+
+#: inc/menu/admin-settings-arr.php:339
+msgid "Agent Approved"
+msgstr "Agent Schválený"
+
+#: inc/menu/admin-settings-arr.php:340
+msgid ""
+"Email Message for agent when registered agent is approved. You can use "
+"%username% and %email% for details"
+msgstr ""
+"E-mail Zpráva pro kanceláře, když registrovaný agent schválen. Můžete použít"
+"% username% a% e-mailovou% Podrobnosti"
+
+#: inc/menu/admin-settings-arr.php:346
+msgid "Agent Rejected"
+msgstr "Agent Odmítnuto"
+
+#: inc/menu/admin-settings-arr.php:347
+msgid ""
+"Email Message for agent when registered agent is rejected. You can use "
+"%username% and %email% for details"
+msgstr ""
+"E-mail Zpráva pro kanceláře, když registrovaný prostředek se zamítá. Můžete "
+"použít% username% a% e-mailovou% Podrobnosti"
+
+#: inc/menu/admin-settings-arr.php:353
+#, fuzzy
+#| msgid "Property Statuses"
+msgid "Property Submission"
+msgstr "Charakter Stavy"
+
+#: inc/menu/admin-settings-arr.php:354
+#, fuzzy
+#| msgid ""
+#| " when new agent is registered. You can use %username% and %email% for "
+#| "details"
+msgid ""
+" when new property is submitted. You can use variables %username% "
+"%approve_url% and %email% for details"
+msgstr ""
+"když je nový prostředek registrován. Můžete použít% username% a% e-mailovou% "
+"Podrobnosti"
+
+#: inc/menu/admin-settings-arr.php:360
+msgid "Agent Contact Email Addresses"
+msgstr "E-mailové adresy kontaktů agentů"
+
+#: inc/menu/admin-settings-arr.php:361
+msgid ""
+"Provide Additional Email addresses each per line to cc mail when visitor "
+"fills the contact agent form."
+msgstr ""
+"Poskytněte další e-mailové adresy na každý řádek na cc poštu, když "
+"návštěvník vyplní formuláře kontaktního zástupce."
+
+#: inc/menu/admin-settings-arr.php:370
+msgid "Labels and Headings"
+msgstr "Etikety a Nadpisy"
+
+#: inc/menu/admin-settings-arr.php:377 inc/menu/admin-settings-arr.php:384
+msgid "Features Heading"
+msgstr "funkce Okruh"
+
+#: inc/menu/admin-settings-arr.php:378 inc/menu/admin-settings-arr.php:385
+msgid "Provide heading text for property features on property pages"
+msgstr "Poskytují záhlaví textu k funkcím vlastnictví na vlastnictví stránek"
+
+#: inc/menu/admin-settings-arr.php:391
+msgid "Video Heading"
+msgstr "Video Okruh"
+
+#: inc/menu/admin-settings-arr.php:392
+msgid "Provide heading text for property video on property pages"
+msgstr "Poskytují záhlaví textu k majetku video na stránky vlastností"
+
+#: inc/menu/admin-settings-arr.php:398
+msgid "Maps Heading"
+msgstr "Mapy Okruh"
+
+#: inc/menu/admin-settings-arr.php:399
+msgid "Provide heading text for maps on property pages"
+msgstr "Poskytují míří textu pro map na vlastnictví stránek"
+
+#: inc/menu/admin-settings-arr.php:405
+msgid "Tags Heading"
+msgstr "Štítky Okruh"
+
+#: inc/menu/admin-settings-arr.php:406
+msgid "Provide heading text for tags on property pages"
+msgstr "Poskytují míří textu pro komentáře na stránky vlastností"
+
+#: inc/menu/admin-settings-arr.php:412
+msgid "Attachments Heading"
+msgstr "Přílohy Nadpis"
+
+#: inc/menu/admin-settings-arr.php:413
+msgid "Provide heading text for attachments on property pages"
+msgstr "Zadejte text nadpisu pro přílohy na stránkách vlastností"
+
+#: inc/menu/admin-settings-arr.php:419
+msgid "Tags Heading for Archive Pages"
+msgstr "Klíčová slova pro stránky archivu"
+
+#: inc/menu/admin-settings-arr.php:420
+msgid "You can use %tag% for tag name"
+msgstr "Pro název značky můžete použít% tag%"
+
+#: inc/menu/admin-settings-arr.php:426
+msgid "Sale Ribbon Text"
+msgstr "Prodej textilu na pásku"
+
+#: inc/menu/admin-settings-arr.php:427
+msgid "Provide text for ribbon of on sale properties"
+msgstr "Poskytněte text pro stuhu o prodejních vlastnostech"
+
+#: inc/menu/admin-settings-arr.php:436
+msgid "Maps Settings"
+msgstr "Mapy Nastavení"
+
+#: inc/menu/admin-settings-arr.php:443
+msgid "Google Maps API Key"
+msgstr "API Klíč Google Maps"
+
+#: inc/menu/admin-settings-arr.php:444
+msgid "Provide Google Maps API key here. You can create API key "
+msgstr "Zadejte zde klíč API služby Google Maps. Klíč API můžete vytvořit"
+
+#: inc/menu/admin-settings-arr.php:450
+msgid "Map Type"
+msgstr "Typ mapy"
+
+#: inc/menu/admin-settings-arr.php:452
+msgid "Road Map"
+msgstr "Cestovní mapa"
+
+#: inc/menu/admin-settings-arr.php:453
+msgid "Google Earth"
+msgstr "Google Earth"
+
+#: inc/menu/admin-settings-arr.php:454
+msgid "Hybrid"
+msgstr "Hybridní"
+
+#: inc/menu/admin-settings-arr.php:455
+msgid "Terrain"
+msgstr "Terén"
+
+#: inc/menu/admin-settings-arr.php:457
+msgid "Choose default map type here"
+msgstr "Zvolte výchozí typ mapy zde"
+
+#: inc/menu/admin-settings-arr.php:463
+msgid "Map Zoom Level"
+msgstr "Mapa přiblížení"
+
+#: inc/menu/admin-settings-arr.php:464
+msgid "Provide Zoom level between 0 and 21+ for single property map"
+msgstr "Zajistěte úroveň zoomu mezi 0 a 21+ pro jednu mapu vlastností"
+
+#: inc/menu/admin-settings-arr.php:470
+msgid "Drag Icon URL"
+msgstr "Ikona přetažení URL"
+
+#: inc/menu/admin-settings-arr.php:471
+msgid ""
+"Upload custom icon for dragging on map while creating new property. "
+"Recommended size: 72x60"
+msgstr ""
+"Nahrát vlastní ikonu tažením na mapě při vytváření nové vlastnosti. "
+"Doporučená velikost: 72x60"
+
+#: inc/menu/admin-settings-arr.php:477
+msgid "Location Icon URL"
+msgstr "Místo Icon URL"
+
+#: inc/menu/admin-settings-arr.php:478
+msgid ""
+"Upload custom icon for location on map when visiting property page. "
+"Recommended size: 72x60"
+msgstr ""
+"Nahrát vlastní ikonu pro umístění na mapě při návštěvě stránky vlastností. "
+"Doporučená velikost: 72x60"
+
+#: inc/menu/admin-settings-arr.php:484
+msgid "Default Latitude"
+msgstr "Výchozí zeměpisná šířka mapy"
+
+#: inc/menu/admin-settings-arr.php:485
+msgid "Provide latitude for default map location on create property page"
+msgstr ""
+"Poskytněte zeměpisné šířky pro výchozí umístění mapy na stránce vlastností "
+"vytvořit"
+
+#: inc/menu/admin-settings-arr.php:491
+msgid "Default Longitude"
+msgstr "Výchozí zeměpisná délka mapy"
+
+#: inc/menu/admin-settings-arr.php:492
+msgid "Provide longitude for default map location on create property page"
+msgstr "Zadejte délku výchozí polohy mapy na stránce vlastností vytvoření"
+
+#: inc/menu/admin-settings-arr.php:501
+msgid "Colors and CSS"
+msgstr "Barvy a CSS"
+
+#: inc/menu/admin-settings-arr.php:508
+msgid "Headings Underline"
+msgstr "nadpisy podtržení"
+
+#: inc/menu/admin-settings-arr.php:510
+msgid "Choose bottom border color for headings area"
+msgstr "Zvolit barvu okraje spodní čísel oblasti"
+
+#: inc/menu/admin-settings-arr.php:516
+msgid "Headings Underline Active"
+msgstr "Nadpisy Underline Aktivní"
+
+#: inc/menu/admin-settings-arr.php:518
+msgid "Choose bottom border color for headings active area"
+msgstr "Vybrat barvu ohraničení dno pro nadpisy aktivní oblasti"
+
+#: inc/menu/admin-settings-arr.php:524
+msgid "Buttons Background"
+msgstr "tlačítka na pozadí"
+
+#: inc/menu/admin-settings-arr.php:526
+msgid "Choose background color for buttons"
+msgstr "Vyberte si barvu pozadí pro knoflíky"
+
+#: inc/menu/admin-settings-arr.php:532
+msgid "Buttons Text"
+msgstr "tlačítka Text"
+
+#: inc/menu/admin-settings-arr.php:534 inc/menu/admin-settings-arr.php:550
+msgid "Choose text color for buttons"
+msgstr "Zvolit barvu textu pro knoflíky"
+
+#: inc/menu/admin-settings-arr.php:540
+msgid "Buttons Background - Hover"
+msgstr "Tlačítka na pozadí - Hover"
+
+#: inc/menu/admin-settings-arr.php:542
+msgid "Choose background color for buttons on hover state"
+msgstr "Vyberte si barvu pozadí pro tlačítka na hover stavu"
+
+#: inc/menu/admin-settings-arr.php:548
+msgid "Buttons Text - Hover"
+msgstr "Tlačítka Text - Hover"
+
+#: inc/menu/admin-settings-arr.php:556
+msgid "Theme Main Color"
+msgstr "Téma Hlavní barev"
+
+#: inc/menu/admin-settings-arr.php:558
+msgid "Choose main theme color for templates"
+msgstr "Vyberte si hlavní barevný motiv pro šablony"
+
+#: inc/menu/admin-settings-arr.php:564
+msgid "Custom CSS Code"
+msgstr "Custom CSS kód"
+
+#: inc/menu/admin-settings-arr.php:566
+msgid "Paste your custom css code here, you can prefix with"
+msgstr "Vložte svůj vlastní CSS kódu zde můžete předponu"
+
+#: inc/menu/admin-settings-arr.php:574
+msgid "Advanced Settings"
+msgstr "Pokročílé nastavení"
+
+#: inc/menu/admin-settings-arr.php:581
+msgid "Bootstrap CSS"
+msgstr "Bootstrap CSS"
+
+#: inc/menu/admin-settings-arr.php:586
+msgid "Disable it, if your theme loads its own bootstrap 3 styles"
+msgstr "Deaktivujte jej, pokud vaše téma načte své vlastní bootstrap 3 styly"
+
+#: inc/menu/admin-settings-arr.php:591
+msgid "Font Awesome"
+msgstr "Font Awesome"
+
+#: inc/menu/admin-settings-arr.php:596
+msgid "Disable it, if your theme loads its own font awesome icons"
+msgstr "Deaktivujte jej, pokud vaše téma načte své vlastní písmo úžasné ikony"
+
+#: inc/menu/admin-settings-arr.php:601
+#, fuzzy
+#| msgid "Property submitted."
+msgid "Property Submission Mode"
+msgstr "Vlastnost předloženy."
+
+#: inc/menu/admin-settings-arr.php:603
+msgid "Publish Right Away"
+msgstr ""
+
+#: inc/menu/admin-settings-arr.php:604
+msgid "Approve by Administrator"
+msgstr ""
+
+#: inc/menu/admin-settings-arr.php:606
+#, fuzzy
+#| msgid "Renders a form to create property"
+msgid "Set permission for agents for creating new property"
+msgstr "Vytvoří formulář pro vytvoření vlastnictví"
+
+#: inc/menu/agent-profile-fields.php:3
+msgid "Agent Details"
+msgstr "Agent Podrobnosti"
+
+#: inc/menu/agent-profile-fields.php:25
+msgid "Upload Image"
+msgstr "Nahrát obrázek"
+
+#: inc/menu/custom-fields/custom-fields-page.php:2
+msgid "Custom Fields Builder"
+msgstr "Vlastní pole Builder"
+
+#: inc/menu/custom-fields/custom-fields-page.php:43
+msgid "Please Drag and Drop the fields in above area from left panel"
+msgstr ""
+"Přetáhněte a přetáhněte políčka ve výše uvedené oblasti z levého panelu"
+
+#: inc/menu/custom-fields/custom-fields-page.php:49
+msgid "Reset Fields"
+msgstr "Obnovit pole"
+
+#: inc/menu/custom-fields/custom-fields-page.php:50
+#: inc/menu/page-settings.php:64
+msgid "Save Settings"
+msgstr "Uložit nastavení"
+
+#: inc/menu/custom-fields/fields/number.php:2
+msgid "Number Field"
+msgstr "Číselné pole"
+
+#: inc/menu/custom-fields/fields/number.php:8
+#: inc/menu/custom-fields/fields/select.php:8
+#: inc/menu/custom-fields/fields/text.php:8
+msgid "Label"
+msgstr "Štítek"
+
+#: inc/menu/custom-fields/fields/number.php:14
+#: inc/menu/custom-fields/fields/select.php:14
+#: inc/menu/custom-fields/fields/text.php:14
+msgid "Data Name (lowercase without spaces)"
+msgstr "Název dat (malé písmeno bez mezery)"
+
+#: inc/menu/custom-fields/fields/number.php:20
+#: inc/menu/custom-fields/fields/text.php:20
+msgid "Default Value"
+msgstr "Výchozí hodnota"
+
+#: inc/menu/custom-fields/fields/number.php:26
+#: inc/menu/custom-fields/fields/select.php:39
+#: inc/menu/custom-fields/fields/text.php:26
+msgid "Help Text"
+msgstr "Pomocný text"
+
+#: inc/menu/custom-fields/fields/number.php:32
+#: inc/menu/custom-fields/fields/select.php:45
+#: inc/menu/custom-fields/fields/text.php:32
+msgid "Admin Settings Tab"
+msgstr "Karta Nastavení administrátora"
+
+#: inc/menu/custom-fields/fields/number.php:47
+#: inc/menu/custom-fields/fields/select.php:60
+#: inc/menu/custom-fields/fields/text.php:47
+msgid "Delete"
+msgstr "vymazat"
+
+#: inc/menu/custom-fields/fields/select.php:2
+msgid "Select Box"
+msgstr "Select Box"
+
+#: inc/menu/custom-fields/fields/select.php:20
+msgid "Default Selected"
+msgstr "Výchozí vybraná"
+
+#: inc/menu/custom-fields/fields/select.php:26
+msgid "Options (each per line)"
+msgstr "Možnosti (každý na řádek)"
+
+#: inc/menu/custom-fields/fields/text.php:2
+msgid "Text Field"
+msgstr "Textové pole"
+
+#: inc/menu/page-agents.php:11
+msgid "Pending Agents"
+msgstr "čekající Agents"
+
+#: inc/menu/page-agents.php:18 inc/menu/page-agents.php:59
+#: shortcodes/edit-agent.php:27 shortcodes/register-agent.php:28
+msgid "Username"
+msgstr "Uživatelské jméno"
+
+#: inc/menu/page-agents.php:19 inc/menu/page-agents.php:60
+#: shortcodes/agent-profile.php:83 shortcodes/edit-agent.php:46
+#: shortcodes/register-agent.php:32 templates/agent.php:88
+msgid "Email"
+msgstr "E-mailem"
+
+#: inc/menu/page-agents.php:20 inc/menu/page-agents.php:61
+#: shortcodes/edit-agent.php:31 shortcodes/register-agent.php:20
+msgid "First Name"
+msgstr "Jméno"
+
+#: inc/menu/page-agents.php:21 inc/menu/page-agents.php:62
+#: shortcodes/edit-agent.php:36 shortcodes/register-agent.php:24
+msgid "Last Name"
+msgstr "Příjmení"
+
+#: inc/menu/page-agents.php:22
+msgid "Date of Registration"
+msgstr "Datum registrace"
+
+#: inc/menu/page-agents.php:23
+msgid "Action"
+msgstr "Akce"
+
+#: inc/menu/page-agents.php:35
+msgid "Deny"
+msgstr "Odmítnout"
+
+#: inc/menu/page-agents.php:36
+msgid "Approve"
+msgstr "Schválit"
+
+#: inc/menu/page-agents.php:44
+msgid "You dont have any pending agents."
+msgstr "Nemáte žádných agentů, kteří nemají žádnou akci."
+
+#: inc/menu/page-agents.php:52
+msgid "Registered Agents"
+msgstr "Registrovaní Agents"
+
+#: inc/menu/page-agents.php:64
+msgid "Profile"
+msgstr "Profil"
+
+#: inc/menu/page-agents.php:76
+msgid "View Profile"
+msgstr "Prohlédnout profil"
+
+#: inc/menu/page-agents.php:83
+msgid "You dont have any registered agents."
+msgstr "Nemáte žádné registrované agenty."
+
+#: inc/menu/page-agents.php:89
+msgid "Register New Agent"
+msgstr "Zaregistrujte nového agenta"
+
+#: inc/menu/page-docs.php:6
+msgid "Shortcode"
+msgstr "Krátký kód"
+
+#: inc/menu/page-docs.php:7
+msgid "Possible Attributes"
+msgstr "Možné atributy"
+
+#: inc/menu/page-docs.php:13
+msgid "Agent Registration Form"
+msgstr "Formulář registrace agentů"
+
+#: inc/menu/page-docs.php:16
+msgid "It will render a form to register new agent"
+msgstr "To bude skýtat formulář pro registraci nového agenta"
+
+#: inc/menu/page-docs.php:19
+msgid "Create Property Form"
+msgstr "Vytvoření formuláře vlastností"
+
+#: inc/menu/page-docs.php:22
+msgid "It will render a form to create a property."
+msgstr "To bude vykreslení formuláře vytvořit vlastnost."
+
+#: inc/menu/page-docs.php:25
+msgid "Edit Single Property"
+msgstr "Upravit jednotlivá vlastnost"
+
+#: inc/menu/page-docs.php:28
+msgid "It will render a form to edit property on frontend."
+msgstr "Vytvoří formulář pro úpravu vlastností na frontend."
+
+#: inc/menu/page-docs.php:31
+msgid "Login Form"
+msgstr "Přihlašovací formulář"
+
+#: inc/menu/page-docs.php:34
+msgid "It will render a form to login an agent."
+msgstr "To bude skýtat formulář pro přihlášení agenta."
+
+#: inc/menu/page-docs.php:37
+msgid "List My Properties"
+msgstr "Seznam mojích vlastností"
+
+#: inc/menu/page-docs.php:40
+msgid "It will render a list of properties of current logged in user."
+msgstr "To bude skýtat seznam vlastností právě přihlášeného uživatele."
+
+#: inc/menu/page-docs.php:43
+msgid "Search Property Form"
+msgstr "Seznam mojích vlastností"
+
+#: inc/menu/page-docs.php:46
+msgid "It will render a form to search properties via AJAX."
+msgstr "To bude skýtat formulář pro vyhledávání nemovitostí přes AJAX."
+
+#: inc/menu/page-docs.php:49 shortcodes/vc-settings.php:124
+msgid "List Properties"
+msgstr "Vlastnosti seznamu"
+
+#: inc/menu/page-docs.php:65
+msgid "It will render a list of properties."
+msgstr "Zobrazí seznam vlastností."
+
+#: inc/menu/page-docs.php:71
+msgid "It displays search results of properties searched from widget."
+msgstr "Zobrazuje výsledky vyhledávání vlastností prohledávaných z widgetu."
+
+#: inc/menu/page-docs.php:74
+msgid "Multiple Properties on Map"
+msgstr "Více vlastností na mapě"
+
+#: inc/menu/page-docs.php:106
+msgid "It displays multiple  properties on a map."
+msgstr "Zobrazuje na mapě více vlastností."
+
+#: inc/menu/page-docs.php:109
+msgid "Display Agent Profile"
+msgstr "Zobrazit profil agenta"
+
+#: inc/menu/page-docs.php:112
+msgid "It displays profile of a single agent."
+msgstr "Zobrazuje profil jediného agenta."
+
+#: inc/menu/page-docs.php:115 shortcodes/vc-settings.php:37
+msgid "Edit Agent Profile"
+msgstr "Upravit profil agenta"
+
+#: inc/menu/page-docs.php:118
+msgid "It renders a form to edit current users profile."
+msgstr "Vytvoří formulář pro úpravu aktuálního profilu uživatelů."
+
+#: inc/menu/page-docs.php:121 shortcodes/vc-settings.php:109
+msgid "Single Property"
+msgstr "Jedna nemovitost"
+
+#: inc/menu/page-docs.php:124
+msgid "It displays a single property by id."
+msgstr "Zobrazuje jednu vlastnost podle id."
+
+#: inc/menu/page-docs.php:127 shortcodes/vc-settings.php:618
+msgid "Touch Carousel"
+msgstr "Dotkněte se karuselu"
+
+#: inc/menu/page-docs.php:145
+msgid "It renders slider of selected properties based on settings."
+msgstr "Vykresluje jezdec vybraných vlastností na základě nastavení."
+
+#: inc/menu/page-docs.php:150
+msgid "For more details, please visit"
+msgstr "Pro více informací navštivte prosím"
+
+#: inc/menu/page-docs.php:150
+msgid "Shortcode Details"
+msgstr "Detaily zkratky"
+
+#: inc/menu/page-settings.php:2
+msgid "Real Estate Manager - Settings"
+msgstr "Real Estate Manager - Nastavení"
+
+#: inc/menu/page-settings.php:15
+msgid "If 404 Page is displaying"
+msgstr "V případě 404 Page zobrazuje"
+
+#: inc/menu/page-settings.php:17
+msgid "Go to Settings -> Permalinks and click Save Changes button"
+msgstr "Přejděte na Nastavení -> Paměť a klikněte na tlačítko Uložit změny"
+
+#: inc/menu/page-settings.php:21
+msgid "If Maps not displaying"
+msgstr "Pokud Mapy nezobrazují"
+
+#: inc/menu/page-settings.php:23
+msgid "Create a Google Maps API using google and paste it in Maps API field."
+msgstr ""
+"Vytvořte rozhraní Google Maps API pomocí google a vložte jej do pole API "
+"Mapy."
+
+#: inc/menu/page-settings.php:27
+msgid "Change Property Page Design"
+msgstr "Změnit vlastnost stránky design"
+
+#: inc/menu/page-settings.php:29
+msgid "Copy the following file and paste it into your theme's root"
+msgstr "Zkopírujte následující soubor a vložte jej do kořene motivu"
+
+#: inc/menu/page-settings.php:31
+msgid "Now change its name to"
+msgstr "Nyní můžete změnit své jméno"
+
+#: inc/menu/page-settings.php:33
+msgid "Then change Property Page Template option to From Theme"
+msgstr "Pak změnit volbu Property Page šablony pro Od Theme"
+
+#: inc/menu/page-settings.php:34
+msgid "Now you can make changes in this template file."
+msgstr "Nyní můžete provádět změny v tomto souboru šablony."
+
+#: inc/menu/page-settings.php:38
+msgid "Need Help? Any Suggestions?"
+msgstr "Potřebovat pomoc? Nějaké návrhy?"
+
+#: inc/menu/page-settings.php:40
+msgid "Please contact us"
+msgstr "Prosím kontaktujte nás"
+
+#: inc/menu/page-settings.php:41
+msgid "HERE"
+msgstr "ZDE"
+
+#: inc/menu/page-settings.php:42
+msgid "for assistance."
+msgstr "pro pomoc."
+
+#: inc/menu/page-settings.php:63
+msgid "Please Wait..."
+msgstr "Prosím, čekejte..."
+
+#: inc/menu/render-admin-settings.php:136
+#: inc/menu/render-admin-settings.php:137
+msgid "Choose a currency&hellip;"
+msgstr "Vyberte si měnu a hellip;"
+
+#: inc/menu/render-admin-settings.php:173
+msgid "Image"
+msgstr "obraz"
+
+#: inc/menu/render-admin-settings.php:174
+msgid "Select"
+msgstr "Vybrat"
+
+#: inc/menu/render-admin-settings.php:175
+msgid "Media"
+msgstr "Media"
+
+#: inc/sidebar-agent-contact.php:31
+msgid "Your Name"
+msgstr "Tvé jméno"
+
+#: inc/sidebar-agent-contact.php:34
+msgid "Your Email"
+msgstr "Tvůj e-mail"
+
+#: inc/sidebar-agent-contact.php:37
+msgid "Message"
+msgstr "Zpráva"
+
+#: inc/sidebar-agent-contact.php:39
+msgid "Send Message"
+msgstr "Poslat zprávu"
+
+#: inc/sidebar-agent-contact.php:44 shortcodes/agent-profile.php:99
+#: templates/agent.php:104
+msgid "Sending Email, Please Wait..."
+msgstr "Odesílání e-mailů, čekejte prosím ..."
+
+#: shortcodes/agent-profile.php:80 templates/agent.php:85
+msgid "Name"
+msgstr "název"
+
+#: shortcodes/agent-profile.php:86 templates/agent.php:91
+msgid "Subject"
+msgstr "Předmět"
+
+#: shortcodes/agent-profile.php:89 templates/agent.php:94
+msgid "Your Message"
+msgstr "Vaše zpráva"
+
+#: shortcodes/agent-profile.php:92 templates/agent.php:97
+msgid "SEND MESSAGE"
+msgstr "POSLAT ZPRÁVU"
+
+#: shortcodes/agent-profile.php:120 shortcodes/vc-settings.php:225
+#: templates/agent.php:124
+msgid "My Properties"
+msgstr "Moje Properties"
+
+#: shortcodes/carousel/carousel.php:13 shortcodes/list/list.php:19
+msgid "No Properties Found!"
+msgstr "Žádné Properties nalezeno!"
+
+#: shortcodes/create-property.php:15 shortcodes/edit-property.php:29
+msgid "Basic Information"
+msgstr "Základní informace"
+
+#: shortcodes/create-property.php:19 shortcodes/edit-property.php:33
+msgid "Property Title"
+msgstr "vlastnost Název"
+
+#: shortcodes/create-property.php:25
+msgid "Property Description"
+msgstr "Popis nemovitosti"
+
+#: shortcodes/create-property.php:32 shortcodes/edit-property.php:46
+msgid "Summary"
+msgstr "souhrn"
+
+#: shortcodes/create-property.php:37 shortcodes/edit-property.php:51
+msgid "Price in"
+msgstr "cena v"
+
+#: shortcodes/create-property.php:40 shortcodes/edit-property.php:54
+msgid "Property Country"
+msgstr "vlastnost Country"
+
+#: shortcodes/create-property.php:43 shortcodes/edit-property.php:57
+msgid "Property City"
+msgstr "vlastnost City"
+
+#: shortcodes/create-property.php:83 shortcodes/edit-property.php:97
+msgid "Property Area - "
+msgstr "Nemovitost -"
+
+#: shortcodes/create-property.php:89 shortcodes/edit-property.php:103
+msgid "Images"
+msgstr "snímky"
+
+#: shortcodes/create-property.php:94 shortcodes/edit-property.php:108
+msgid "Click here to Upload Images"
+msgstr "Klikni pro upload obrázků"
+
+#: shortcodes/create-property.php:125 shortcodes/edit-property.php:150
+msgid "Each tag separated by comma"
+msgstr "Každá značka odděleny čárkou"
+
+#: shortcodes/create-property.php:133 shortcodes/edit-property.php:162
+msgid "Place on Map"
+msgstr "Místo na mapě"
+
+#: shortcodes/create-property.php:214 shortcodes/vc-settings.php:79
+msgid "Create Property"
+msgstr "Vytvořit vlastnost"
+
+#: shortcodes/create-property.php:219
+msgid "Please wait! your porperty is being created..."
+msgstr "Prosím, čekejte! Vaše nemovitost je vytvořen ..."
+
+#: shortcodes/edit-agent.php:41
+msgid "Nickname"
+msgstr "Přezdívka"
+
+#: shortcodes/edit-agent.php:51 shortcodes/register-agent.php:44
+msgid "Biographical Info"
+msgstr "životopisné Informace"
+
+#: shortcodes/edit-agent.php:83 shortcodes/edit-property.php:244
+msgid "Save Changes"
+msgstr "uložení změn"
+
+#: shortcodes/edit-agent.php:84
+msgid "Logout"
+msgstr "Odhlásit"
+
+#: shortcodes/edit-agent.php:86
+msgid "Saving Changes..."
+msgstr "Uložení změn ..."
+
+#: shortcodes/edit-property.php:249
+msgid "Please wait! your porperty is being modified..."
+msgstr "Prosím, čekejte! vaše nemovitost se mění ..."
+
+#: shortcodes/login.php:12
+msgid "Username or email"
+msgstr "Uživatelské jméno nebo email"
+
+#: shortcodes/login.php:16 shortcodes/register-agent.php:36
+msgid "Password"
+msgstr "Heslo"
+
+#: shortcodes/login.php:20
+msgid "Keep me signed in"
+msgstr "Zůstat přihlášen"
+
+#: shortcodes/login.php:21
+msgid "Login"
+msgstr "Přihlásit se"
+
+#: shortcodes/my-properties.php:7
+msgid "Thumbnail"
+msgstr "náhledy"
+
+#: shortcodes/my-properties.php:9
+msgid "Type"
+msgstr "Typ"
+
+#: shortcodes/my-properties.php:10
+msgid "Added"
+msgstr "Přidal"
+
+#: shortcodes/my-properties.php:13
+msgid "Actions"
+msgstr "Akce"
+
+#: shortcodes/register-agent.php:40
+msgid "Pepeat Password"
+msgstr "Zopakujte heslo"
+
+#: shortcodes/register-agent.php:78
+msgid "Sign up"
+msgstr "Přihlásit se"
+
+#: shortcodes/search-property.php:220
+msgid "Loading..."
+msgstr "Načítání..."
+
+#: shortcodes/vc-settings.php:16
+msgid "Register Agent"
+msgstr "Zaregistrujte agenta"
+
+#: shortcodes/vc-settings.php:20
+msgid "Renders a form to register new agent"
+msgstr "Vytvoří formulář pro registraci nového agenta"
+
+#: shortcodes/vc-settings.php:25 shortcodes/vc-settings.php:67
+msgid "Redirect"
+msgstr "Přesměrování"
+
+#: shortcodes/vc-settings.php:26
+msgid "Provide URL to redirect after successfull registration"
+msgstr "Zadejte adresu URL, kterou chcete přesměrovat po úspěšné registraci"
+
+#: shortcodes/vc-settings.php:31 shortcodes/vc-settings.php:73
+msgid "Content for Logged In Users"
+msgstr "Obsah pro přihlášené uživatele"
+
+#: shortcodes/vc-settings.php:32 shortcodes/vc-settings.php:74
+msgid "Provide content for already logged in users"
+msgstr "Poskytněte obsah již přihlášeným uživatelům"
+
+#: shortcodes/vc-settings.php:41
+msgid "Renders a form to edit logged in agent's profile"
+msgstr "Vytvoří formulář pro úpravu přihlášeného profilu agenta"
+
+#: shortcodes/vc-settings.php:46 shortcodes/vc-settings.php:88
+#: shortcodes/vc-settings.php:103 shortcodes/vc-settings.php:234
+msgid "Content for Non Logged In Users"
+msgstr "Obsah pro uživatele, kteří nejsou přihlášeni"
+
+#: shortcodes/vc-settings.php:47
+msgid "Provide content for non logged in users"
+msgstr "Poskytněte obsah pro nepřihlášené uživatele"
+
+#: shortcodes/vc-settings.php:52
+msgid "Login Agent"
+msgstr "Agent přihlášení"
+
+#: shortcodes/vc-settings.php:56
+msgid "Renders an AJAX based login form"
+msgstr "Vytvoří přihlašovací formulář založený na AJAX"
+
+#: shortcodes/vc-settings.php:61
+msgid "Heading"
+msgstr "Nadpis"
+
+#: shortcodes/vc-settings.php:62
+msgid "Heading will appear above the login form"
+msgstr "Nad nadpisem se zobrazí nadpis"
+
+#: shortcodes/vc-settings.php:68
+msgid "Provide URL to redirect after successfull login"
+msgstr "Zadejte adresu URL, která chcete přesměrovat po úspěšném přihlášení"
+
+#: shortcodes/vc-settings.php:83
+msgid "Renders a form to create property"
+msgstr "Vytvoří formulář pro vytvoření vlastnictví"
+
+#: shortcodes/vc-settings.php:89 shortcodes/vc-settings.php:104
+#: shortcodes/vc-settings.php:235
+msgid "Provide content to display if user is not logged in"
+msgstr "Poskytněte obsah k zobrazení, pokud uživatel není přihlášen"
+
+#: shortcodes/vc-settings.php:98
+msgid "Renders a form to edit property"
+msgstr "Vykreslí formulář pro úpravu vlastností"
+
+#: shortcodes/vc-settings.php:113
+msgid "Display a single property"
+msgstr "Zobrazit jednu vlastnost"
+
+#: shortcodes/vc-settings.php:119
+msgid "Provide property id here"
+msgstr "Zde uveďte ID vlastnictví"
+
+#: shortcodes/vc-settings.php:128
+msgid "Displays properties according to the settings"
+msgstr "Zobrazuje vlastnosti podle nastavení"
+
+#: shortcodes/vc-settings.php:133 shortcodes/vc-settings.php:293
+#: shortcodes/vc-settings.php:627
+msgid "Order"
+msgstr "Pořadí"
+
+#: shortcodes/vc-settings.php:134 shortcodes/vc-settings.php:294
+#: shortcodes/vc-settings.php:628
+msgid "Choose order to display properties"
+msgstr "Zvolte pořadí zobrazení vlastností"
+
+#: shortcodes/vc-settings.php:136 shortcodes/vc-settings.php:296
+#: shortcodes/vc-settings.php:630
+msgid "Ascending"
+msgstr "Vzestupně"
+
+#: shortcodes/vc-settings.php:137 shortcodes/vc-settings.php:297
+#: shortcodes/vc-settings.php:631
+msgid "Descending"
+msgstr "Sestupně"
+
+#: shortcodes/vc-settings.php:143 shortcodes/vc-settings.php:307
+#: shortcodes/vc-settings.php:637
+msgid "Order By"
+msgstr "Seřadit podle"
+
+#: shortcodes/vc-settings.php:144 shortcodes/vc-settings.php:308
+#: shortcodes/vc-settings.php:638
+msgid "Choose order by to display properties"
+msgstr "Zvolte pořadí zobrazení vlastností"
+
+#: shortcodes/vc-settings.php:146 shortcodes/vc-settings.php:310
+#: shortcodes/vc-settings.php:640
+msgid "Date"
+msgstr "Datum"
+
+#: shortcodes/vc-settings.php:147 shortcodes/vc-settings.php:249
+#: shortcodes/vc-settings.php:311 shortcodes/vc-settings.php:641
+msgid "Agent"
+msgstr "Činidlo"
+
+#: shortcodes/vc-settings.php:148 shortcodes/vc-settings.php:312
+#: shortcodes/vc-settings.php:642
+msgid "Property Name"
+msgstr "Název nemovitosti"
+
+#: shortcodes/vc-settings.php:149 shortcodes/vc-settings.php:643
+msgid "Random"
+msgstr "Náhodně"
+
+#: shortcodes/vc-settings.php:155 shortcodes/vc-settings.php:649
+msgid "Property Style"
+msgstr "Vlastnost styl"
+
+#: shortcodes/vc-settings.php:156 shortcodes/vc-settings.php:650
+msgid "Choose properties display style"
+msgstr "Vyberte styl zobrazení vlastností"
+
+#: shortcodes/vc-settings.php:162 shortcodes/vc-settings.php:569
+msgid "Columns"
+msgstr "Sloupce"
+
+#: shortcodes/vc-settings.php:163
+msgid "Number of properties in a row"
+msgstr "Počet vlastností v řádku"
+
+#: shortcodes/vc-settings.php:165
+#, fuzzy
+#| msgid "2 Columns"
+msgid "1 Columns"
+msgstr "2 Sloupce"
+
+#: shortcodes/vc-settings.php:166 shortcodes/vc-settings.php:572
+msgid "2 Columns"
+msgstr "2 Sloupce"
+
+#: shortcodes/vc-settings.php:167 shortcodes/vc-settings.php:573
+msgid "3 Columns"
+msgstr "3 Sloupce"
+
+#: shortcodes/vc-settings.php:168 shortcodes/vc-settings.php:574
+msgid "4 Columns"
+msgstr "4 Sloupce"
+
+#: shortcodes/vc-settings.php:169
+#, fuzzy
+#| msgid "2 Columns"
+msgid "5 Columns"
+msgstr "2 Sloupce"
+
+#: shortcodes/vc-settings.php:175
+msgid "Number of Properties in a Page"
+msgstr "Počet vlastností v"
+
+#: shortcodes/vc-settings.php:176
+msgid ""
+"Provide total number of properties to show, after that pagination will "
+"display"
+msgstr ""
+"Uveďte celkový počet vlastností, které se mají zobrazovat, poté, co se bude "
+"zobrazovat stránkování"
+
+#: shortcodes/vc-settings.php:181
+msgid "Property Purpose"
+msgstr "Vlastnost Účel"
+
+#: shortcodes/vc-settings.php:182
+msgid "Choose to display properties of specific purpose"
+msgstr "Vyberte, zda chcete zobrazit vlastnosti konkrétního účelu"
+
+#: shortcodes/vc-settings.php:189
+msgid "Choose to display properties of specific type"
+msgstr "Vyberte, zda chcete zobrazit vlastnosti konkrétního typu"
+
+#: shortcodes/vc-settings.php:195
+msgid "Property Status"
+msgstr "Stav vlastnictví"
+
+#: shortcodes/vc-settings.php:196
+msgid "Choose to display properties of specific status"
+msgstr "Vyberte, zda chcete zobrazit vlastnosti konkrétního stavu"
+
+#: shortcodes/vc-settings.php:202
+msgid "Property Tags"
+msgstr "Označení vlastnictví"
+
+#: shortcodes/vc-settings.php:203
+msgid "Comma separated list of tags to filter properties"
+msgstr "Seznam štítků oddělených čárkami pro filtrování vlastností"
+
+#: shortcodes/vc-settings.php:209 shortcodes/vc-settings.php:332
+#: shortcodes/vc-settings.php:662
+msgid "Filter Properties"
+msgstr "filtr  pro výpis prací"
+
+#: shortcodes/vc-settings.php:210 shortcodes/vc-settings.php:333
+#: shortcodes/vc-settings.php:663
+msgid ""
+"Provide meta key and value on each line to filter. Eg: property_status|normal"
+msgstr ""
+"Na filtru poskytněte meta klíč a hodnotu na každém řádku. Např .: stav "
+"majetku | normální"
+
+#: shortcodes/vc-settings.php:215 shortcodes/vc-settings.php:362
+#: shortcodes/vc-settings.php:680
+msgid "Prefer Nearest Properties"
+msgstr "Preferujte nejbližší vlastnosti"
+
+#: shortcodes/vc-settings.php:216 shortcodes/vc-settings.php:363
+#: shortcodes/vc-settings.php:681
+msgid ""
+"It will enable Geo Location Trackor to track visitors location and will "
+"display properties near them"
+msgstr ""
+"Umožní Geolocation Tracker sledovat umístění návštěvníků a zobrazí se blízké "
+"vlastnosti"
+
+#: shortcodes/vc-settings.php:229
+msgid "Displays properties of current logged in agent"
+msgstr "Zobrazuje vlastnosti aktuálního přihlášeného agenta"
+
+#: shortcodes/vc-settings.php:240
+msgid "Agent Profile"
+msgstr "Profil agenta"
+
+#: shortcodes/vc-settings.php:244
+msgid "Displays profile of specific agent"
+msgstr "Zobrazuje profil konkrétního agenta"
+
+#: shortcodes/vc-settings.php:250
+msgid "Choose agent who's profile you want to display"
+msgstr "Vyberte agenta, jehož profil chcete zobrazit"
+
+#: shortcodes/vc-settings.php:260
+msgid "Displays search results if searched from widget"
+msgstr "Zobrazí výsledky vyhledávání, pokud jsou vyhledávány z widgetu"
+
+#: shortcodes/vc-settings.php:264
+msgid "Properties Map"
+msgstr "Mapa vlastností"
+
+#: shortcodes/vc-settings.php:268
+msgid "Displays properties on a large map"
+msgstr "Zobrazuje vlastnosti na velké mapě"
+
+#: shortcodes/vc-settings.php:273
+msgid "Display Properties"
+msgstr "Vlastnosti zobrazení"
+
+#: shortcodes/vc-settings.php:274
+msgid "How you want to display properties on map"
+msgstr "Jak chcete zobrazovat vlastnosti na mapě"
+
+#: shortcodes/vc-settings.php:276
+msgid "Properties by IDs"
+msgstr "Vlastnosti podle ID"
+
+#: shortcodes/vc-settings.php:277
+msgid "Use Property Query"
+msgstr "Použití dotazu na vlastnictví"
+
+#: shortcodes/vc-settings.php:283 shortcodes/vc-settings.php:674
+msgid "Property IDs"
+msgstr "Vlastnosti ID"
+
+#: shortcodes/vc-settings.php:284
+msgid "Property ID each per line to display on map"
+msgstr "Identifikátor vlastností každý na řádku, který se zobrazí na mapě"
+
+#: shortcodes/vc-settings.php:322
+msgid "Number of Properties"
+msgstr "Počet nemovitostí"
+
+#: shortcodes/vc-settings.php:323
+msgid "Provide total number of properties to show. -1 for all"
+msgstr ""
+"Zadejte celkový počet vlastností, které chcete zobrazit. -1 pro všechny"
+
+#: shortcodes/vc-settings.php:342
+msgid "Property Type Filtering"
+msgstr "Filtrování typů vlastností"
+
+#: shortcodes/vc-settings.php:343
+msgid "Enable to display property type buttons below maps to filter"
+msgstr "Povolit zobrazení tlačítek typu vlastností pod mapami pro filtrování"
+
+#: shortcodes/vc-settings.php:352
+msgid "Filter by Tags"
+msgstr "Filtrovat podle značek"
+
+#: shortcodes/vc-settings.php:353
+msgid "Provide single tag on each line to filter."
+msgstr "Na každý řádek zadejte jeden tag."
+
+#: shortcodes/vc-settings.php:372
+msgid "Map Height"
+msgstr "Výška mapy"
+
+#: shortcodes/vc-settings.php:373
+msgid "Provide map height Eg: 550px"
+msgstr "Zajistěte výšku mapy Např .: 550 pixelů"
+
+#: shortcodes/vc-settings.php:378
+msgid "Loading Heading"
+msgstr "Nahrávání položky"
+
+#: shortcodes/vc-settings.php:379
+msgid "Provide map loading text heading"
+msgstr "Uveďte hlavičku textu nakládání mapy"
+
+#: shortcodes/vc-settings.php:385
+msgid "Loading Description"
+msgstr "Načíst popis"
+
+#: shortcodes/vc-settings.php:386
+msgid "Provide map loading text description"
+msgstr "Uveďte popis textu při načítání mapy"
+
+#: shortcodes/vc-settings.php:392 shortcodes/vc-settings.php:470
+msgid "Buttons Background Color"
+msgstr "Tlačítka Barva pozadí"
+
+#: shortcodes/vc-settings.php:393
+msgid "Choose background color for map buttons"
+msgstr "Zvolte barvu pozadí pro tlačítka mapy"
+
+#: shortcodes/vc-settings.php:394 shortcodes/vc-settings.php:401
+#: shortcodes/vc-settings.php:408 shortcodes/vc-settings.php:415
+#: shortcodes/vc-settings.php:422
+msgid "Colors"
+msgstr "Barvy"
+
+#: shortcodes/vc-settings.php:399 shortcodes/vc-settings.php:481
+msgid "Buttons Text Color"
+msgstr "Tlačítka Barva textu"
+
+#: shortcodes/vc-settings.php:400
+msgid "Choose text color for map buttons"
+msgstr "Zvolte barvu textu pro tlačítka mapy"
+
+#: shortcodes/vc-settings.php:406 shortcodes/vc-settings.php:492
+msgid "Buttons Background Color - Hover"
+msgstr "Tlačítka Barva pozadí - ukazatel myši"
+
+#: shortcodes/vc-settings.php:407
+msgid "Choose hover background color for map buttons"
+msgstr "Zvolte barvu pozadí pro tlačítka mapy"
+
+#: shortcodes/vc-settings.php:413 shortcodes/vc-settings.php:503
+msgid "Buttons Text Color - Hover"
+msgstr "Tlačítka Barva textu - Umístění kurzoru myši"
+
+#: shortcodes/vc-settings.php:414
+msgid "Choose text hover color for map buttons"
+msgstr "Zvolte barvu pro pohyb mapy"
+
+#: shortcodes/vc-settings.php:420
+msgid "Loader Color"
+msgstr "nakladač barev"
+
+#: shortcodes/vc-settings.php:421
+msgid "Choose color for maps loader box"
+msgstr "Zvolte barvu pro načítání map"
+
+#: shortcodes/vc-settings.php:428
+msgid "Water Color"
+msgstr "vodové barvy"
+
+#: shortcodes/vc-settings.php:429
+msgid "Choose water color in map"
+msgstr "Vyberte barvu vody na mapě"
+
+#: shortcodes/vc-settings.php:430 shortcodes/vc-settings.php:437
+#: shortcodes/vc-settings.php:444 shortcodes/vc-settings.php:451
+#: shortcodes/vc-settings.php:458 shortcodes/vc-settings.php:465
+msgid "Map Colors"
+msgstr "Barvy mapy"
+
+#: shortcodes/vc-settings.php:435
+msgid "Fill Color"
+msgstr "Vyplň barvu"
+
+#: shortcodes/vc-settings.php:436
+msgid "Choose natural fill color in map"
+msgstr "Zvolte přirozené barvy na mapě"
+
+#: shortcodes/vc-settings.php:442
+msgid "Points of Interest Color"
+msgstr "Barva bodů zájmu"
+
+#: shortcodes/vc-settings.php:443
+msgid "Choose poi color in map"
+msgstr "Vyberte barvu poi na mapě"
+
+#: shortcodes/vc-settings.php:449
+msgid "Points of Interest Hue Color"
+msgstr "Body zájmu Hue Barva"
+
+#: shortcodes/vc-settings.php:450
+msgid "Choose poi hue color in map"
+msgstr "Vyberte barvu poi odstínu na mapě"
+
+#: shortcodes/vc-settings.php:456
+msgid "Road Lightness"
+msgstr "Silniční lehkost"
+
+#: shortcodes/vc-settings.php:457
+msgid "Choose road lightness in map, Default: 100"
+msgstr "Zvolte světlost silnice v mapě, výchozí: 100"
+
+#: shortcodes/vc-settings.php:463
+msgid "Lines Lightness"
+msgstr "Světlá linie"
+
+#: shortcodes/vc-settings.php:464
+msgid "Choose line lightness in map, Default: 700"
+msgstr "Zvolte linku v mapě, Výchozí hodnota: 700"
+
+#: shortcodes/vc-settings.php:471
+msgid "Background color for bottom buttons"
+msgstr "Barva pozadí pro spodní tlačítka"
+
+#: shortcodes/vc-settings.php:472 shortcodes/vc-settings.php:483
+#: shortcodes/vc-settings.php:494 shortcodes/vc-settings.php:505
+#: shortcodes/vc-settings.php:516
+msgid "Filter Options"
+msgstr "Možnosti filtru"
+
+#: shortcodes/vc-settings.php:482
+msgid "Text color for bottom buttons"
+msgstr "Barva textu pro spodní tlačítka"
+
+#: shortcodes/vc-settings.php:493
+msgid "Background color for bottom buttons on hover"
+msgstr "Barva pozadí pro spodní tlačítka na ukazateli myši"
+
+#: shortcodes/vc-settings.php:504
+msgid "Text color for bottom buttons on hover"
+msgstr "Barva textu pro dolní tlačítka na vznášedle"
+
+#: shortcodes/vc-settings.php:514
+msgid "Buttons Background Color - Active"
+msgstr "Tlačítka Barva pozadí - aktivní"
+
+#: shortcodes/vc-settings.php:515
+msgid "Background color for bottom buttons on active"
+msgstr "Barva pozadí pro spodní tlačítka aktivní"
+
+#: shortcodes/vc-settings.php:525
+msgid "Field Name for Icons"
+msgstr ""
+
+#: shortcodes/vc-settings.php:526
+#, fuzzy
+#| msgid ""
+#| "Provide meta key and value on each line to filter. Eg: property_status|"
+#| "normal"
+msgid "Provide field data name to filter icons by. Eg: property_type"
+msgstr ""
+"Na filtru poskytněte meta klíč a hodnotu na každém řádku. Např .: stav "
+"majetku | normální"
+
+#: shortcodes/vc-settings.php:527 shortcodes/vc-settings.php:534
+#: shortcodes/vc-settings.php:541 shortcodes/vc-settings.php:548
+#, fuzzy
+#| msgid "Custom Fields"
+msgid "Custom Icons"
+msgstr "Vlastní pole"
+
+#: shortcodes/vc-settings.php:532
+#, fuzzy
+#| msgid "Drag Icon URL"
+msgid "Icon URLs"
+msgstr "Ikona přetažení URL"
+
+#: shortcodes/vc-settings.php:533
+msgid ""
+"Provide meta value, static and hover icon urls seaprated with pipe sign. Eg: "
+"house|some_image.png|some_image_hover.png"
+msgstr ""
+
+#: shortcodes/vc-settings.php:539
+#, fuzzy
+#| msgid "Location Icon URL"
+msgid "My Location Icon Url"
+msgstr "Místo Icon URL"
+
+#: shortcodes/vc-settings.php:540
+msgid "Provide icon url for my location pin"
+msgstr ""
+
+#: shortcodes/vc-settings.php:546
+msgid "Circle Icon Url"
+msgstr ""
+
+#: shortcodes/vc-settings.php:547
+msgid "Provide icon url for multiple properties. Size 55x55"
+msgstr ""
+
+#: shortcodes/vc-settings.php:557
+msgid "Renders a form to search properties via AJAX"
+msgstr "Vytvoří formulář pro vyhledávání vlastností prostřednictvím AJAXu"
+
+#: shortcodes/vc-settings.php:562
+msgid "Check Fields to Display"
+msgstr "Zkontrolujte pole, které chcete zobrazit"
+
+#: shortcodes/vc-settings.php:563
+msgid "Check the required fields for search menu"
+msgstr "Zkontrolujte požadovaná pole pro nabídku hledání"
+
+#: shortcodes/vc-settings.php:570
+msgid "Choose number of fields in each row"
+msgstr "Zvolte počet polí v každém řádku"
+
+#: shortcodes/vc-settings.php:575
+msgid "6 Columns"
+msgstr "6 sloupců"
+
+#: shortcodes/vc-settings.php:581
+msgid "Search Button Title"
+msgstr "Tlačítko Hledat"
+
+#: shortcodes/vc-settings.php:582
+msgid "Provide text for search button"
+msgstr "Zadejte text pro vyhledávací tlačítko"
+
+#: shortcodes/vc-settings.php:587
+msgid "Filter Button Title"
+msgstr "Název tlačítka filtru"
+
+#: shortcodes/vc-settings.php:588
+msgid "Provide text for more filter button"
+msgstr "Zadejte text pro další tlačítko filtru"
+
+#: shortcodes/vc-settings.php:593
+msgid "Results Page"
+msgstr "Výsledky"
+
+#: shortcodes/vc-settings.php:594
+msgid ""
+"Provide url, it will disable AJAX search and will open up that page to "
+"display results. Make sure to paste shortcode [rem_search_results] on "
+"provided page to display results."
+msgstr ""
+"Uveďte adresu URL, zakáže vyhledávání AJAX a otevře stránku pro zobrazení "
+"výsledků. Ujistěte se, že jste vložili zkrácený kód [rem search_results] na "
+"zobrazené stránce, abyste zobrazili výsledky."
+
+#: shortcodes/vc-settings.php:599
+msgid "Form Target"
+msgstr "Form Target"
+
+#: shortcodes/vc-settings.php:600
+msgid "_blank if you want to open results in separate page"
+msgstr "_blank, pokud chcete otevřít výsledky na samostatné stránce"
+
+#: shortcodes/vc-settings.php:605
+msgid "Fixed Fields"
+msgstr "Pevná pole"
+
+#: shortcodes/vc-settings.php:606
+msgid "Provide data for fixed fields on each line. Eg: property_status|normal"
+msgstr ""
+"Poskytněte data pro pevná pole na každém řádku. Např .: stav majetku | "
+"normální"
+
+#: shortcodes/vc-settings.php:611
+msgid "Hard Coded Contents"
+msgstr "Tvrdý kódovaný obsah"
+
+#: shortcodes/vc-settings.php:612
+msgid "You can paste shortcode here to list some default properties"
+msgstr "Zde můžete vložit zkratku pro zobrazení některých výchozích vlastností"
+
+#: shortcodes/vc-settings.php:622
+msgid "Renders responsive carousel of properties"
+msgstr "Vykreslí reagující kolotoč vlastností"
+
+#: shortcodes/vc-settings.php:656
+msgid "Total Properties"
+msgstr "Celkové vlastnosti"
+
+#: shortcodes/vc-settings.php:657
+msgid "Provide total number of properties to show"
+msgstr "Zadejte celkový počet vlastností, které chcete zobrazit"
+
+#: shortcodes/vc-settings.php:669
+msgid "Provide tags each per line to display specific properties"
+msgstr "Zadejte značky na každý řádek a zobrazte konkrétní vlastnosti"
+
+#: shortcodes/vc-settings.php:675
+msgid "Provide IDs if you want to display specific properties, each per line"
+msgstr ""
+"Uveďte ID, pokud chcete zobrazit konkrétní vlastnosti, každý na jeden řádek"
+
+#: shortcodes/vc-settings.php:691
+msgid "Properties in Row"
+msgstr "Vlastnosti v řádku"
+
+#: shortcodes/vc-settings.php:692
+msgid "Provide number of properties you want to show at a time"
+msgstr "Uveďte počet vlastností, které chcete zobrazit najednou"
+
+#: shortcodes/vc-settings.php:698
+msgid "Properties to Scroll"
+msgstr "Vlastnosti pro posunutí"
+
+#: shortcodes/vc-settings.php:699
+msgid "Provide number of properties you want to scroll at a time"
+msgstr "Uveďte počet vlastností, které chcete posunout najednou"
+
+#: shortcodes/vc-settings.php:705
+msgid "Speed"
+msgstr "Rychlost"
+
+#: shortcodes/vc-settings.php:706
+msgid "Speed in ms Eg: 2000"
+msgstr "Rychlost v ms. Např .: 2000"
+
+#: shortcodes/vc-settings.php:712
+msgid "Auto Play"
+msgstr "Přehrát automaticky"
+
+#: shortcodes/vc-settings.php:713
+msgid "Enable to display auto rotation of properties"
+msgstr "Povolit zobrazení automatické rotace vlastností"
+
+#: shortcodes/vc-settings.php:723
+msgid "Auto Play Speed"
+msgstr "Rychlost automatického přehrávání"
+
+#: shortcodes/vc-settings.php:724
+msgid "Auto play speed in ms Eg: 2000"
+msgstr "Rychlost automatického přehrávání v ms Např .: 2000"
+
+#: shortcodes/vc-settings.php:730
+msgid "Arrows"
+msgstr "Šipky"
+
+#: shortcodes/vc-settings.php:731
+msgid "Enable to display arrows for navigation"
+msgstr "Aktivovat zobrazení šipek pro navigaci"
+
+#: shortcodes/vc-settings.php:741
+msgid "Dots"
+msgstr "Tečky"
+
+#: shortcodes/vc-settings.php:742
+msgid "Enable to display bottom dots for navigation"
+msgstr "Aktivovat zobrazení spodních teček pro navigaci"
+
+#: templates/property/style6.php:31
+msgid "Detail"
+msgstr "Detail"
+
+#. Plugin Name of the plugin/theme
+msgid "Real Estate Manager Pro"
+msgstr "Realitní manažer Pro"
+
+#. Plugin URI of the plugin/theme
+msgid "https://webcodingplace.com/real-estate-manager-wordpress-plugin/"
+msgstr "https://webcodingplace.com/real-estate-manager-wordpress-plugin/"
+
+#. Description of the plugin/theme
+msgid "A complete solution for real estate management"
+msgstr "Kompletní řešení pro správu nemovitostí"
+
+#. Author of the plugin/theme
+msgid "WebCodingPlace"
+msgstr "WebCodingPlace"
+
+#. Author URI of the plugin/theme
+msgid "https://webcodingplace.com/"
+msgstr "https://webcodingplace.com/"
+
+#~ msgid "Property scheduled for: <strong>%1$s</strong>."
+#~ msgstr "Vlastnost naplánovaná pro"
+
+#~ msgid ""
+#~ "Provide custom url for agent profile, write disable to hide info icon"
+#~ msgstr ""
+#~ "Zadejte vlastní adresu URL pro profil agenta, vypněte zapisování a "
+#~ "skryjte ikonu info"
+
+#~ msgid "Inline"
+#~ msgstr "Vřazený"
+
+#~ msgid "Box Style 1"
+#~ msgstr "Box Style 1"
+
+#~ msgid "Box Style 2"
+#~ msgstr "Box Style 2"
+
+#~ msgid "Box Style 3"
+#~ msgstr "Box Style 3"
+
+#~ msgid "Box Style 4"
+#~ msgstr "Box Style 4"
+
+#~ msgid "Each skill per line with value"
+#~ msgstr "Každá dovednost na řádku s hodnotou"
+
+#~ msgid "Social Networks"
+#~ msgstr "Sociální sítě"
+
+#~ msgid "Tagline"
+#~ msgstr "fb"
+
+#~ msgid "Facebook URL"
+#~ msgstr "Facebook URL"
+
+#~ msgid "Twitter URL"
+#~ msgstr "Twitter URL"
+
+#~ msgid "Google+ URL"
+#~ msgstr "URL Google+"
+
+#~ msgid "LinkedIn URL"
+#~ msgstr "LinkedIn URL"
+
+#~ msgid "List"
+#~ msgstr "Seznam"
+
+#~ msgid "Grid 1"
+#~ msgstr "Mřížka 1"
+
+#~ msgid "Grid 2"
+#~ msgstr "Mřížka 2"
+
+#~ msgid "Grid 3"
+#~ msgstr "Mřížka 3"
+
+#~ msgid "Grid 4"
+#~ msgstr "Mřížka 4"
