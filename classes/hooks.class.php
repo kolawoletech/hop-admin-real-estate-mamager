@@ -470,74 +470,7 @@ class REM_Hooks
         }
     }
 
-    function single_property_map($property_id){
-        $title    = rem_get_option('single_property_maps_text', __( 'Find on Map', 'real-estate-manager' ));
 
-        $latitude = get_post_meta($property_id, 'rem_property_latitude', true);
-        $longitude = get_post_meta($property_id, 'rem_property_longitude', true);
-        $address = get_post_meta($property_id, 'rem_property_address', true);
-        $zoom = rem_get_option( 'maps_zoom_level', 10);
-        $map_type = rem_get_option( 'maps_type', 'roadmap');
-        $maps_api = apply_filters( 'rem_maps_api', 'AIzaSyBbpbij9IIXGftKhFLMHOuTpAbFoTU_8ZQ');
-        $maps_icon_url = apply_filters( 'rem_maps_location_icon', REM_URL . '/assets/images/pin-maps.png' );
-        $load_map_from = ($latitude == '' || $longitude == '') ? 'address' : 'coords' ;
-        
-        if (1) { ?>
-            <div class="section-title line-style">
-                <h3 class="title"><?php echo $title; ?></h3>
-            </div>
-            <div class="map-container" id="map-canvas"></div>
-            <?php
-                if (is_ssl()) { ?>
-                    <script src="https://maps.googleapis.com/maps/api/js?key=<?php echo $maps_api; ?>"></script>
-                <?php } else { ?>
-                    <script src="http://maps.googleapis.com/maps/api/js?key=<?php echo $maps_api; ?>"></script>
-                <?php }
-            ?>            
-            <script>
-                function initialize() {
-                    var lat = '<?php echo $latitude; ?>';
-                    var lon = '<?php echo $longitude; ?>';
-                    var zoom = <?php echo intval($zoom); ?>;
-                    var map_type = '<?php echo $map_type; ?>';
-                    var load_map_from = '<?php echo $load_map_from; ?>';
-                    var myLatLng = new google.maps.LatLng(lat, lon);
-                    var mapProp = {
-                        center:myLatLng,
-                        zoom: zoom,
-                        mapTypeId: map_type
-                    };
-
-                    var map=new google.maps.Map(document.getElementById("map-canvas"),mapProp);
-                    var image = '<?php echo $maps_icon_url; ?>';
-                    var beachMarker = new google.maps.Marker({
-                        position: myLatLng,
-                        map: map,
-                        icon: image
-                    });
-                    
-                    if (load_map_from == 'address') {
-                        var geocoder = new google.maps.Geocoder();
-                        var address = '<?php echo $address; ?>';
-                        geocoder.geocode({'address': address}, function(results, status) {
-                            if (status === 'OK') {
-                                map.setCenter(results[0].geometry.location);
-                                var marker = new google.maps.Marker({
-                                    map: map,
-                                    position: results[0].geometry.location,
-                                    icon: image
-                                });
-                            } else {
-                                alert('Unable to load map because : ' + status);
-                            }
-                        });
-                    }
-                }
-                    google.maps.event.addDomListener(window, 'load', initialize);
-            </script>
-        
-        <?php }
-    }
 
     function single_property_details($property_id){
         $title = rem_get_option('single_property_details_text', __( 'Details', 'real-estate-manager' ) );
