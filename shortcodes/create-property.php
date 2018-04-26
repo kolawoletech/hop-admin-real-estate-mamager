@@ -29,7 +29,7 @@ $maps_api = apply_filters( 'rem_maps_api', 'AIzaSyBbpbij9IIXGftKhFLMHOuTpAbFoTU_
 					</div>
 					<div class="info-block" id="summary">
 						<div class="section-title line-style">
-							<h3 class="title"><?php _e( 'Summary', 'real-estate-manager' ); ?></h3>
+							<h3 class="title"><?php _e( 'Additional Information', 'real-estate-manager' ); ?></h3>
 						</div>
 
 						<div class="row">

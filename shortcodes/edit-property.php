@@ -43,7 +43,7 @@ $p_tags = wp_get_post_terms( $_GET['property_id'] ,'rem_property_tag' );
 					</div>
 					<div class="info-block" id="summary">
 						<div class="section-title line-style">
-							<h3 class="title"><?php _e( 'Summary', 'real-estate-manager' ); ?></h3>
+							<h3 class="title"><?php _e( 'Additional Information', 'real-estate-manager' ); ?></h3>
 						</div>
 
 						<div class="row">
